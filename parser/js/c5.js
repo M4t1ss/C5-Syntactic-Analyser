@@ -3,22 +3,18 @@
 var c5 = function(_s,target,features){
     var targets = _.unique(_s.pluck(target));
     if (targets.length == 1){
-	console.log("end node "+targets[0]);
 	return {type:"result", val: targets[0], name: targets[0],alias:targets[0]+randomTag() }; 
     }
     if(features.length == 0){
-	console.log("returning the most dominate feature");
 	var topTarget = mostCommon(targets);
 	return {type:"result", val: topTarget, name: topTarget, alias: topTarget+randomTag()};
     }
     var bestFeature = maxGain(_s,target,features);
     var remainingFeatures = _.without(features,bestFeature);
     var possibleValues = _.unique(_s.pluck(bestFeature));
-    console.log("node for "+bestFeature);
     var node = {name: bestFeature,alias: bestFeature+randomTag()};
     node.type = "feature";
     node.vals = _.map(possibleValues,function(v){
-	console.log("creating a branch for "+v);
 	var _newS = _(_s.filter(function(x) {return x[bestFeature] == v}));
 	var child_node = {name:v,alias:v+randomTag(),type: "feature_value"};
 	child_node.child =  c5(_newS,target,remainingFeatures);
@@ -31,11 +27,17 @@ var c5 = function(_s,target,features){
 var predict = function(c5Model,sample) {
     var root = c5Model;
     while(root.type != "result"){
-	var attr = root.name;
-	var sampleVal = sample[attr];
-	var childNode = _.detect(root.vals,function(x){return x.name == sampleVal});
-	root = childNode.child;
+		var attr = root.name;
+		var sampleVal = sample[attr];
+		var childNode = _.detect(root.vals,function(x){return x.name == sampleVal});
+		// console.log(sampleVal);
+		// console.log(childNode);
+		// console.log(childNode.child.type);
+		root = childNode.child;
     }
+	console.log(JSON.stringify(c5Model));
+	// console.log(JSON.stringify(sample));
+	// console.log(root.val);
     return root.val;
 }
 
@@ -63,6 +65,7 @@ var gain = function(_s,target,feature){
 }
 
 var maxGain = function(_s,target,features){
+	//console.log(target+" - "+(_.max(features,function(e){return gain(_s,target,e)})));
     return _.max(features,function(e){return gain(_s,target,e)});
 }
 
@@ -135,13 +138,13 @@ var addEdges = function(node,g){
 var renderSamples = function(samples,$el,model,target,features){
     _.each(samples,function(s){
 	var features_for_sample = _.map(features,function(x){return s[x]});
-	$el.append("<tr><td>"+features_for_sample.join('</td><td>')+"</td><td><b>"+predict(model,s)+"</b></td><td>actual: "+s[target]+"</td></tr>");
+	$el.append("<tr><td style='min-width:60px;'>&nbsp;"+features_for_sample.join('</td><td style="min-width:60px;">&nbsp;')+"</td><td><b>"+predict(model,s)+"</b></td></tr>");
     })
 }
 
 var renderTrainingData = function(_training,$el,target,features){
     _training.each(function(s){
-	$el.append("<tr><td>"+_.map(features,function(x){return s[x]}).join('</td><td>')+"</td><td>"+s[target]+"</td></tr>");
+	$el.append("<tr><td style='min-width:60px;'>&nbsp;"+_.map(features,function(x){return s[x]}).join('</td><td style="min-width:60px;">&nbsp;')+"</td><td>"+s[target]+"</td></tr>");
     })
 }
 

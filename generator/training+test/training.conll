@@ -1,0 +1,4954 @@
+1	Zēns	zēns	n	n_msn_	_	2	_	_	_
+2	gāja	iet	v	vm_is__30__	_	5	_	_	_
+3	uz	uz	s	spsay	_	2	_	_	_
+4	skolu	skola	n	n_fsa_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Meitene	meitene	n	n_fsn_	_	2	_	_	_
+2	ņēma	ņemt	v	vm_is__30__	_	4	_	_	_
+3	ābolu	ābols	n	n_msa_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Vasarā	vasara	n	n_fsl_	_	3	_	_	_
+2	zēns	zēns	n	n_msn_	_	3	_	_	_
+3	gāja	iet	v	vm_is__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Skaists	skaists	a	a_msn__	_	2	_	_	_
+2	zēns	zēns	n	n_msn_	_	3	_	_	_
+3	gāja	iet	v	vm_is__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Zēns	zēns	n	n_msn_	_	3	_	_	_
+2	ātri	ātri	r	r__	_	3	_	_	_
+3	gāja	iet	v	vm_is__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Zēns	zēns	n	n_msn_	_	2	_	_	_
+2	un	un	c	cc_	_	5	_	_	_
+3	miegainā	miegains	a	a_fsn__	_	4	_	_	_
+4	meitene	meitene	n	n_fsn_	_	2	_	_	_
+5	gāja	iet	v	vm_is__30__	_	8	_	_	_
+6	uz	uz	s	spsay	_	5	_	_	_
+7	skolu	skola	n	n_fsa_	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Zēns	zēns	n	n_msn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	11	_	_	_
+3	gājis	iet	v	vm_pdmsn_s_	_	2	_	_	_
+4	uz	uz	s	spsay	_	2	_	_	_
+5	skolu	skola	n	n_fsa_	_	4	_	_	_
+6	laikā	laiks	n	n_msl_	_	2	_	_	_
+7	,	,	z	zc	_	6	_	_	_
+8	kad	kad	r	r__	_	9	_	_	_
+9	dzīvoja	dzīvot	v	vm_is__30__	_	7	_	_	_
+10	pilsētā	pilsēta	n	n_fsl_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Mani	mans	p	p_10pn_	_	3	_	_	_
+2	brāļi	brālis	n	n_mpn_	_	3	_	_	_
+3	un	un	c	cc_	_	5	_	_	_
+4	māsas	māsa	n	n_fpn_	_	3	_	_	_
+5	guļ	gulēt	v	vm_ip__30__	_	9	_	_	_
+6	,	,	z	zc	_	5	_	_	_
+7	skaļi	skaļi	r	r__	_	8	_	_	_
+8	krākdami	krākt	v	vm_ppmpn_p_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Vakaros	vakars	n	n_mpl_	_	5	_	_	_
+2	ūdens	ūdens	n	n_msn_	_	3	_	_	_
+3	ir	būt	v	vc_ip__30__	_	5	_	_	_
+4	silts	silts	a	a_msn__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Zēns	zēns	n	n_msn_	_	2	_	_	_
+2	iet	iet	v	vm_ip__30__	_	6	_	_	_
+3	uz	uz	s	spsay	_	2	_	_	_
+4	skolu	skola	n	n_fsa_	_	3	_	_	_
+5	,	,	z	zc	_	6	_	_	_
+6	bet	bet	c	cc_	_	16	_	_	_
+7	meitene	meitene	n	n_fsn_	_	8	_	_	_
+8	paliek	palikt	v	vm_ip__30__	_	6	_	_	_
+9	mājās	māja	n	n_fpl_	_	8	_	_	_
+10	,	,	z	zc	_	8	_	_	_
+11	skatīdamās	skatīties	v	vm_ppfsn_p_	_	10	_	_	_
+12	,	,	z	zc	_	11	_	_	_
+13	kā	kā	r	r__	_	15	_	_	_
+14	viņš	viņš	p	p_3msn_	_	15	_	_	_
+15	aiziet	aiziet	v	vm_ip__30__	_	12	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	Vakaros	vakars	n	n_mpl_	_	7	_	_	_
+2	zēns	zēns	n	n_msn_	_	3	_	_	_
+3	iet	iet	v	vm_ip__30__	_	7	_	_	_
+4	uz	uz	s	spsay	_	3	_	_	_
+5	kino	kino	n	n__sa_	_	4	_	_	_
+6	,	,	z	zc	_	7	_	_	_
+7	bet	bet	c	cc_	_	13	_	_	_
+8	meitene	meitene	n	n_fsn_	_	9	_	_	_
+9	brauc	braukt	v	vm_ip__30__	_	7	_	_	_
+10	ar	ar	s	spsan	_	9	_	_	_
+11	divriteni	divritenis	n	n_msa_	_	10	_	_	_
+12	,	,	z	zc	_	13	_	_	_
+13	taču	taču	c	cc_	_	17	_	_	_
+14	pusdienlaikos	pusdienlaiks	n	n_mpl_	_	16	_	_	_
+15	viņi	viņš	p	p_3mpn_	_	16	_	_	_
+16	satiekas	satikties	v	vm_ip__30__	_	13	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Ziemās	ziema	n	n_fpl_	_	2	_	_	_
+2	snieg	snigt	v	vm_ip__30__	_	4	_	_	_
+3	,	,	z	zc	_	4	_	_	_
+4	bet	bet	c	cc_	_	12	_	_	_
+5	vasarās	vasara	n	n_fpl_	_	6	_	_	_
+6	līst	līt	v	vm_ip__30__	_	4	_	_	_
+7	,	,	z	zc	_	8	_	_	_
+8	jo	jo	c	cs_	_	6	_	_	_
+9	vasarās	vasara	n	n_fpl_	_	8	_	_	_
+10	ir	būt	v	vc_ip__30__	_	8	_	_	_
+11	silti	silti	r	r__	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Ak	ak	i	i_	_	2	_	_	_
+2	!	!	z	zs	_	0	_	_	_
+
+1	Vai	Vai	i	i_	_	2	_	_	_
+2	,	,	z	zc	_	10	_	_	_
+3	zēns	zēns	n	n_msn_	_	4	_	_	_
+4	paņēma	paņemt	v	vm_is__30__	_	10	_	_	_
+5	manu	mans	p	p_0msa_	_	6	_	_	_
+6	"	"	z	zq	_	4	_	_	_
+7	Mājas	māja	n	n_fsg_	_	8	_	_	_
+8	Viesi	viesis	n	n_msa_	_	6	_	_	_
+9	"	"	z	zq	_	6	_	_	_
+10	...	...	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	teica	teikt	v	vm_is__30__	_	0	_	_	_
+3	:	:	z	zo	_	2	_	_	_
+4	"	"	z	zq	_	3	_	_	_
+5	Iesim	iet	v	vm_if__1p__	_	6	_	_	_
+6	.	.	z	zs	_	3	_	_	_
+7	"	"	z	zq	_	3	_	_	_
+
+1	"	"	z	zq	_	11	_	_	_
+2	Nē	nē	q	q_	_	3	_	_	_
+3	,	,	z	zc	_	8	_	_	_
+4	šonakt	šonakt	r	r__	_	6	_	_	_
+5	labāk	labi	r	r__	_	6	_	_	_
+6	paliksim	palikt	v	vm_if__1p__	_	8	_	_	_
+7	tepat	tepat	r	r__	_	6	_	_	_
+8	,	,	z	zc	_	1	_	_	_
+9	"	"	z	zq	_	1	_	_	_
+10	viņš	viņš	p	p_3msn_	_	11	_	_	_
+11	nepiekrita	nepiekrist	v	vm_is__30__	_	12	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	"	"	z	zq	_	6	_	_	_
+2	Mēs	mēs	p	p_10pn_	_	10	_	_	_
+3	,	,	z	zc	_	7	_	_	_
+4	"	"	z	zq	_	1	_	_	_
+5	viņš	viņš	p	p_3msn_	_	6	_	_	_
+6	turpināja	turpināt	v	vm_is__30__	_	7	_	_	_
+7	,	,	z	zc	_	0	_	_	_
+8	"	"	z	zq	_	1	_	_	_
+9	nu	nu	r	r__	_	10	_	_	_
+10	iesim	iet	v	vm_if__1p__	_	13	_	_	_
+11	mājās	māja	n	n_fpl_	_	10	_	_	_
+12	,	,	z	zc	_	13	_	_	_
+13	lai_gan	lai_gan	c	cs_	_	20	_	_	_
+14	,	,	z	zc	_	18	_	_	_
+15	Maija	Maija	n	n_fsv_	_	14	_	_	_
+16	,	,	z	zc	_	14	_	_	_
+17	tu	tu	p	p_20sn_	_	18	_	_	_
+18	vari	varēt	v	vo_ip__2s__	_	13	_	_	_
+19	palikt	palikt	v	vm_n0__00__	_	18	_	_	_
+20	.	.	z	zs	_	1	_	_	_
+21	"	"	z	zq	_	1	_	_	_
+
+1	Anna	Anna	n	n_fsn_	_	13	_	_	_
+2	nomurmināja	nomurmināt	v	vm_is__30__	_	13	_	_	_
+3	:	:	z	zo	_	2	_	_	_
+4	"	"	z	zq	_	3	_	_	_
+5	Gan_jau	gan_jau	q	q_	_	8	_	_	_
+6	būs	būt	v	vc_if__30__	_	8	_	_	_
+7	labi	labi	r	r__	_	6	_	_	_
+8	!	!	z	zs	_	3	_	_	_
+9	Rīt	rīt	r	r__	_	11	_	_	_
+10	skaidrosies	skaidroties	v	vm_if__30__	_	11	_	_	_
+11	,	,	z	zc	_	3	_	_	_
+12	"	"	z	zq	_	3	_	_	_
+13	un	un	c	cc_	_	16	_	_	_
+14	turpināja	turpināt	v	vp_is__30__	_	13	_	_	_
+15	adīt	adīt	v	vm_n0__00__	_	14	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	17:40	17:40	x	xn	_	9	_	_	_
+2	bioķīmiķis	bioķīmiķis	n	n_msn_	_	9	_	_	_
+3	Kārlis	Kārlis	n	n_msn_	_	2	_	_	_
+4	fon	fon	x	xf	_	3	_	_	_
+5	Kabacis	Kabacis	n	n_msn_	_	3	_	_	_
+6	paņēma	paņemt	v	vm_is__30__	_	9	_	_	_
+7	17.	17.	x	xo	_	8	_	_	_
+8	atslēgu	atslēga	n	n_fsa_	_	6	_	_	_
+9	un	un	c	cc_	_	17	_	_	_
+10	izņēma	izņemt	v	vm_is__30__	_	9	_	_	_
+11	no	no	s	spsgy	_	10	_	_	_
+12	skapīša	skapītis	n	n_msg_	_	11	_	_	_
+13	15,7	15,7	x	xn	_	14	_	_	_
+14	miligramus	miligrams	n	n_mpa_	_	10	_	_	_
+15	reakcijas	reakcija	n	n_fsg_	_	16	_	_	_
+16	katalizatora	katalizators	n	n_msg_	_	14	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	12	_	_	_
+2	,	,	z	zc	_	1	_	_	_
+3	kas	kas	p	p_000n_	_	5	_	_	_
+4	pērn	pērn	r	r__	_	5	_	_	_
+5	noslimoja	noslimot	v	vm_is__30__	_	2	_	_	_
+6	visu	viss	n	n_mpg_	_	8	_	_	_
+7	ziemu	ziema	n	n_fsa_	_	8	_	_	_
+8	,	,	z	zc	_	5	_	_	_
+9	pavasari	pavasaris	n	n_msa_	_	8	_	_	_
+10	,	,	z	zc	_	2	_	_	_
+11	labi	labi	r	r__	_	12	_	_	_
+12	tiek	tikt	v	vt_ip__30__	_	16	_	_	_
+13	klasei	klase	n	n_fsd_	_	14	_	_	_
+14	līdzi	līdzi	r	rr_	_	12	_	_	_
+15	mācībās	mācība	n	n_fpl_	_	12	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	Ja	ja	c	cs_	_	4	_	_	_
+2	rīt	rīt	r	r__	_	14	_	_	_
+3	nelīs	nelīt	v	vm_if__30__	_	1	_	_	_
+4	un	un	c	cc_	_	14	_	_	_
+5	ja	ja	c	cs_	_	4	_	_	_
+6	Jānis	Jānis	n	n_msn_	_	7	_	_	_
+7	būs	būt	v	vc_if__30__	_	5	_	_	_
+8	atgriezies	atgriezties	v	vm_pdmsn_s_	_	7	_	_	_
+9	,	,	z	zc	_	5	_	_	_
+10	mēs	mēs	p	p_10pn_	_	11	_	_	_
+11	rīkosim	rīkot	v	vm_if__1p__	_	14	_	_	_
+12	balli	balle	n	n_fsa_	_	11	_	_	_
+13	dārzā	dārzs	n	n_msl_	_	11	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	"	"	z	zq	_	13	_	_	_
+2	Čārlza	Čārlzs	n	n_msg_	_	3	_	_	_
+3	Cukini	cukini	n	n_____	_	5	_	_	_
+4	gurķu	gurķis	n	n_mpg_	_	5	_	_	_
+5	kantoris	kantoris	n	n_msn_	_	1	_	_	_
+6	"	"	z	zq	_	1	_	_	_
+7	(	(	z	zb	_	1	_	_	_
+8	turpmāk	turpmāk	r	r__	_	10	_	_	_
+9	tekstā	teksts	n	n_msl_	_	10	_	_	_
+10	-	-	z	zd	_	7	_	_	_
+11	ČCGK	ČCGK	y	y	_	10	_	_	_
+12	)	)	z	zb	_	7	_	_	_
+13	pārtrauc	pārtraukt	v	vm_ip__30__	_	17	_	_	_
+14	matraču	matracis	n	n_mpg_	_	15	_	_	_
+15	ražošanu	ražošana	n	n_fsa_	_	13	_	_	_
+16	,	,	z	zc	_	17	_	_	_
+17	savukārt	savukārt	r	r__	_	22	_	_	_
+18	šokolādes	šokolāde	n	n_fsg_	_	19	_	_	_
+19	fabrika	fabrika	n	n_fsn_	_	20	_	_	_
+20	-	-	z	zd	_	17	_	_	_
+21	zefīra	zefīrs	n	n_msg_	_	20	_	_	_
+22	.	.	z	zs	_	0	_	_	_
+
+1	Juris	Juris	n	n_msn_	_	2	_	_	_
+2	-	-	z	zd	_	6	_	_	_
+3	ČCGK	ČCGK	y	y	_	5	_	_	_
+4	labākais	labākais	a	a_msn__	_	5	_	_	_
+5	konditors	konditors	n	n_msn_	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Debesis	debess	n	n_fpn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	12	_	_	_
+3	tik	tik	r	r__	_	4	_	_	_
+4	zilas	zila	a	a_fpn__	_	2	_	_	_
+5	(	(	z	zb	_	12	_	_	_
+6	kuru	kurš	p	p_0msa_	_	9	_	_	_
+7	gan	gan	q	q_	_	10	_	_	_
+8	tas	tas	p	p_3msn_	_	9	_	_	_
+9	interesē	interesēt	v	vm_ip__30__	_	10	_	_	_
+10	?	?	z	zs	_	5	_	_	_
+11	)	)	z	zb	_	5	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Mēs	mēs	p	p_10pn_	_	2	_	_	_
+2	zinām	zināt	v	vm_ip__1p__	_	5	_	_	_
+3	,	,	z	zc	_	2	_	_	_
+4	kā	kā	r	r__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Līst	līt	v	vm_n0__00__	_	2	_	_	_
+2	.	.	z	zs	_	0	_	_	_
+
+1	Paldies	paldies	i	i_	_	4	_	_	_
+2	par	par	s	sppdn	_	1	_	_	_
+3	ogām	oga	n	n_fpd_	_	2	_	_	_
+4	!	!	z	zs	_	0	_	_	_
+
+1	Tādas	tāda	p	p_0fpn_	_	2	_	_	_
+2	sēnes	sēne	n	n_fpn_	_	3	_	_	_
+3	kā	kā	c	cs_	_	9	_	_	_
+4	gailenes	gailene	n	n_fpn_	_	5	_	_	_
+5	,	,	z	zc	_	3	_	_	_
+6	baravikas	baravika	n	n_fpn_	_	7	_	_	_
+7	un	un	c	cc_	_	5	_	_	_
+8	bērzlapes	bērzlape	n	n_fpn_	_	7	_	_	_
+9	ir	būt	v	vc_ip__30__	_	11	_	_	_
+10	ēdamas	ēst	v	vm_pdfpn_p_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Bērnam	bērns	n	n_msd_	_	2	_	_	_
+2	var	varēt	v	vo_ip__30__	_	9	_	_	_
+3	dot	dot	v	vm_n0__00__	_	2	_	_	_
+4	ne	ne	q	q_	_	5	_	_	_
+5	vairāk	daudz	r	r__	_	6	_	_	_
+6	kā	kā	c	cs_	_	7	_	_	_
+7	divus	divi	m	m__mpa_	_	8	_	_	_
+8	vārdus	vārds	n	n_mpa_	_	2	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Spēle	spēle	n	n_fsn_	_	2	_	_	_
+2	noslēdzās	noslēgties	v	vm_is__30__	_	8	_	_	_
+3	ar	ar	s	spsan	_	2	_	_	_
+4	vairāk	daudz	r	r__	_	6	_	_	_
+5	nekā	nekā	c	cs_	_	4	_	_	_
+6	pārliecinošu	pārliecināt	v	vm_pdfsa_p_	_	7	_	_	_
+7	uzvaru	uzvara	n	n_fsa_	_	3	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Latvijā	Latvija	n	n_fsl_	_	7	_	_	_
+2	vairāk	daudz	r	r__	_	3	_	_	_
+3	nekā	nekā	c	cs_	_	1	_	_	_
+4	jebkur	jebkur	r	r__	_	5	_	_	_
+5	citur	citur	r	r__	_	3	_	_	_
+6	ļaudis	ļaudis	n	n_mdn_	_	7	_	_	_
+7	mīl	mīlēt	v	vm_ip__30__	_	10	_	_	_
+8	labi	labi	r	r__	_	9	_	_	_
+9	paēst	paēst	v	vm_n0__00__	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	esmu	būt	v	vc_ip__1s__	_	5	_	_	_
+3	kļuvusi	kļūt	v	vt_pdfsn_s_	_	2	_	_	_
+4	veca	vecs	a	a_fsn__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	2	_	_	_
+2	negrib	negribēt	v	vo_ip__30__	_	5	_	_	_
+3	kļūt	kļūt	v	vt_n0__00__	_	2	_	_	_
+4	vecs	vecs	a	a_msn__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Dzīvnieks	dzīvnieks	n	n_msn_	_	2	_	_	_
+2	bija	būt	v	vc_is__30__	_	6	_	_	_
+3	mazs	mazs	a	a_msn__	_	4	_	_	_
+4	un	un	c	cc_	_	2	_	_	_
+5	slimīgs	slimīgs	a	a_msn__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	5	_	_	_
+2	ir	būt	v	vm_ip__30__	_	5	_	_	_
+3	skaista	skaists	a	a_fsn__	_	4	_	_	_
+4	māja	māja	n	n_fsn_	_	2	_	_	_
+5	un	un	c	cc_	_	10	_	_	_
+6	kādreiz	kādreiz	r	r__	_	7	_	_	_
+7	piederēs	piederēt	v	vm_if__30__	_	5	_	_	_
+8	arī	arī	q	q_	_	7	_	_	_
+9	suns	suns	n	n_msn_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	3	_	_	_
+2	salst	salt	v	vm_ip__30__	_	3	_	_	_
+3	.	.	z	zs	_	0	_	_	_
+
+1	Saulei	saule	n	n_fsd_	_	2	_	_	_
+2	austot	aust	v	vm_pu000_0_	_	3	_	_	_
+3	,	,	z	zc	_	7	_	_	_
+4	putni	putns	n	n_mpn_	_	5	_	_	_
+5	sāka	sākt	v	vp_is__30__	_	7	_	_	_
+6	čivināt	čivināt	v	vm_n0__00__	_	5	_	_	_
+7	un	un	c	cc_	_	10	_	_	_
+8	kļuva	kļūt	v	vc_is__30__	_	7	_	_	_
+9	siltāks	silts	a	a_msn__	_	8	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Pa	pa	s	spsay	_	13	_	_	_
+2	ielu	iela	n	n_fsa_	_	1	_	_	_
+3	,	,	z	zc	_	8	_	_	_
+4	skaņu	skaņa	n	n_fpg_	_	5	_	_	_
+5	signāliem	signāls	n	n_mpd_	_	7	_	_	_
+6	griezīgi	griezīgi	r	r__	_	7	_	_	_
+7	kaucot	kaukt	v	vm_pu000_0_	_	3	_	_	_
+8	un	un	c	cc_	_	13	_	_	_
+9	zibinot	zibināt	v	vm_pu000_0_	_	12	_	_	_
+10	oranžas	oranža	a	a_fpa__	_	11	_	_	_
+11	bākugunis	bākuguns	n	n_fpa_	_	9	_	_	_
+12	,	,	z	zc	_	8	_	_	_
+13	traucas	traukties	v	vm_ip__30__	_	17	_	_	_
+14	ātrās	ātra	a	a_fsg__	_	15	_	_	_
+15	palīdzības	palīdzība	n	n_fsg_	_	16	_	_	_
+16	mašīna	mašīna	n	n_fsn_	_	13	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Aptaustījis	aptaustīt	v	vm_pdmsn_s_	_	2	_	_	_
+2	un	un	c	cc_	_	5	_	_	_
+3	apostījis	apostīt	v	vm_pdmsn_s_	_	2	_	_	_
+4	maisiņu	maisiņš	n	n_msa_	_	2	_	_	_
+5	,	,	z	zc	_	8	_	_	_
+6	pērtiķis	pērtiķis	n	n_msn_	_	8	_	_	_
+7	to	tas	p	p_3msa_	_	8	_	_	_
+8	atvēra	atvērt	v	vm_is__30__	_	9	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	4	_	_	_
+2	jāiet	iet	v	vm_d0__00__	_	4	_	_	_
+3	prom	prom	r	r__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Laukā	laukā	r	r__	_	3	_	_	_
+2	temperatūra	temperatūra	n	n_fsn_	_	3	_	_	_
+3	ir	būt	v	vc_ip__30__	_	6	_	_	_
+4	ap	ap	s	spsay	_	3	_	_	_
+5	nulli	nulle	n	n_fsa_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Par	par	s	spsan	_	5	_	_	_
+2	ko	kas	p	p_000a_	_	1	_	_	_
+3	man	es	p	p_10sd_	_	6	_	_	_
+4	tas	tas	p	p_3msn_	_	5	_	_	_
+5	ir	būt	v	vm_ip__30__	_	6	_	_	_
+6	,	,	z	zc	_	8	_	_	_
+7	es	es	p	p_10sn_	_	8	_	_	_
+8	domāju	domāt	v	vm_ip__1s__	_	12	_	_	_
+9	,	,	z	zc	_	8	_	_	_
+10	par	par	s	spsan	_	9	_	_	_
+11	ko	kas	p	p_000a_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	9	_	_	_
+2	ienāca	ienākt	v	vm_is__30__	_	9	_	_	_
+3	prātā	prāts	n	n_msl_	_	2	_	_	_
+4	,	,	z	zc	_	5	_	_	_
+5	ka	ka	c	cs_	_	2	_	_	_
+6	vajag	vajadzēt	v	vo_ip__30__	_	5	_	_	_
+7	nopirkt	nopirkt	v	vm_n0__00__	_	6	_	_	_
+8	sodu	soda	n	n_fsa_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Pasniedzējs	pasniedzējs	n	n_msn_	_	2	_	_	_
+2	likās	likties	v	vm_is__30__	_	5	_	_	_
+3	gudrs	gudrs	a	a_msn__	_	2	_	_	_
+4	esam	būt	v	vc_pu000_0_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	No	no	s	spsgy	_	4	_	_	_
+2	tādas	tāda	p	p_0fsg_	_	3	_	_	_
+3	situācijas	situācija	n	n_fsg_	_	1	_	_	_
+4	nav	nebūt	v	vm_ip__30__	_	7	_	_	_
+5	ko	kas	p	p_000a_	_	4	_	_	_
+6	gaidīt	gaidīt	v	vm_n0__00__	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Ar	ar	s	spsan	_	4	_	_	_
+2	Balvi	Balvis	n	n_msa_	_	1	_	_	_
+3	vismaz	vismaz	r	r__	_	4	_	_	_
+4	nebija	nebūt	v	vc_is__30__	_	6	_	_	_
+5	garlaicīgi	garlaicīgi	r	r__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Vēlāk	vēlāk	r	r__	_	3	_	_	_
+2	Sofija	Sofija	n	n_fsn_	_	3	_	_	_
+3	ieguva	iegūt	v	vm_is__30__	_	9	_	_	_
+4	pundurpapagailīšus	pundurpapagailītis	n	n_mpa_	_	3	_	_	_
+5	vārdā	vārds	n	n_msl_	_	4	_	_	_
+6	Smits	Smits	n	n_msn_	_	7	_	_	_
+7	un	un	c	cc_	_	5	_	_	_
+8	Smulē	Smulē	n	n_msn_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Meiteni	meitene	n	n_fsa_	_	3	_	_	_
+2	grāmatā	grāmata	n	n_fsl_	_	3	_	_	_
+3	sauc	saukt	v	vm_ip__30__	_	5	_	_	_
+4	Emīlija	Emīlija	n	n_fsn_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	dzīvoju	dzīvot	v	vm_is__1s__	_	7	_	_	_
+3	laukos	lauks	n	n_mpl_	_	2	_	_	_
+4	desmit	desmit	m	m__0p0_	_	5	_	_	_
+5	gadus	gads	n	n_mpa_	_	2	_	_	_
+6	atpakaļ	atpakaļ	r	r__	_	2	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Neviens	neviens	p	p_0msn_	_	4	_	_	_
+2	no	no	s	sppdy	_	1	_	_	_
+3	viņiem	viņš	p	p_3mpd_	_	2	_	_	_
+4	nevēlējās	nevēlēties	v	vo_is__30__	_	8	_	_	_
+5	uzņemties	uzņemties	v	vm_n0__00__	_	4	_	_	_
+6	administratīvos	administratīvs	a	a_mpa__	_	7	_	_	_
+7	pienākumus	pienākums	n	n_mpa_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Lai	lai	q	q_	_	2	_	_	_
+2	top	tapt	v	vt_ip__30__	_	9	_	_	_
+3	izpirkti	izpirkt	v	vm_pdmpn_s_	_	2	_	_	_
+4	arī	arī	q	q_	_	8	_	_	_
+5	simt	simt	m	m__0p0_	_	6	_	_	_
+6	divdesmit	divdesmit	m	m__0p0_	_	7	_	_	_
+7	septiņi	septiņi	m	m__mpn_	_	8	_	_	_
+8	grēki	grēks	n	n_mpn_	_	2	_	_	_
+9	!	!	z	zs	_	0	_	_	_
+
+1	Atrast	atrast	v	vm_n0__00__	_	5	_	_	_
+2	piecus	pieci	m	m__mpa_	_	3	_	_	_
+3	desmit	desmit	m	m__0p0_	_	4	_	_	_
+4	latus	lats	n	n_mpa_	_	1	_	_	_
+5	ir	būt	v	vc_ip__30__	_	8	_	_	_
+6	cūkas	cūka	n	n_fsg_	_	7	_	_	_
+7	laime	laime	n	n_fsn_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Funkc.	funkc.	y	y	_	3	_	_	_
+2	f(x)	f(x)	x	xx	_	1	_	_	_
+3	ir	būt	v	vc_ip__30__	_	8	_	_	_
+4	augoša	augt	v	vm_pdfsn_p_	_	3	_	_	_
+5	visā	viss	p	p_0msl_	_	7	_	_	_
+6	definīcijas	definīcija	n	n_fsg_	_	7	_	_	_
+7	apgabalā	apgabals	n	n_msl_	_	3	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	MELIS	melis	n	n_msn_	_	0	_	_	_
+
+1	DIDZI	Didzis	n	n_msv_	_	2	_	_	_
+2	,	,	z	zc	_	8	_	_	_
+3	VAI	vai	q	q_	_	8	_	_	_
+4	PAVADĪSI	pavadīt	v	vm_if__2s__	_	8	_	_	_
+5	mani	es	p	p_10sa_	_	4	_	_	_
+6	līdz	līdz	s	sppdy	_	4	_	_	_
+7	Rozēm	Rozes	n	n_fdd_	_	6	_	_	_
+8	?	?	z	zs	_	9	_	_	_
+9	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Labprāt	labprāt	r	r__	_	3	_	_	_
+3	.	.	z	zs	_	1	_	_	_
+4	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nu	nu	q	q_	_	5	_	_	_
+3	tad	tad	q	q_	_	5	_	_	_
+4	jājam	jāt	v	vm_ip__1p__	_	5	_	_	_
+5	!	!	z	zs	_	1	_	_	_
+6	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nū	Nū	i	i_	_	3	_	_	_
+3	,	,	z	zc	_	5	_	_	_
+4	nū	nū	i	i_	_	3	_	_	_
+5	!	!	z	zs	_	1	_	_	_
+6	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Klau	Klau	i	i_	_	3	_	_	_
+3	,	,	z	zc	_	9	_	_	_
+4	vai	vai	q	q_	_	9	_	_	_
+5	tu	tu	p	p_20sn_	_	8	_	_	_
+6	savu	savs	p	p_0msa_	_	7	_	_	_
+7	bēri	bēris	n	n_msa_	_	8	_	_	_
+8	nebaro	nebarot	v	vm_ip__2s__	_	9	_	_	_
+9	?	?	z	zs	_	1	_	_	_
+10	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nē	nē	q	q_	_	3	_	_	_
+3	,	,	z	zc	_	7	_	_	_
+4	viņš	viņš	p	p_3msn_	_	6	_	_	_
+5	mani	es	p	p_10sa_	_	6	_	_	_
+6	baro	barot	v	vm_ip__30__	_	7	_	_	_
+7	.	.	z	zs	_	1	_	_	_
+
+1	Kopā	kopā	r	r__	_	4	_	_	_
+2	maz	maz	r	r__	_	3	_	_	_
+3	kas	kas	p	p_000n_	_	4	_	_	_
+4	sanāk	sanākt	v	vm_ip__30__	_	5	_	_	_
+5	.	.	z	zs	_	6	_	_	_
+6	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Didzi	Didzis	n	n_msv_	_	3	_	_	_
+3	!	!	z	zs	_	1	_	_	_
+
+1	Jājam	jāt	v	vm_m0__1p__	_	3	_	_	_
+2	ātrāk	ātri	r	r__	_	1	_	_	_
+3	!	!	z	zs	_	4	_	_	_
+4	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Tūlīt	tūlīt	r	r__	_	3	_	_	_
+3	!	!	z	zs	_	1	_	_	_
+
+1	Savilkšu	savilkt	v	vm_if__1s__	_	4	_	_	_
+2	ciešāk	cieši	r	r__	_	1	_	_	_
+3	jostu	josta	n	n_fsa_	_	1	_	_	_
+4	!	!	z	zs	_	5	_	_	_
+5	"	"	z	zq	_	0	_	_	_
+
+1	Zirgi	zirgs	n	n_mpn_	_	2	_	_	_
+2	gāja	iet	v	vm_is__30__	_	4	_	_	_
+3	blakus	blakus	r	r__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	ceļam	ceļš	n	n_msd_	_	1	_	_	_
+3	gals	gals	n	n_msn_	_	1	_	_	_
+4	tikai	tikai	q	q_	_	5	_	_	_
+5	pie	pie	s	sppdy	_	1	_	_	_
+6	vārtiem	vārti	n	n_mpd_	_	5	_	_	_
+7	.	.	z	zs	_	1	_	_	_
+
+1	Veseli	vesels	a	a_mpn__	_	3	_	_	_
+2	mežu	mežs	n	n_mpg_	_	3	_	_	_
+3	meži	mežs	n	n_mpn_	_	5	_	_	_
+4	priekšā	priekšā	r	r__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Ātrāk	ātri	r	r__	_	2	_	_	_
+2	jālaižas	laisties	v	vm_d0__00__	_	10	_	_	_
+3	,	,	z	zc	_	2	_	_	_
+4	lai	lai	c	cs_	_	3	_	_	_
+5	paildzinām	paildzināt	v	vm_ip__30__	_	3	_	_	_
+6	rūgto	rūgts	a	a_msa__	_	7	_	_	_
+7	apiņu	apinis	n	n_mpg_	_	8	_	_	_
+8	garšu	garša	n	n_fsa_	_	5	_	_	_
+9	mutē	mute	n	n_fsl_	_	5	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Stāsti	stāstīt	v	vm_m0__2s__	_	3	_	_	_
+3	!	!	z	zs	_	1	_	_	_
+
+1	Tu	tu	p	p_20sn_	_	3	_	_	_
+2	liels	liels	a	a_msn__	_	3	_	_	_
+3	stāstītājs	stāstītājs	n	n_msn_	_	4	_	_	_
+4	!	!	z	zs	_	5	_	_	_
+5	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Ne	ne	q	q_	_	3	_	_	_
+3	vienmēr	vienmēr	r	r__	_	4	_	_	_
+4	!	!	z	zs	_	1	_	_	_
+5	"	"	z	zq	_	1	_	_	_
+
+1	„	"	z	zq	_	0	_	_	_
+2	Neaušojies	neaušoties	v	vm_m0__2s__	_	1	_	_	_
+3	,	,	z	zc	_	2	_	_	_
+4	Didzi	Didzis	n	n_msv_	_	3	_	_	_
+5	!	!	z	zs	_	3	_	_	_
+
+1	Mute	mute	n	n_fsn_	_	2	_	_	_
+2	jāvirina	virināt	v	vm_d0__00__	_	5	_	_	_
+3	vien	vien	q	q_	_	2	_	_	_
+4	būs	būt	v	vc_if__30__	_	2	_	_	_
+5	!	!	z	zs	_	6	_	_	_
+6	"	"	z	zq	_	0	_	_	_
+
+1	„	"	z	zq	_	0	_	_	_
+2	Pastāstīšu	pastāstīt	v	vm_ip__1s__	_	5	_	_	_
+3	par	par	s	spsan	_	2	_	_	_
+4	Vidu	Vida	n	n_fsa_	_	3	_	_	_
+5	.	.	z	zs	_	1	_	_	_
+
+1	Mums	mēs	p	p_10pd_	_	4	_	_	_
+2	kopējas	kopēja	a	a_fpn__	_	3	_	_	_
+3	saites	saite	n	n_fpn_	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tikai	tikai	q	q_	_	5	_	_	_
+2	to	tas	p	p_3msa_	_	4	_	_	_
+3	neviens	neviens	p	p_0msn_	_	4	_	_	_
+4	nezina	nezināt	v	vm_ip__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Kad	kad	r	r__	_	2	_	_	_
+2	biju	būt	v	vc_is__1s__	_	6	_	_	_
+3	pilnīgi	pilnīgi	r	r__	_	4	_	_	_
+4	jauns	jauns	a	a_msn__	_	2	_	_	_
+5	mežotnē	mežotne	n	n_fsl_	_	2	_	_	_
+6	,	,	z	zc	_	8	_	_	_
+7	man	es	p	p_10sd_	_	13	_	_	_
+8	šķita	šķist	v	vm_is__30__	_	13	_	_	_
+9	,	,	z	zc	_	10	_	_	_
+10	ka	ka	c	cs_	_	8	_	_	_
+11	man	es	p	p_10sd_	_	10	_	_	_
+12	veicas	veikties	v	vm_ip__30__	_	10	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Vēders	vēders	n	n_msn_	_	2	_	_	_
+2	pilns	pilns	a	a_msn__	_	3	_	_	_
+3	,	,	z	zc	_	9	_	_	_
+4	rūgts	rūgts	a	a_msn__	_	6	_	_	_
+5	mutē	mute	n	n_fsl_	_	4	_	_	_
+6	un	un	c	cc_	_	3	_	_	_
+7	jautrs	jautrs	a	a_msn__	_	8	_	_	_
+8	prāts	prāts	n	n_msn_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Dainējos	dainēties	v	vm_is__1s__	_	2	_	_	_
+2	-	-	z	zd	_	5	_	_	_
+3	man	es	p	p_10sd_	_	4	_	_	_
+4	piebalsoja	piebalsot	v	vm_is__30__	_	2	_	_	_
+5	,	,	z	zc	_	17	_	_	_
+6	stāstīju	stāstīt	v	vm_is__1s__	_	8	_	_	_
+7	teikas	teika	n	n_fpa_	_	6	_	_	_
+8	-	-	z	zd	_	5	_	_	_
+9	labieši	labietis	n	n_mpn_	_	10	_	_	_
+10	pieveica	pieveikt	v	vm_is__30__	_	11	_	_	_
+11	,	,	z	zc	_	8	_	_	_
+12	to	tas	p	p_3mpg_	_	13	_	_	_
+13	aste	aste	n	n_fsn_	_	14	_	_	_
+14	kā	kā	c	cs_	_	11	_	_	_
+15	mežotnes	mežotne	n	n_fsg_	_	16	_	_	_
+16	egle	egle	n	n_fsn_	_	14	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Biju	būt	v	vc_is__1s__	_	12	_	_	_
+2	cienīts	cienīt	v	vm_pdmsn_s_	_	3	_	_	_
+3	,	,	z	zc	_	1	_	_	_
+4	garā	gars	n	n_msl_	_	5	_	_	_
+5	lolots	lolot	v	vm_pdmsn_s_	_	6	_	_	_
+6	,	,	z	zc	_	3	_	_	_
+7	vēderā	vēders	n	n_msl_	_	8	_	_	_
+8	pildīts	pildīt	v	vm_pdmsn_s_	_	9	_	_	_
+9	un	un	c	cc_	_	6	_	_	_
+10	jokos	joks	n	n_mpl_	_	11	_	_	_
+11	saprasts	saprast	v	vm_pdmsn_s_	_	9	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Tāpēc	tāpēc	r	r__	_	11	_	_	_
+2	piebiedrojos	piebiedroties	v	vm_is__1s__	_	4	_	_	_
+3	klusu	klusu	r	r__	_	2	_	_	_
+4	un	un	c	cc_	_	11	_	_	_
+5	skatījos	skatīties	v	vm_is__1s__	_	4	_	_	_
+6	,	,	z	zc	_	5	_	_	_
+7	kā	kā	r	r__	_	9	_	_	_
+8	viņa	viņa	p	p_3fsn_	_	9	_	_	_
+9	lāpa	lāpīt	v	vm_ip__30__	_	6	_	_	_
+10	buras	bura	n	n_fpa_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Kaula	kauls	n	n_msg_	_	2	_	_	_
+2	adatas	adata	n	n_fpn_	_	3	_	_	_
+3	iet	iet	v	vm_ip__30__	_	6	_	_	_
+4	kā	kā	c	cs_	_	3	_	_	_
+5	kājas	kāja	n	n_fpn_	_	4	_	_	_
+6	,	,	z	zc	_	15	_	_	_
+7	diegi	diegs	n	n_mpn_	_	10	_	_	_
+8	saveļas	savelties	v	vm_ip__30__	_	10	_	_	_
+9	taciņā	taciņa	n	n_fsl_	_	8	_	_	_
+10	un	un	c	cc_	_	6	_	_	_
+11	tad	tad	r	r__	_	13	_	_	_
+12	spindzēdami	spindzēt	v	vm_ppmpn_p_	_	13	_	_	_
+13	izstiepjas	izstiepties	v	vm_ip__30__	_	10	_	_	_
+14	skaņā	skaņa	n	n_fsl_	_	13	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	„	"	z	zq	_	0	_	_	_
+2	Klau	klau	i	i_	_	3	_	_	_
+3	,	,	z	zc	_	9	_	_	_
+4	Vida	Vida	n	n_fsn_	_	5	_	_	_
+5	,	,	z	zc	_	9	_	_	_
+6	dod	dot	v	vm_m0__2s__	_	9	_	_	_
+7	man	es	p	p_10sd_	_	6	_	_	_
+8	buru	bura	n	n_fsa_	_	6	_	_	_
+9	!	!	z	zs	_	1	_	_	_
+10	"	"	z	zq	_	1	_	_	_
+
+1	–	-	z	zd	_	0	_	_	_
+2	„	"	z	zq	_	1	_	_	_
+3	Nav	nebūt	v	vc_ip__30__	_	5	_	_	_
+4	gatava	gatava	a	a_fsn__	_	3	_	_	_
+5	!	!	z	zs	_	1	_	_	_
+6	”	”	z	zq	_	1	_	_	_
+
+1	–	–	z	zd	_	0	_	_	_
+2	„	„	z	zq	_	1	_	_	_
+3	Es	es	p	p_10sn_	_	4	_	_	_
+4	sēžu	sēdēt	v	vm_ip__1s__	_	6	_	_	_
+5	laivā	laiva	n	n_fsl_	_	4	_	_	_
+6	.	.	z	zs	_	1	_	_	_
+7	"	"	z	zq	_	1	_	_	_
+
+1	–	-	z	zd	_	0	_	_	_
+2	„	"	z	zq	_	1	_	_	_
+3	Mēs	mēs	p	p_10pn_	_	4	_	_	_
+4	visi	viss	p	p_0mpn_	_	5	_	_	_
+5	sēžam	sēdēt	v	vm_ip__1p__	_	6	_	_	_
+6	!	!	z	zs	_	1	_	_	_
+7	"	"	z	zq	_	1	_	_	_
+
+1	-	-	z	zd	_	0	_	_	_
+2	"	"	z	zq	_	1	_	_	_
+3	Bet	bet	c	cc_	_	8	_	_	_
+4	kur	kur	r	r__	_	7	_	_	_
+5	tad	tad	q	q_	_	8	_	_	_
+6	mēs	mēs	p	p_10pn_	_	7	_	_	_
+7	peldam	peldēt	v	vm_ip__1p__	_	8	_	_	_
+8	?	?	z	zs	_	1	_	_	_
+9	”	”	z	zq	_	1	_	_	_
+
+1	–	–	z	zd	_	0	_	_	_
+2	„	"	z	zq	_	1	_	_	_
+3	Uz	uz	s	sppdy	_	6	_	_	_
+4	zemēm	zeme	n	n_fpd_	_	3	_	_	_
+5	,	,	z	zc	_	6	_	_	_
+6	un	un	c	cc_	_	8	_	_	_
+7	mežiem	mežs	n	n_mpd_	_	6	_	_	_
+8	!	!	z	zs	_	1	_	_	_
+9	”	"	z	zq	_	1	_	_	_
+
+1	–	–	z	zd	_	0	_	_	_
+2	„	"	z	zq	_	1	_	_	_
+3	Skaisti	skaisti	r	r__	_	4	_	_	_
+4	!	!	z	zs	_	1	_	_	_
+5	”	"	z	zq	_	1	_	_	_
+
+1	Kad	kad	r	r__	_	3	_	_	_
+2	egles	egle	n	n_fpn_	_	3	_	_	_
+3	pagaisa	pagaist	v	vm_is__30__	_	4	_	_	_
+4	,	,	z	zc	_	10	_	_	_
+5	es	es	p	p_10sn_	_	10	_	_	_
+6	sēdos	sēsties	v	vm_is__1s__	_	10	_	_	_
+7	bluķim	bluķis	n	n_msd_	_	8	_	_	_
+8	virsū	virsū	r	r__	_	6	_	_	_
+9	jāteniski	jāteniski	r	r__	_	6	_	_	_
+10	un	un	c	cc_	_	14	_	_	_
+11	teicu	teikt	v	vm_is__1s__	_	10	_	_	_
+12	joku	joks	n	n_msa_	_	11	_	_	_
+13	Vidai	Vida	n	n_fsd_	_	11	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Vida	Vida	n	n_fsn_	_	2	_	_	_
+2	nesmējās	nesmieties	v	vm_is__30__	_	3	_	_	_
+3	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	2	_	_	_
+2	cietu	ciest	v	vm_is__1s__	_	4	_	_	_
+3	klusu	klusu	r	r__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tik	tik	q	q_	_	10	_	_	_
+2	pa	pa	s	spsay	_	4	_	_	_
+3	drānu	drāna	n	n_fsa_	_	2	_	_	_
+4	lēkāja	lēkāt	v	vm_is__30__	_	10	_	_	_
+5	adata	adata	n	n_fsn_	_	4	_	_	_
+6	:	:	z	zo	_	10	_	_	_
+7	žik	žik	i	i_	_	8	_	_	_
+8	-	-	z	zd	_	6	_	_	_
+9	žik	žik	i	i_	_	8	_	_	_
+10	!	!	z	zs	_	0	_	_	_
+
+1	Vida	Vida	n	n_fsn_	_	4	_	_	_
+2	neskatījās	neskatīties	v	vm_is__30__	_	4	_	_	_
+3	,	,	z	zc	_	4	_	_	_
+4	bet	bet	c	cc_	_	6	_	_	_
+5	teica	teikt	v	vm_is__30__	_	4	_	_	_
+6	:	:	z	zo	_	0	_	_	_
+7	"	"	z	zq	_	5	_	_	_
+8	Puiši	puisis	n	n_mpn_	_	9	_	_	_
+9	mana	manīt	v	vm_ip__30__	_	16	_	_	_
+10	,	,	z	zc	_	11	_	_	_
+11	ka	ka	c	cs_	_	9	_	_	_
+12	tu	tu	p	p_20sn_	_	13	_	_	_
+13	gribi	gribēt	v	vo_ip__2s__	_	11	_	_	_
+14	mani	es	p	p_10sa_	_	15	_	_	_
+15	nolaupīt	nolaupīt	v	vm_n0__00__	_	13	_	_	_
+16	?!	?!	z	zs	_	7	_	_	_
+17	"	"	z	zq	_	7	_	_	_
+
+1	—	—	z	zd	_	0	_	_	_
+2	"	"	z	zq	_	1	_	_	_
+3	Ja	ja	c	cs_	_	1	_	_	_
+4	būtu	būt	v	vm_c0__00__	_	3	_	_	_
+5	spēks	spēks	n	n_msn_	_	4	_	_	_
+6	,	,	z	zc	_	3	_	_	_
+7	jā	jā	q	q_	_	6	_	_	_
+8	!	!	z	zs	_	3	_	_	_
+9	"	"	z	zq	_	1	_	_	_
+
+1	—	—	z	zd	_	0	_	_	_
+2	"	"	z	zq	_	1	_	_	_
+3	Skat	Skat	i	i_	_	4	_	_	_
+4	,	,	z	zc	_	7	_	_	_
+5	neapdedzini	neapdedzināt	v	vm_m0__2s__	_	7	_	_	_
+6	pirkstus	pirksts	n	n_mpa_	_	5	_	_	_
+7	!	!	z	zs	_	1	_	_	_
+8	"	"	z	zq	_	1	_	_	_
+
+1	—	—	z	zd	_	0	_	_	_
+2	"	"	z	zq	_	1	_	_	_
+3	Man	es	p	p_10sd_	_	7	_	_	_
+4	vienmēr	vienmēr	r	r__	_	7	_	_	_
+5	ķocī	ķocis	n	n_msl_	_	7	_	_	_
+6	ledus	ledus	n	n_msn_	_	7	_	_	_
+7	!	!	z	zs	_	1	_	_	_
+8	"	"	z	zq	_	1	_	_	_
+
+1	Vēlāk	vēlu	r	r__	_	12	_	_	_
+2	kaulu	kauls	n	n_mpg_	_	3	_	_	_
+3	adata	adata	n	n_fsn_	_	4	_	_	_
+4	aizmiga	aizmigt	v	vm_is__30__	_	5	_	_	_
+5	,	,	z	zc	_	12	_	_	_
+6	diegi	diegs	n	n_mpn_	_	7	_	_	_
+7	plīsa	plīst	v	vm_is__30__	_	8	_	_	_
+8	un	un	c	cc_	_	5	_	_	_
+9	mums	mēs	p	p_10pd_	_	10	_	_	_
+10	parādījās	parādīties	v	vm_is__30__	_	8	_	_	_
+11	dižošanās	dižošanās	n	n_fsn_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Viņai	viņa	p	p_3fsd_	_	5	_	_	_
+2	—	—	z	zd	_	5	_	_	_
+3	atglaužot	atglaust	v	vm_pu000_0_	_	2	_	_	_
+4	matus	mats	n	n_mpa_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	5	_	_	_
+2	—	—	z	zd	_	5	_	_	_
+3	izspīlējot	izspīlēt	v	vm_pu000_0_	_	2	_	_	_
+4	vēderu	vēders	n	n_msa_	_	3	_	_	_
+5	.	.	z	zs	_	6	_	_	_
+6	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Jā	jā	q	q_	_	3	_	_	_
+3	,	,	z	zc	_	7	_	_	_
+4	tas	tas	p	p_3msn_	_	6	_	_	_
+5	tev	tu	p	p_20sd_	_	7	_	_	_
+6	liels	liels	a	a_msn__	_	7	_	_	_
+7	.	.	z	zs	_	1	_	_	_
+8	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Pēc	pēc	s	spsgy	_	6	_	_	_
+3	dižošanās	dižošanās	n	n_fsg_	_	2	_	_	_
+4	visi	viss	p	p_0mpn_	_	5	_	_	_
+5	ceļi	ceļš	n	n_mpn_	_	6	_	_	_
+6	ved	vest	v	vm_ip__30__	_	10	_	_	_
+7	tik	tik	q	q_	_	8	_	_	_
+8	vienam	viens	m	m__msd_	_	9	_	_	_
+9	mērķim	mērķis	n	n_msd_	_	6	_	_	_
+10	.	.	z	zs	_	1	_	_	_
+
+1	Tikai	tikai	q	q_	_	4	_	_	_
+2	apkārtne	apkārtne	n	n_fsn_	_	3	_	_	_
+3	atšķiras	atšķirties	v	vm_ip__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tā	tā	r	r__	_	4	_	_	_
+2	arī	arī	q	q_	_	4	_	_	_
+3	mums	mēs	p	p_10pd_	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	centos	censties	v	vo_is__1s__	_	6	_	_	_
+3	ielīst	ielīst	v	vm_n0__00__	_	2	_	_	_
+4	viņas	viņas	p	p_3fsg_	_	5	_	_	_
+5	acīs	acs	n	n_fpl_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Ielīdu	ielīst	v	vm_is__1s__	_	2	_	_	_
+2	.	.	z	zs	_	0	_	_	_
+
+1	Centos	censties	v	vo_is__1s__	_	5	_	_	_
+2	saistīt	saistīt	v	vm_n0__00__	_	1	_	_	_
+3	viņas	viņa	p	p_3fsg_	_	4	_	_	_
+4	sirdi	sirds	n	n_fsa_	_	2	_	_	_
+5	—	—	z	zd	_	12	_	_	_
+6	paveicās	paveikties	v	vm_is__30__	_	5	_	_	_
+7	,	,	z	zc	_	6	_	_	_
+8	tā	tā	r	r__	_	7	_	_	_
+9	—	—	z	zd	_	8	_	_	_
+10	uz	uz	s	sppdy	_	9	_	_	_
+11	pusēm	puse	n	n_fpd_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Šķidru	šķidrs	a	a_msa__	_	2	_	_	_
+2	bērniņu	bērns	n	n_msa_	_	3	_	_	_
+3	ielaist	ielaist	v	vm_n0__00__	_	5	_	_	_
+4	viņā	viņa	p	p_3fsl_	_	3	_	_	_
+5	...	...	z	zs	_	6	_	_	_
+6	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nemels	nemelst	v	vm_m0__2s__	_	4	_	_	_
+3	niekus	nieks	n	n_mpa_	_	2	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+
+1	Mežotnes	Mežotne	n	n_fsg_	_	2	_	_	_
+2	Valdis	Valdis	n	n_msn_	_	3	_	_	_
+3	solīja	solīt	v	vm_is__30__	_	10	_	_	_
+4	visus	viss	p	p_0mpa_	_	7	_	_	_
+5	meitu	meita	n	n_fpg_	_	6	_	_	_
+6	nevainību	nevainība	n	n_fpg_	_	7	_	_	_
+7	caurdūrējus	caurdūrējs	n	n_mpa_	_	8	_	_	_
+8	atdot	atdot	v	vm_n0__00__	_	3	_	_	_
+9	ugunij	uguns	n	n_fsd_	_	8	_	_	_
+10	!	!	z	zs	_	11	_	_	_
+11	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Tā	tā	r	r__	_	5	_	_	_
+3	gan	gan	q	q_	_	2	_	_	_
+4	,	,	z	zc	_	5	_	_	_
+5	bet	bet	c	cc_	_	10	_	_	_
+6	dienā	diena	n	n_fsl_	_	8	_	_	_
+7	apkārtne	apkārtne	n	n_fsn_	_	8	_	_	_
+8	ir	būt	v	vc_ip__30__	_	5	_	_	_
+9	savādāka	savāda	a	a_fsn__	_	8	_	_	_
+10	.	.	z	zs	_	1	_	_	_
+
+1	Teicu	teikt	v	vm_ip__1s__	_	2	_	_	_
+2	:	:	z	zo	_	0	_	_	_
+3	"	"	z	zq	_	1	_	_	_
+4	Gribu	gribēt	v	vo_ip__1s__	_	9	_	_	_
+5	gulēt	gulēt	v	vm_n0__00__	_	4	_	_	_
+6	uz	uz	s	spsgy	_	5	_	_	_
+7	viņas	viņas	p	p_3fsg_	_	8	_	_	_
+8	muguras	mugura	n	n_fsg_	_	6	_	_	_
+9	!	!	z	zs	_	3	_	_	_
+10	"	"	z	zq	_	3	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	nakti	nakts	n	n_fsa_	_	1	_	_	_
+3	es	es	p	p_10sn_	_	4	_	_	_
+4	grimu	grimt	v	vm_is__1s__	_	11	_	_	_
+5	labajā	labs	a	a_msl__	_	6	_	_	_
+6	purvā	purvs	n	n_msl_	_	4	_	_	_
+7	,	,	z	zc	_	6	_	_	_
+8	kam	kas	p	p_000d_	_	10	_	_	_
+9	dzīles	dzīle	n	n_fpn_	_	10	_	_	_
+10	dziļākas	dziļa	a	a_fpn__	_	7	_	_	_
+11	,	,	z	zc	_	1	_	_	_
+12	mana	mana	p	p_0fsn_	_	13	_	_	_
+13	galva	galva	n	n_fsn_	_	14	_	_	_
+14	spīlējās	spīlēties	v	vm_is__30__	_	11	_	_	_
+15	dūnai	dūna	n	n_fsd_	_	14	_	_	_
+16	,	,	z	zc	_	1	_	_	_
+17	am	am	i	i_	_	16	_	_	_
+18	!	!	z	zs	_	1	_	_	_
+
+1	Grūti	grūti	r	r__	_	5	_	_	_
+2	to	tas	p	p_3msa_	_	4	_	_	_
+3	visu	viss	p	p_0msa_	_	2	_	_	_
+4	atcerēties	atcerēties	v	vm_n0__00__	_	1	_	_	_
+5	.	.	z	zs	_	6	_	_	_
+6	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Kāpēc	kāpēc	r	r__	_	3	_	_	_
+3	?	?	z	zs	_	1	_	_	_
+4	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Beigas	beigas	n	n_fpn_	_	3	_	_	_
+3	nebija	nebūt	v	vc_is__30__	_	6	_	_	_
+4	manim	es	p	p_10sd_	_	5	_	_	_
+5	labas	laba	a	a_fpn__	_	3	_	_	_
+6	.	.	z	zs	_	1	_	_	_
+7	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Kāpēc	kāpēc	r	r__	_	3	_	_	_
+3	?	?	z	zs	_	1	_	_	_
+4	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Pat	pat	q	q_	_	10	_	_	_
+3	tvaika	tvaiks	n	n_msg_	_	7	_	_	_
+4	rokās	roka	n	n_fpl_	_	5	_	_	_
+5	nepalika	nepalikt	v	vm_is__30__	_	10	_	_	_
+6	,	,	z	zc	_	7	_	_	_
+7	ne	ne	c	cc_	_	5	_	_	_
+8	meitas	meita	n	n_fsg_	_	9	_	_	_
+9	dziļumiņa	dziļumiņš	n	n_msg_	_	7	_	_	_
+10	.	.	z	zs	_	1	_	_	_
+11	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Žēl	žēl	r	r__	_	4	_	_	_
+3	gan	gan	q	q_	_	4	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	2	_	_	_
+2	viss	viss	p	p_0msn_	_	3	_	_	_
+3	?	?	z	zs	_	4	_	_	_
+4	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nē	nē	q	q_	_	3	_	_	_
+3	.	.	z	zs	_	1	_	_	_
+
+1	Kad	kad	r	r__	_	3	_	_	_
+2	mēs	mēs	p	p_10pn_	_	3	_	_	_
+3	lasījām	lasīt	v	vm_is__1p__	_	6	_	_	_
+4	zemenes	zemene	n	n_fpa_	_	3	_	_	_
+5	mežā	mežs	n	n_msl_	_	3	_	_	_
+6	,	,	z	zc	_	8	_	_	_
+7	Vidu	Vida	n	n_fsa_	_	8	_	_	_
+8	nolaupīja	nolaupīt	v	vm_is__30__	_	9	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Skrēju	skriet	v	vm_is__1s__	_	4	_	_	_
+2	pakaļ	pakaļ	r	r__	_	1	_	_	_
+3	,	,	z	zc	_	4	_	_	_
+4	bet	bet	c	cc_	_	6	_	_	_
+5	neatradu	neatrast	v	vm_is__1s__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Bēdām	bēda	n	n_fpd_	_	4	_	_	_
+2	nebija	nebūt	v	vg_is__30__	_	4	_	_	_
+3	gala	gals	n	n_msg_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Solīju	solīt	v	vm_is__1s__	_	3	_	_	_
+2	sodu	sods	n	n_msa_	_	1	_	_	_
+3	...	...	z	zs	_	4	_	_	_
+4	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Bet	bet	c	cc_	_	10	_	_	_
+3	tu	tu	p	p_20sn_	_	5	_	_	_
+4	jau	jau	q	q_	_	10	_	_	_
+5	esi	būt	v	vc_ip__2s__	_	10	_	_	_
+6	tik	tik	r	r__	_	7	_	_	_
+7	vājš	vājš	a	a_msn__	_	5	_	_	_
+8	kā	kā	c	cs_	_	5	_	_	_
+9	niedre	niedre	n	n_fsn_	_	8	_	_	_
+10	!	!	z	zs	_	1	_	_	_
+
+1	Ha-ha	ha-ha	i	i_	_	2	_	_	_
+2	!	!	z	zs	_	3	_	_	_
+3	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Tas	tas	p	p_3msn_	_	3	_	_	_
+3	nekas	nekas	p	p_0msn_	_	4	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+
+1	Spēcīgu	spēcīga	a	a_fsa__	_	2	_	_	_
+2	gribu	griba	n	n_fsa_	_	3	_	_	_
+3	vārīju	vārīt	v	vm_is__1s__	_	5	_	_	_
+4	sevī	sevis	p	p_000l_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Dambim	dambis	n	n_msd_	_	2	_	_	_
+2	jālūst	lūzt	v	vm_d0__00__	_	4	_	_	_
+3	,	,	z	zc	_	4	_	_	_
+4	un	un	c	cc_	_	9	_	_	_
+5	daudz	daudz	r	r__	_	6	_	_	_
+6	ūdeņiem	ūdens	n	n_mpd_	_	7	_	_	_
+7	jāsasniedz	sasniegt	v	vm_d0__00__	_	4	_	_	_
+8	ārs	ārs	n	n_msn_	_	7	_	_	_
+9	.	.	z	zs	_	10	_	_	_
+10	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Kas	kas	p	p_000n_	_	7	_	_	_
+3	tad	tad	q	q_	_	7	_	_	_
+4	tie	tas	p	p_3mpn_	_	5	_	_	_
+5	laupītāji	laupītājs	n	n_mpn_	_	2	_	_	_
+6	bija	būt	v	vc_is__30__	_	2	_	_	_
+7	?	?	z	zs	_	1	_	_	_
+8	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Mazi	mazs	a	a_mpn__	_	3	_	_	_
+3	klaidoņi	klaidonis	n	n_mpn_	_	4	_	_	_
+4	,	,	z	zc	_	7	_	_	_
+5	sīkas	sīka	a	a_fsg__	_	6	_	_	_
+6	tautas	tauta	n	n_fsg_	_	4	_	_	_
+7	,	,	z	zc	_	17	_	_	_
+8	tagad	tagad	r	r__	_	11	_	_	_
+9	viņu	viņš	p	p_3mpg_	_	11	_	_	_
+10	vairs	vairs	r	r__	_	11	_	_	_
+11	nav	nebūt	v	vg_ip__30__	_	7	_	_	_
+12	,	,	z	zc	_	13	_	_	_
+13	jo	jo	c	cs_	_	11	_	_	_
+14	saule	saule	n	n_fsn_	_	16	_	_	_
+15	tos	tas	p	p_3mpa_	_	16	_	_	_
+16	izkausējusi	izkausēt	v	vm_pdfsn_s_	_	13	_	_	_
+17	.	.	z	zs	_	1	_	_	_
+
+1	Agrāk	agri	r	r__	_	9	_	_	_
+2	viņi	viņš	p	p_3mpn_	_	3	_	_	_
+3	pārtika	pārtikt	v	vm_is__30__	_	9	_	_	_
+4	no	no	s	spsgy	_	3	_	_	_
+5	svaiga	svaigs	a	a_msg__	_	6	_	_	_
+6	gaisa	gaiss	n	n_msg_	_	7	_	_	_
+7	un	un	c	cc_	_	4	_	_	_
+8	lietus	lietus	n	n_msg_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Zaga	zagt	v	vm_is__30__	_	5	_	_	_
+2	meitas	meita	n	n_fpa_	_	3	_	_	_
+3	un	un	c	cc_	_	1	_	_	_
+4	lopus	lops	n	n_mpa_	_	3	_	_	_
+5	.	.	z	zs	_	6	_	_	_
+6	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Atradi	atrast	v	vm_is__2s__	_	3	_	_	_
+3	?	?	z	zs	_	1	_	_	_
+4	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nē	nē	q	q_	_	3	_	_	_
+3	,	,	z	zc	_	11	_	_	_
+4	pēc	pēc	s	spsgy	_	6	_	_	_
+5	laika	laiks	n	n_msg_	_	4	_	_	_
+6	atgriezās	atgriezties	v	vm_is__30__	_	8	_	_	_
+7	Vida	Vida	n	n_fsn_	_	6	_	_	_
+8	,	,	z	zc	_	11	_	_	_
+9	sejs	sejs	n	n_msn_	_	10	_	_	_
+10	cits	cits	p	p_0msn_	_	8	_	_	_
+11	.	.	z	zs	_	1	_	_	_
+
+1	Vienīgās	vienīga	a	a_fpn__	_	2	_	_	_
+2	rūpes	rūpes	n	n_fpn_	_	7	_	_	_
+3	,	,	z	zc	_	7	_	_	_
+4	kā	kā	r	r__	_	5	_	_	_
+5	izraudāt	izraudāt	v	vm_n0__00__	_	3	_	_	_
+6	bēdas	bēda	n	n_fpa_	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Mēģināju	mēģināt	v	vo_is__1s__	_	6	_	_	_
+2	iekveldināt	iekveldināt	v	vm_n0__00__	_	1	_	_	_
+3	ar	ar	s	spsan	_	2	_	_	_
+4	savu	savs	p	p_0msa_	_	5	_	_	_
+5	skaistumu	skaistums	n	n_msa_	_	3	_	_	_
+6	...	...	z	zs	_	7	_	_	_
+7	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Ej	ej	i	i_	_	3	_	_	_
+3	,	,	z	zc	_	5	_	_	_
+4	ej	ej	i	i_	_	3	_	_	_
+5	.	.	z	zs	_	1	_	_	_
+
+1	Tev	tu	p	p_20sd_	_	7	_	_	_
+2	jau	jau	q	q_	_	7	_	_	_
+3	sejs	sejs	n	n_msn_	_	7	_	_	_
+4	kā	kā	c	cs_	_	7	_	_	_
+5	sarepējušam	sarepēt	v	vm_pdmsd_s_	_	6	_	_	_
+6	celmam	celms	n	n_msd_	_	4	_	_	_
+7	,	,	z	zc	_	17	_	_	_
+8	vīzēm	vīze	n	n_fpd_	_	9	_	_	_
+9	par	par	s	spsan	_	11	_	_	_
+10	vīru	vīrs	n	n_msa_	_	9	_	_	_
+11	un	un	c	cc_	_	16	_	_	_
+12	lopiņiem	lops	n	n_mpd_	_	13	_	_	_
+13	par	par	s	spsan	_	11	_	_	_
+14	iegātni	iegātnis	n	n_msa_	_	13	_	_	_
+15	vari	varēt	v	vo_ip__2s__	_	7	_	_	_
+16	iet	iet	v	vm_n0__00__	_	15	_	_	_
+17	.	.	z	zs	_	18	_	_	_
+18	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nē	nē	q	q_	_	3	_	_	_
+3	.	.	z	zs	_	1	_	_	_
+
+1	Tad	tad	r	r__	_	5	_	_	_
+2	es	es	p	p_10sn_	_	3	_	_	_
+3	biju	būt	v	vc_is__1s__	_	5	_	_	_
+4	skaistāks	skaists	a	a_msn__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Vida	Vida	n	n_fsn_	_	2	_	_	_
+2	plēsa	plēst	v	vm_is__30__	_	5	_	_	_
+3	buru	bura	n	n_fsa_	_	2	_	_	_
+4	,	,	z	zc	_	5	_	_	_
+5	un	un	c	cc_	_	15	_	_	_
+6	mūsu	mēs	p	p_10pg_	_	7	_	_	_
+7	laiva	laiva	n	n_fsn_	_	8	_	_	_
+8	nespēja	nespēt	v	vo_is__30__	_	5	_	_	_
+9	vairs	vairs	r	r__	_	8	_	_	_
+10	izbūrāt	izbūrāt	v	vm_n0__00__	_	12	_	_	_
+11	zemes	zeme	n	n_fpa_	_	10	_	_	_
+12	,	,	z	zc	_	8	_	_	_
+13	iepriecēt	iepriecēt	v	vm_n0__00__	_	12	_	_	_
+14	egles	egle	n	n_fpa_	_	13	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Pat	pat	q	q_	_	2	_	_	_
+2	čiekuri	čiekurs	n	n_mpn_	_	4	_	_	_
+3	čukstus	čukstus	r	r__	_	4	_	_	_
+4	meta	mest	v	vm_is__30__	_	11	_	_	_
+5	,	,	z	zc	_	4	_	_	_
+6	katrs	katrs	p	p_0msn_	_	5	_	_	_
+7	saviem	savs	p	p_0mpd_	_	10	_	_	_
+8	daudzajiem	daudzi	p	p_0mpd_	_	10	_	_	_
+9	ielāpu	ielāps	n	n_mpg_	_	10	_	_	_
+10	deguniem	deguns	n	n_mpd_	_	6	_	_	_
+11	:	:	z	zo	_	0	_	_	_
+12	"	"	z	zq	_	4	_	_	_
+13	Nelaimīga	nelaimīga	a	a_fsn__	_	14	_	_	_
+14	mīlestība	mīlestība	n	n_fsn_	_	15	_	_	_
+15	!	!	z	zs	_	12	_	_	_
+
+1	Salašņas	salašņas	n	n_kpn_	_	3	_	_	_
+2	tik	tik	q	q_	_	3	_	_	_
+3	zog	zagt	v	vm_ip__30__	_	5	_	_	_
+4	sirdis	sirds	n	n_fpa_	_	3	_	_	_
+5	!	!	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	6	_	_	_
+2	tad	tad	r	r__	_	3	_	_	_
+3	—	—	z	zd	_	6	_	_	_
+4	uz	uz	s	spsay	_	3	_	_	_
+5	mūžu	mūžs	n	n_msa_	_	4	_	_	_
+6	!	!	z	zs	_	7	_	_	_
+7	"	"	z	zq	_	0	_	_	_
+
+1	Drebēja	drebēt	v	vm_is__30__	_	4	_	_	_
+2	Vidas	Vida	n	n_fsg_	_	3	_	_	_
+3	rokas	roka	n	n_fpn_	_	1	_	_	_
+4	,	,	z	zc	_	11	_	_	_
+5	neēda	neēst	v	vm_is__30__	_	7	_	_	_
+6	meita	meita	n	n_fsn_	_	7	_	_	_
+7	,	,	z	zc	_	4	_	_	_
+8	palika	palikt	v	vm_is__30__	_	7	_	_	_
+9	kā	kā	c	cs_	_	8	_	_	_
+10	skals	skals	n	n_msn_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	saņēmās	saņemties	v	vo_is__30__	_	6	_	_	_
+3	ļaunu	ļauns	a	a_msa__	_	4	_	_	_
+4	darīt	darīt	v	vm_n0__00__	_	2	_	_	_
+5	sev	sevis	p	p_000d_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Ar	ar	s	sppdn	_	3	_	_	_
+2	asinīm	asins	n	n_fpd_	_	1	_	_	_
+3	pieķepa	pieķept	v	vm_is__30__	_	8	_	_	_
+4	Vidas	Vida	n	n_fsg_	_	7	_	_	_
+5	zeltainais	zeltains	a	a_msn__	_	7	_	_	_
+6	matu	mats	n	n_mpg_	_	7	_	_	_
+7	lokanums	lokanums	n	n_msn_	_	3	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Toreiz	toreiz	r	r__	_	3	_	_	_
+2	garām	garām	r	r__	_	3	_	_	_
+3	skrēja	skriet	v	vm_is__30__	_	7	_	_	_
+4	tik	tik	r	r__	_	5	_	_	_
+5	balti	balts	a	a_mpn__	_	6	_	_	_
+6	mākoņi	mākonis	n	n_mpn_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	3	_	_	_
+2	arī	arī	q	q_	_	1	_	_	_
+3	iebļāvos	iebļauties	v	vm_is__1s__	_	4	_	_	_
+4	:	:	z	zo	_	0	_	_	_
+5	"	"	z	zq	_	3	_	_	_
+6	Dievam	Dievs	n	n_msd_	_	9	_	_	_
+7	tās	tā	p	p_3fpn_	_	8	_	_	_
+8	meitas	meita	n	n_fpn_	_	9	_	_	_
+9	!	!	z	zs	_	5	_	_	_
+
+1	Dzīves	dzīve	n	n_fsg_	_	2	_	_	_
+2	kamanas	kamanas	n	n_fpn_	_	3	_	_	_
+3	baudiet	baudīt	v	vm_m0__2p__	_	4	_	_	_
+4	,	,	z	zc	_	8	_	_	_
+5	tikai	tikai	q	q_	_	6	_	_	_
+6	nemīlējiet	nemīlēt	v	vm_is__2p__	_	4	_	_	_
+7	meitas	meita	n	n_fpa_	_	6	_	_	_
+8	!	!	z	zs	_	0	_	_	_
+
+1	Nemūžam	nemūžam	r	r__	_	2	_	_	_
+2	!	!	z	zs	_	3	_	_	_
+3	"	"	z	zq	_	0	_	_	_
+
+1	Vida	Vida	n	n_fsn_	_	3	_	_	_
+2	nerunāja	nerunāt	v	vm_is__30__	_	3	_	_	_
+3	,	,	z	zc	_	5	_	_	_
+4	neatvadījās	neatvadīties	v	vm_is__30__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	nesekoju	nesekot	v	vm_is__1s__	_	3	_	_	_
+3	,	,	z	zc	_	6	_	_	_
+4	viņa	viņa	p	p_3fsn_	_	3	_	_	_
+5	prom	prom	r	r__	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tikai	tikai	q	q_	_	12	_	_	_
+2	mežs	mežs	n	n_msn_	_	7	_	_	_
+3	slēpa	slēpt	v	vm_is__30__	_	7	_	_	_
+4	ceļu	ceļš	n	n_msa_	_	3	_	_	_
+5	pie	pie	s	spsgy	_	4	_	_	_
+6	viņas	viņas	p	p_3fsg_	_	5	_	_	_
+7	,	,	z	zc	_	12	_	_	_
+8	apsedza	apsegt	v	vm_is__30__	_	7	_	_	_
+9	pēdas	pēda	n	n_fpa_	_	8	_	_	_
+10	,	,	z	zc	_	9	_	_	_
+11	nesameklējamas	nesameklēt	v	vm_pdfpa_p_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Vairs	vairs	r	r__	_	2	_	_	_
+2	nevajag	nevajadzēt	v	vo_ip__30__	_	16	_	_	_
+3	ciest	ciest	v	vm_n0__00__	_	4	_	_	_
+4	un	un	c	cc_	_	2	_	_	_
+5	mirt	mirt	v	vm_n0__00__	_	4	_	_	_
+6	,	,	z	zc	_	7	_	_	_
+7	jo	jo	c	cs_	_	2	_	_	_
+8	manas	mana	p	p_0fpn_	_	10	_	_	_
+9	dainas	daina	n	n_fpn_	_	10	_	_	_
+10	un	un	c	cc_	_	14	_	_	_
+11	teikas	teika	n	n_fpn_	_	10	_	_	_
+12	viņai	viņa	p	p_3fsd_	_	7	_	_	_
+13	vairs	vairs	r	r__	_	14	_	_	_
+14	nav	nebūt	v	vc_ip__30__	_	7	_	_	_
+15	saklausāmas	saklausīt	v	vm_pdfpn_p_	_	14	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	Neko	nekas	p	p_0msa_	_	2	_	_	_
+2	citu	cits	p	p_0msa_	_	3	_	_	_
+3	.	.	z	zs	_	0	_	_	_
+
+1	Pat	pat	q	q_	_	4	_	_	_
+2	bailes	bailes	n	n_fpa_	_	3	_	_	_
+3	nedzirdi	nedzirdēt	v	vm_ip__2s__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Nedzirdi	nedzirdēt	v	vm_ip__2s__	_	3	_	_	_
+2	nekā	nekas	p	p_000g_	_	1	_	_	_
+3	.	.	z	zs	_	0	_	_	_
+
+1	Vidu	Vida	n	n_fsa_	_	2	_	_	_
+2	nenomāca	nenomākt	v	vm_is__30__	_	4	_	_	_
+3	mušas	muša	n	n_fpn_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Jo	jo	c	cs_	_	0	_	_	_
+2	tās	tā	p	p_3fpn_	_	4	_	_	_
+3	to	tas	p	p_3msa_	_	4	_	_	_
+4	baidās	baidīties	v	vm_ip__30__	_	1	_	_	_
+5	.	.	z	zs	_	1	_	_	_
+
+1	Vida	Vida	n	n_fsn_	_	2	_	_	_
+2	draudzējās	draudzēties	v	vm_is__30__	_	5	_	_	_
+3	ar	ar	s	sppdn	_	2	_	_	_
+4	kamenēm	kamene	n	n_fpd_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Ganīja	ganīt	v	vm_is__30__	_	3	_	_	_
+2	tās	tā	p	p_3fpa_	_	1	_	_	_
+3	.	.	z	zs	_	0	_	_	_
+
+1	Ja	ja	c	cs_	_	11	_	_	_
+2	būtu	būt	v	vc_c0__00__	_	1	_	_	_
+3	kameņu	kamene	n	n_fpg_	_	2	_	_	_
+4	tūkstošu	tūkstoši	m	m__mpg_	_	5	_	_	_
+5	tūkstošiem	tūkstoši	m	m__mpd_	_	2	_	_	_
+6	,	,	z	zc	_	1	_	_	_
+7	Vida	Vida	n	n_fsn_	_	11	_	_	_
+8	visas	visas	p	p_0fpa_	_	9	_	_	_
+9	tās	tās	p	p_3fpa_	_	11	_	_	_
+10	pazītu	pazīt	v	vm_c0__00__	_	11	_	_	_
+11	un	un	c	cc_	_	13	_	_	_
+12	atšķirtu	atšķirt	v	vm_c0__00__	_	11	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Vai	vai	q	q_	_	7	_	_	_
+3	tās	tā	p	p_3fpa_	_	4	_	_	_
+4	kamenes	kamene	n	n_fpa_	_	6	_	_	_
+5	mēs	mēs	p	p_10pn_	_	6	_	_	_
+6	redzēsim	redzēt	v	vm_if__1p__	_	7	_	_	_
+7	?	?	z	zs	_	1	_	_	_
+8	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Nē	nē	q	q_	_	3	_	_	_
+3	!	!	z	zs	_	1	_	_	_
+4	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Kāpēc	kāpēc	r	r__	_	3	_	_	_
+3	?	?	z	zs	_	1	_	_	_
+4	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Tās	tās	p	p_3fpn_	_	3	_	_	_
+3	ir	būt	v	vm_ip__30__	_	5	_	_	_
+4	ceļā	ceļš	n	n_msl_	_	3	_	_	_
+5	.	.	z	zs	_	1	_	_	_
+6	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Ceļā	ceļš	n	n_msl_	_	5	_	_	_
+3	,	,	z	zc	_	2	_	_	_
+4	kurp	kurp	r	r__	_	3	_	_	_
+5	?	?	z	zs	_	1	_	_	_
+6	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Post	post	v	vm_n0__00__	_	4	_	_	_
+3	stropu	strops	n	n_msa_	_	2	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+5	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Meklēsim	meklēt	v	vm_if__1p__	_	5	_	_	_
+3	mēs	mēs	p	p_10pn_	_	2	_	_	_
+4	arī	arī	q	q_	_	5	_	_	_
+5	!	!	z	zs	_	1	_	_	_
+6	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Mūs	mēs	p	p_10pa_	_	3	_	_	_
+3	nelaidīs	nelaist	v	vm_if__30__	_	6	_	_	_
+4	tur	tur	r	r__	_	3	_	_	_
+5	iekšā	iekšā	r	r__	_	3	_	_	_
+6	,	,	z	zc	_	12	_	_	_
+7	mums	mēs	p	p_10pd_	_	8	_	_	_
+8	nav	nebūt	v	vg_ip__30__	_	6	_	_	_
+9	tik	tik	r	r__	_	10	_	_	_
+10	smalkas	smalka	a	a_fsg__	_	11	_	_	_
+11	atslēdziņas	atslēdziņa	n	n_fsg_	_	8	_	_	_
+12	!	!	z	zs	_	1	_	_	_
+13	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Paldies	paldies	q	q_	_	5	_	_	_
+3	par	par	s	spsan	_	2	_	_	_
+4	ceļu	ceļš	n	n_msa_	_	3	_	_	_
+5	.	.	z	zs	_	1	_	_	_
+
+1	Joku	joks	n	n_mpg_	_	3	_	_	_
+2	tev	tu	p	p_20sd_	_	3	_	_	_
+3	nav	nebūt	v	vg_ip__30__	_	4	_	_	_
+4	,	,	z	zc	_	11	_	_	_
+5	tavas	tava	p	p_0fsg_	_	6	_	_	_
+6	mutes	mute	n	n_fsg_	_	7	_	_	_
+7	izbārstītie	izbārstīt	v	vm_pdmpn_s_	_	8	_	_	_
+8	vārdi	vārds	n	n_mpn_	_	10	_	_	_
+9	mani	es	p	p_10sa_	_	10	_	_	_
+10	skumdina	skumdināt	v	vm_ip__30__	_	4	_	_	_
+11	.	.	z	zs	_	12	_	_	_
+12	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Tā	tā	r	r__	_	3	_	_	_
+3	vajag	vajadzēt	v	vo_ip__30__	_	4	_	_	_
+4	!	!	z	zs	_	1	_	_	_
+5	"	"	z	zq	_	1	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Ak	ak	i	i_	_	3	_	_	_
+3	,	,	z	zc	_	5	_	_	_
+4	meli	melis	n	n_msv_	_	5	_	_	_
+5	!	!	z	zs	_	1	_	_	_
+
+1	Meli	melis	n	n_msv_	_	2	_	_	_
+2	!	!	z	zs	_	0	_	_	_
+
+1	Tu	tu	p	p_20sn_	_	7	_	_	_
+2	,	,	z	zc	_	7	_	_	_
+3	vecais	vecs	a	a_msn__	_	4	_	_	_
+4	,	,	z	zc	_	6	_	_	_
+5	sasodītais	sasodīt	v	vm_pdmsn_s_	_	4	_	_	_
+6	meli	melis	n	n_msv_	_	2	_	_	_
+7	!	!	z	zs	_	0	_	_	_
+
+1	Kur	kur	r	r__	_	3	_	_	_
+2	tu	tu	p	p_20sn_	_	3	_	_	_
+3	sagrābies	sagrābties	v	vm_is__2s__	_	12	_	_	_
+4	šīs	šī	p	p_3fpa_	_	5	_	_	_
+5	gudrās	gudra	a	a_fpa__	_	6	_	_	_
+6	dzīves	dzīve	n	n_fpa_	_	3	_	_	_
+7	,	,	z	zc	_	6	_	_	_
+8	par	par	s	sppdn	_	11	_	_	_
+9	kurām	kura	p	p_0fpd_	_	8	_	_	_
+10	tirgoņi	tirgonis	n	n_mpn_	_	11	_	_	_
+11	nemaksā	nemaksāt	v	vm_ip__30__	_	7	_	_	_
+12	!	!	z	zs	_	13	_	_	_
+13	"	"	z	zq	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Re	re	i	i_	_	3	_	_	_
+3	,	,	z	zc	_	6	_	_	_
+4	mans	mans	p	p_0msn_	_	5	_	_	_
+5	bēris	bēris	n	n_msn_	_	6	_	_	_
+6	!	!	z	zs	_	1	_	_	_
+
+1	Tam	tas	p	p_3msd_	_	9	_	_	_
+2	pilnas	pilna	a	a_fpn__	_	3	_	_	_
+3	ausis	auss	n	n_fpn_	_	5	_	_	_
+4	dainu	daina	n	n_fpg_	_	5	_	_	_
+5	un	un	c	cc_	_	9	_	_	_
+6	zobi	zobs	n	n_mpn_	_	7	_	_	_
+7	cauri	cauri	a	a_mpn__	_	5	_	_	_
+8	teikām	teika	n	n_fpd_	_	7	_	_	_
+9	!	!	z	zs	_	0	_	_	_
+
+1	Ha-ha-ha	ha-ha-ha	i	i_	_	2	_	_	_
+2	!	!	z	zs	_	3	_	_	_
+3	"	"	z	zq	_	0	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	3	_	_	_
+2	gan	gan	q	q_	_	19	_	_	_
+3	nav	nebūt	v	vc_ip__30__	_	19	_	_	_
+4	tik	tik	r	r__	_	5	_	_	_
+5	viegli	viegli	r	r__	_	3	_	_	_
+6	,	,	z	zc	_	7	_	_	_
+7	ja	ja	c	cs_	_	3	_	_	_
+8	nedzirdi	nedzirdēt	v	vm_ip__2s__	_	7	_	_	_
+9	ienaidnieku	ienaidnieks	n	n_msa_	_	8	_	_	_
+10	tuvojamies	tuvoties	v	vm_pu000_0_	_	8	_	_	_
+11	,	,	z	zc	_	9	_	_	_
+12	kurš	kurš	p	p_0msn_	_	16	_	_	_
+13	droši	droši	r	r__	_	16	_	_	_
+14	pieliek	pielikt	v	vm_ip__30__	_	16	_	_	_
+15	galu	gals	n	n_msa_	_	14	_	_	_
+16	,	,	z	zc	_	11	_	_	_
+17	pārgriež	pārgriezt	v	vm_ip__30__	_	16	_	_	_
+18	pavedienu	pavediens	n	n_msa_	_	17	_	_	_
+19	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	16	_	_	_
+2	klīdzīgās	klīdzīga	a	a_fpn__	_	4	_	_	_
+3	kaula	kauls	n	n_msg_	_	4	_	_	_
+4	adatas	adata	n	n_fpn_	_	16	_	_	_
+5	,	,	z	zc	_	16	_	_	_
+6	Vidai	Vida	n	n_fsd_	_	7	_	_	_
+7	bļaujot	bļaut	v	vm_pu000_0_	_	5	_	_	_
+8	,	,	z	zc	_	5	_	_	_
+9	ašās	aša	a	a_fpl__	_	10	_	_	_
+10	kājelēs	kājele	n	n_fpl_	_	16	_	_	_
+11	—	—	z	zd	_	16	_	_	_
+12	Vidas	Vida	n	n_fsg_	_	13	_	_	_
+13	rokās	roka	n	n_fpl_	_	14	_	_	_
+14	kustēdamās	kustēties	v	vm_ppf0n_p_	_	11	_	_	_
+15	,	,	z	zc	_	11	_	_	_
+16	trieca	triekt	v	vm_is__30__	_	19	_	_	_
+17	smailes	smaile	n	n_fpa_	_	16	_	_	_
+18	ausīs	auss	n	n_fpl_	_	16	_	_	_
+19	.	.	z	zs	_	0	_	_	_
+
+1	Sprūdžs	Sprūdžs	n	n_msn_	_	2	_	_	_
+2	uzklausīs	uzklausīt	v	vm_if__30__	_	0	_	_	_
+3	Rāviņa	Rāviņš	n	n_msg_	_	4	_	_	_
+4	skaidrojumus	skaidrojums	n	n_mpa_	_	2	_	_	_
+5	par	par	s	sppdn	_	4	_	_	_
+6	Valsts	valsts	n	n_fsg_	_	7	_	_	_
+7	kontroles	kontrole	n	n_fsg_	_	8	_	_	_
+8	atklātajiem	atklāt	v	vm_pdmpd_s_	_	9	_	_	_
+9	pārkāpumiem	pārkāpums	n	n_mpd_	_	5	_	_	_
+10	Jelgavā	Jelgava	n	n_fsl_	_	9	_	_	_
+
+1	Rīga	Rīga	n	n_fsn_	_	7	_	_	_
+2	,	,	z	zc	_	7	_	_	_
+3	5.	5.	x	xo	_	4	_	_	_
+4	jūn.	jūn.	y	y	_	7	_	_	_
+5	,	,	z	zc	_	7	_	_	_
+6	LETA	LETA	y	y	_	7	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+
+1	Jau	jau	r	r__	_	2	_	_	_
+2	ziņots	ziņot	v	vm_pdmsn_s_	_	20	_	_	_
+3	,	,	z	zc	_	4	_	_	_
+4	ka	ka	c	cs_	_	2	_	_	_
+5	Valsts	valsts	n	n_fsg_	_	6	_	_	_
+6	kontrole	kontrole	n	n_fsn_	_	12	_	_	_
+7	revīzijā	revīzija	n	n_fsl_	_	12	_	_	_
+8	Jelgavas	Jelgava	n	n_fsg_	_	9	_	_	_
+9	pilsētas	pilsēta	n	n_fsg_	_	10	_	_	_
+10	pašvaldības	pašvaldība	n	n_fsg_	_	11	_	_	_
+11	aģentūrās	aģentūra	n	n_fpl_	_	12	_	_	_
+12	konstatējusi	konstatēt	v	vm_pdfsn_s_	_	4	_	_	_
+13	nepamatotus	nepamatot	v	vm_pdmpa_s_	_	14	_	_	_
+14	tēriņus	tēriņš	n	n_mpa_	_	12	_	_	_
+15	vairāk	daudz	r	r__	_	16	_	_	_
+16	nekā	nekā	c	cs_	_	17	_	_	_
+17	50_000	50_000	x	xn	_	18	_	_	_
+18	latu	lats	n	n_mpg_	_	19	_	_	_
+19	apmērā	apmērs	n	n_msl_	_	14	_	_	_
+20	.	.	z	zs	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Līdzšinējā	līdzšinēja	a	a_fsn__	_	8	_	_	_
+3	ministrijas	ministrija	n	n_fsg_	_	4	_	_	_
+4	un	un	c	cc_	_	8	_	_	_
+5	Jelgavas	Jelgava	n	n_fsg_	_	6	_	_	_
+6	pilsētas	pilsēta	n	n_fsg_	_	7	_	_	_
+7	domes	dome	n	n_fsg_	_	4	_	_	_
+8	sadarbība	sadarbība	n	n_fsn_	_	9	_	_	_
+9	ir	būt	v	vc_ip__30__	_	11	_	_	_
+10	neapmierinoša	neapmierinoša	a	a_fsn__	_	9	_	_	_
+11	.	.	z	zs	_	1	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	4	_	_	_
+2	no	no	s	spsgy	_	4	_	_	_
+3	Rāviņa	Rāviņš	n	n_msg_	_	2	_	_	_
+4	vēlas	vēlēties	v	vo_ip__30__	_	13	_	_	_
+5	dzirdēt	dzirdēt	v	vm_n0__00__	_	4	_	_	_
+6	skaidrojumu	skaidrojums	n	n_msa_	_	4	_	_	_
+7	par	par	s	sppdn	_	6	_	_	_
+8	labas	laba	a	a_fsg__	_	9	_	_	_
+9	pārvaldības	pārvaldība	n	n_fsg_	_	10	_	_	_
+10	principu	princips	n	n_mpg_	_	11	_	_	_
+11	pārkāpumiem	pārkāpums	n	n_mpd_	_	7	_	_	_
+12	pašvaldībā	pašvaldība	n	n_fsl_	_	11	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Ministrija	ministrija	n	n_fsn_	_	4	_	_	_
+2	jau	jau	r	r__	_	4	_	_	_
+3	vairākkārt	vairākkārt	r	r__	_	4	_	_	_
+4	pieprasījusi	pieprasīt	v	vm_pdfsn_s_	_	12	_	_	_
+5	Jelgavas	Jelgava	n	n_fsg_	_	6	_	_	_
+6	domei	dome	n	n_fsd_	_	4	_	_	_
+7	pārtraukt	pārtraukt	v	vm_n0__00__	_	4	_	_	_
+8	reklāmas	reklāma	n	n_fsg_	_	9	_	_	_
+9	izvietošanu	izvietošana	n	n_fsa_	_	7	_	_	_
+10	laikrakstā	laikraksts	n	n_msl_	_	9	_	_	_
+11	,	,	z	zc	_	12	_	_	_
+12	tomēr	tomēr	c	cc_	_	20	_	_	_
+13	Jelgavas	Jelgava	n	n_fsg_	_	14	_	_	_
+14	dome	dome	n	n_fsn_	_	18	_	_	_
+15	uz	uz	s	sppdy	_	18	_	_	_
+16	šīm	šī	p	p_3fpd_	_	17	_	_	_
+17	prasībām	prasība	n	n_fpd_	_	15	_	_	_
+18	nav	nebūt	v	vc_ip__30__	_	12	_	_	_
+19	reaģējusi	reaģēt	v	vm_pdfsn_s_	_	18	_	_	_
+20	.	.	z	zs	_	0	_	_	_
+
+1	Aģentūra	aģentūra	n	n_fsn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	17	_	_	_
+3	veikusi	veikt	v	vm_pdfsn_s_	_	2	_	_	_
+4	arī	arī	q	q_	_	5	_	_	_
+5	samaksu	samaksa	n	n_fsa_	_	2	_	_	_
+6	par	par	s	spsan	_	5	_	_	_
+7	darbinieku	darbinieks	n	n_mpg_	_	12	_	_	_
+8	atvaļinājuma	atvaļinājums	n	n_msg_	_	9	_	_	_
+9	un	un	c	cc_	_	11	_	_	_
+10	brīvdienu	brīvdiena	n	n_fpg_	_	9	_	_	_
+11	laikā	laiks	n	n_msl_	_	12	_	_	_
+12	izlietoto	izlietot	v	vm_pdfsa_s_	_	13	_	_	_
+13	degvielu	degviela	n	n_fsa_	_	6	_	_	_
+14	300	300	x	xn	_	15	_	_	_
+15	latu	lats	n	n_mpg_	_	16	_	_	_
+16	apmērā	apmērs	n	n_msl_	_	2	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Rāviņš	Rāviņš	n	n_msn_	_	2	_	_	_
+2	neizslēdz	neizslēgt	v	vm_ip__30__	_	0	_	_	_
+3	iespēju	iespēja	n	n_fsa_	_	2	_	_	_
+4	sodīt	sodīt	v	vm_n0__00__	_	3	_	_	_
+5	atbildīgos	atbildīgs	a	a_mpa__	_	4	_	_	_
+6	par	par	s	sppdn	_	4	_	_	_
+7	pārkāpumiem	pārkāpums	n	n_mpd_	_	6	_	_	_
+8	Jelgavas	Jelgava	n	n_fsg_	_	10	_	_	_
+9	pašvaldības	pašvaldība	n	n_fsg_	_	10	_	_	_
+10	aģentūrās	aģentūra	n	n_fpl_	_	7	_	_	_
+
+1	Rīga	Rīga	n	n_fsn_	_	7	_	_	_
+2	,	,	z	zc	_	7	_	_	_
+3	6.	6.	x	xo	_	4	_	_	_
+4	jūn.	jūn.	y	y	_	7	_	_	_
+5	,	,	z	zc	_	7	_	_	_
+6	LETA	LETA	y	y	_	7	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Tomēr	tomēr	q	q_	_	10	_	_	_
+2	arī	arī	q	q_	_	3	_	_	_
+3	viņš	viņš	p	p_3msn_	_	4	_	_	_
+4	neizslēdza	neizslēgt	v	vm_is__30__	_	10	_	_	_
+5	,	,	z	zc	_	6	_	_	_
+6	ka	ka	c	cs_	_	4	_	_	_
+7	ir	būt	v	vc_ip__30__	_	6	_	_	_
+8	iespējami	iespējams	a	a_mpn__	_	7	_	_	_
+9	sodi	sods	n	n_mpn_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Kā	kā	r	r__	_	2	_	_	_
+2	ziņots	ziņot	v	vm_pdmsn_s_	_	3	_	_	_
+3	,	,	z	zc	_	19	_	_	_
+4	Valsts	valsts	n	n_fsg_	_	5	_	_	_
+5	kontrole	kontrole	n	n_fsn_	_	11	_	_	_
+6	revīzijā	revīzija	n	n_fsl_	_	11	_	_	_
+7	Jelgavas	Jelgava	n	n_fsg_	_	8	_	_	_
+8	pilsētas	pilsēta	n	n_fsg_	_	9	_	_	_
+9	pašvaldības	pašvaldība	n	n_fsg_	_	10	_	_	_
+10	aģentūrās	aģentūra	n	n_fpl_	_	6	_	_	_
+11	konstatējusi	konstatēt	v	vm_pdfsn_s_	_	19	_	_	_
+12	nepamatotus	nepamatot	v	vm_pdmpa_s_	_	13	_	_	_
+13	tēriņus	tēriņš	n	n_mpa_	_	11	_	_	_
+14	vairāk	daudz	r	r__	_	15	_	_	_
+15	nekā	nekā	c	cs_	_	16	_	_	_
+16	50_000	50_000	x	xn	_	17	_	_	_
+17	latu	lats	n	n_mpg_	_	18	_	_	_
+18	apmērā	apmērs	n	n_msl_	_	13	_	_	_
+19	.	.	z	zs	_	0	_	_	_
+
+1	Pēc	pēc	s	sppdy	_	7	_	_	_
+2	Valsts	valsts	n	n_fsg_	_	3	_	_	_
+3	kontroles	kontrole	n	n_fsg_	_	4	_	_	_
+4	aizrādījumiem	aizrādījums	n	n_mpd_	_	1	_	_	_
+5	Jelgavas	Jelgava	n	n_fsg_	_	6	_	_	_
+6	pašvaldība	pašvaldība	n	n_fsn_	_	7	_	_	_
+7	apņemas	apņemties	v	vm_ip__30__	_	0	_	_	_
+8	rūpīgāk	rūpīgi	r	r__	_	9	_	_	_
+9	kontrolēt	kontrolēt	v	vm_n0__00__	_	7	_	_	_
+10	savas	sava	p	p_0fpa_	_	11	_	_	_
+11	aģentūras	aģentūra	n	n_fpa_	_	9	_	_	_
+
+1	Jelgava	Jelgava	n	n_fsn_	_	7	_	_	_
+2	,	,	z	zc	_	7	_	_	_
+3	4.	4.	x	xo	_	4	_	_	_
+4	jūn.	jūn.	y	y	_	7	_	_	_
+5	,	,	z	zc	_	7	_	_	_
+6	LETA	LETA	y	y	_	7	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	"	"	z	zq	_	0	_	_	_
+2	Pašvaldība	pašvaldība	n	n_fsn_	_	3	_	_	_
+3	ir	būt	v	vc_ip__30__	_	10	_	_	_
+4	sastādījusi	sastādīt	v	vm_pdfsn_s_	_	3	_	_	_
+5	laika	laiks	n	n_msg_	_	6	_	_	_
+6	grafiku	grafiks	n	n_msa_	_	3	_	_	_
+7	minēto	minēt	v	vm_pdmpg_s_	_	8	_	_	_
+8	aizrādījumu	aizrādījums	n	n_mpg_	_	9	_	_	_
+9	novēršanai	novēršana	n	n_fsd_	_	3	_	_	_
+10	.	.	z	zs	_	1	_	_	_
+
+1	Daļa	daļa	n	n_fsn_	_	5	_	_	_
+2	no	no	s	sppdy	_	1	_	_	_
+3	aizrādījumiem	aizrādījums	n	n_mpd_	_	2	_	_	_
+4	jau	jau	r	r__	_	5	_	_	_
+5	ir	būt	v	vc_ip__30__	_	7	_	_	_
+6	novērsti	novērst	v	vm_pdmpn_s_	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Lai	lai	c	cs_	_	12	_	_	_
+2	nepieļautu	nepieļaut	v	vm_c0__00__	_	1	_	_	_
+3	šādu	šāds	p	p_0mpa_	_	4	_	_	_
+4	pārkāpumu	pārkāpums	n	n_mpg_	_	5	_	_	_
+5	atkārtošanos	atkārtošanās	n	n_fsa_	_	2	_	_	_
+6	,	,	z	zc	_	1	_	_	_
+7	pašvaldību	pašvaldība	n	n_fpg_	_	8	_	_	_
+8	aģentūras	aģentūra	n	n_fpn_	_	9	_	_	_
+9	tiks	tikt	v	vt_if__30__	_	12	_	_	_
+10	auditētas	auditēt	v	vm_pdfpn_s_	_	9	_	_	_
+11	biežāk	bieži	r	r__	_	9	_	_	_
+12	,	,	z	zc	_	13	_	_	_
+13	"	"	z	zq	_	14	_	_	_
+14	pauda	paust	v	vm_is__30__	_	16	_	_	_
+15	Škutāne	Škutāne	n	n_fsn_	_	14	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	Aģentūra	aģentūra	n	n_fsn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	17	_	_	_
+3	veikusi	veikt	v	vm_pdfsn_s_	_	2	_	_	_
+4	arī	arī	q	q_	_	5	_	_	_
+5	samaksu	samaksa	n	n_fsa_	_	2	_	_	_
+6	par	par	s	spsan	_	5	_	_	_
+7	darbinieku	darbinieks	n	n_mpg_	_	12	_	_	_
+8	atvaļinājuma	atvaļinājums	n	n_msg_	_	9	_	_	_
+9	un	un	c	cc_	_	11	_	_	_
+10	brīvdienu	brīvdiena	n	n_fpg_	_	9	_	_	_
+11	laikā	laiks	n	n_msl_	_	12	_	_	_
+12	izlietoto	izlietot	v	vm_pdfsa_s_	_	13	_	_	_
+13	degvielu	degviela	n	n_fsa_	_	6	_	_	_
+14	300	300	x	xn	_	15	_	_	_
+15	latu	lats	n	n_mpg_	_	16	_	_	_
+16	apmērā	apmērs	n	n_msl_	_	2	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Par	par	s	spsan	_	5	_	_	_
+2	revīzijā	revīzija	n	n_fsl_	_	3	_	_	_
+3	konstatēto	konstatēt	v	vm_pdmsa_s_	_	1	_	_	_
+4	VK	VK	y	y	_	5	_	_	_
+5	ir	būt	v	vc_ip__30__	_	9	_	_	_
+6	informējusi	informēt	v	vm_pdfsn_s_	_	5	_	_	_
+7	tiesībaizsardzības	tiesībaizsardzība	n	n_fsg_	_	8	_	_	_
+8	iestādes	iestāde	n	n_fpa_	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Revīzija	revīzija	n	n_fsn_	_	2	_	_	_
+2	veikta	veikt	v	vm_pdfsn_s_	_	16	_	_	_
+3	par	par	s	spsan	_	2	_	_	_
+4	laika	laiks	n	n_msg_	_	5	_	_	_
+5	posmu	posms	n	n_msa_	_	3	_	_	_
+6	no	no	s	spsgy	_	5	_	_	_
+7	2009.	2009.	x	xo	_	8	_	_	_
+8	gada	gads	n	n_msg_	_	10	_	_	_
+9	1.	1.	x	xo	_	10	_	_	_
+10	janvāra	janvāris	n	n_msg_	_	6	_	_	_
+11	līdz	līdz	s	spsdy	_	5	_	_	_
+12	2011.	2011.	x	xo	_	13	_	_	_
+13	gada	gads	n	n_msg_	_	15	_	_	_
+14	30.	30.	x	xo	_	15	_	_	_
+15	jūnijam	jūnijs	n	n_msd_	_	11	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	Šī	šī	p	p_3fsn_	_	2	_	_	_
+2	tehnoloģija	tehnoloģija	n	n_fsn_	_	3	_	_	_
+3	dod	dot	v	vm_ip__30__	_	10	_	_	_
+4	iespēju	iespēja	n	n_fsa_	_	3	_	_	_
+5	optimāli	optimāli	r	r__	_	6	_	_	_
+6	strādāt	strādāt	v	vm_n0__00__	_	4	_	_	_
+7	ar	ar	s	sppdn	_	6	_	_	_
+8	deformētiem	deformēt	v	vm_pdmpd_s_	_	9	_	_	_
+9	nagiem	nags	n	n_mpd_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Izmantojot	izmantot	v	vm_pu000_0_	_	4	_	_	_
+2	formu	forma	n	n_fpg_	_	3	_	_	_
+3	tehnoloģiju	tehnoloģija	n	n_fsa_	_	1	_	_	_
+4	,	,	z	zc	_	5	_	_	_
+5	ir	būt	v	vc_ip__30__	_	15	_	_	_
+6	iespējams	iespējams	a	a_msn__	_	5	_	_	_
+7	pilnīgi	pilnīgi	r	r__	_	9	_	_	_
+8	atjaunot	atjaunot	v	vm_n0__00__	_	9	_	_	_
+9	un	un	c	cc_	_	5	_	_	_
+10	izlīdzināt	izlīdzināt	v	vm_n0__00__	_	9	_	_	_
+11	gandrīz	gandrīz	r	r__	_	12	_	_	_
+12	pilnīgi	pilnīgi	r	r__	_	13	_	_	_
+13	nograuztos	nograuzt	v	vm_pdmpa_s_	_	14	_	_	_
+14	nagus	nags	n	n_mpa_	_	9	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Šiem	šis	p	p_3mpd_	_	2	_	_	_
+2	mērķiem	mērķis	n	n_mpd_	_	3	_	_	_
+3	un	un	c	cc_	_	15	_	_	_
+4	arī	arī	q	q_	_	8	_	_	_
+5	nagu	nags	n	n_mpg_	_	6	_	_	_
+6	ieaudzēšanas	ieaudzēšana	n	n_fsg_	_	7	_	_	_
+7	problēmu	problēma	n	n_fpg_	_	8	_	_	_
+8	risināšanai	risināšana	n	n_fsd_	_	3	_	_	_
+9	tiek	tikt	v	vt_ip__30__	_	15	_	_	_
+10	pielietots	pielietot	v	vm_pdmsn_s_	_	9	_	_	_
+11	akrils	akrils	n	n_msn_	_	9	_	_	_
+12	arī	arī	q	q_	_	14	_	_	_
+13	kāju	kāja	n	n_fpg_	_	14	_	_	_
+14	nagiem	nags	n	n_mpd_	_	10	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Pareiza	pareiza	a	a_fsn__	_	4	_	_	_
+2	nagu	nags	n	n_mpg_	_	3	_	_	_
+3	pieaudzēšanas	pieaudzēšana	n	n_fsg_	_	4	_	_	_
+4	procedūra	procedūra	n	n_fsn_	_	6	_	_	_
+5	,	,	z	zc	_	6	_	_	_
+6	kā_arī	kā_arī	c	cc_	_	16	_	_	_
+7	pareiza	pareiza	a	a_fsn__	_	8	_	_	_
+8	korekcija	korekcija	n	n_fsn_	_	9	_	_	_
+9	un	un	c	cc_	_	6	_	_	_
+10	noņemšanas	noņemšana	n	n_fsg_	_	11	_	_	_
+11	procedūra	procedūra	n	n_fsn_	_	9	_	_	_
+12	nekāda	nekāda	p	p_0msg_	_	13	_	_	_
+13	ļaunuma	ļaunums	n	n_msg_	_	16	_	_	_
+14	dabīgiem	dabīgs	a	a_mpd__	_	15	_	_	_
+15	nagiem	nags	n	n_mpd_	_	16	_	_	_
+16	nenodara	nenodarīt	v	vm_ip__30__	_	17	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Nagus	nags	n	n_mpa_	_	2	_	_	_
+2	pieaudzē	pieaudzēt	v	vm_ip__30__	_	8	_	_	_
+3	uz	uz	s	sppdy	_	2	_	_	_
+4	3	3	x	xn	_	5	_	_	_
+5	-	-	z	zd	_	7	_	_	_
+6	4	4	x	xn	_	5	_	_	_
+7	nedēļām	nedēļa	n	n_fpd_	_	3	_	_	_
+8	,	,	z	zc	_	14	_	_	_
+9	pēc	pēc	s	spsdy	_	11	_	_	_
+10	tam	tas	p	p_3msd_	_	9	_	_	_
+11	ir	būt	v	vc_ip__30__	_	8	_	_	_
+12	jāveic	veikt	v	vm_d0__00__	_	11	_	_	_
+13	korekcija	korekcija	n	n_fsa_	_	12	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	6	_	_	_
+3	ērti	ērti	r	r__	_	4	_	_	_
+4	un	un	c	cc_	_	2	_	_	_
+5	praktiski	praktiski	r	r__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Uzskats	uzskats	n	n_msn_	_	9	_	_	_
+2	,	,	z	zc	_	3	_	_	_
+3	ka	ka	c	cs_	_	1	_	_	_
+4	mākslīgie	mākslīgs	a	a_mpn__	_	5	_	_	_
+5	nagi	nags	n	n_mpn_	_	6	_	_	_
+6	bojā	bojāt	v	vm_ip__30__	_	3	_	_	_
+7	dabīgos	dabīgs	a	a_mpa__	_	6	_	_	_
+8	,	,	z	zc	_	3	_	_	_
+9	nav	nebūt	v	vc_ip__30__	_	11	_	_	_
+10	pareizs	pareizs	a	a_msn__	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Uzticiet	uzticēt	v	vm_m0__2p__	_	8	_	_	_
+2	savas	sava	p	p_0fpa_	_	3	_	_	_
+3	rokas	roka	n	n_fpa_	_	1	_	_	_
+4	tikai	tikai	q	q_	_	7	_	_	_
+5	augsta	augsts	a	a_msg__	_	6	_	_	_
+6	līmeņa	līmenis	n	n_msg_	_	7	_	_	_
+7	speciālistiem	speciālists	n	n_mpd_	_	1	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	,	,	z	zc	_	12	_	_	_
+3	noņemot	noņemt	v	vm_pu000_0_	_	2	_	_	_
+4	no	no	s	sppdy	_	3	_	_	_
+5	pēdām	pēda	n	n_fpd_	_	4	_	_	_
+6	atmirušo	atmirt	v	vm_pdmsa_s_	_	7	_	_	_
+7	ādu	āda	n	n_fsa_	_	3	_	_	_
+8	,	,	z	zc	_	2	_	_	_
+9	jūs	jūs	p	p_20pn_	_	12	_	_	_
+10	attīrāt	attīrīt	v	vm_ip__2p__	_	12	_	_	_
+11	organismu	organisms	n	n_msa_	_	10	_	_	_
+12	un	un	c	cc_	_	1	_	_	_
+13	ļaujat	ļaut	v	vm_ip__2p__	_	12	_	_	_
+14	tam	tas	p	p_3msd_	_	13	_	_	_
+15	brīvi	brīvi	r	r__	_	16	_	_	_
+16	elpot	elpot	v	vm_n0__00__	_	13	_	_	_
+17	.	.	z	zs	_	1	_	_	_
+
+1	Nav	nebūt	v	vg_ip__30__	_	11	_	_	_
+2	viennozīmīgas	viennozīmīga	a	a_fsg__	_	3	_	_	_
+3	atbildes	atbilde	n	n_fsg_	_	1	_	_	_
+4	,	,	z	zc	_	3	_	_	_
+5	cik	cik	r	r__	_	6	_	_	_
+6	bieži	bieži	r	r__	_	8	_	_	_
+7	vajadzētu	vajadzēt	v	vo_c0__00__	_	4	_	_	_
+8	veikt	veikt	v	vm_n0__00__	_	7	_	_	_
+9	šo	šī	p	p_3fsa_	_	10	_	_	_
+10	procedūru	procedūra	n	n_fsa_	_	8	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Ja	ja	c	cs_	_	15	_	_	_
+2	jūs	jūs	p	p_20pn_	_	3	_	_	_
+3	dodat	dot	v	vm_ip__2p__	_	1	_	_	_
+4	priekšroku	priekšroka	n	n_fsa_	_	3	_	_	_
+5	veikt	veikt	v	vm_n0__00__	_	3	_	_	_
+6	pedikīru	pedikīrs	n	n_msa_	_	5	_	_	_
+7	mājas	māja	n	n_fsg_	_	8	_	_	_
+8	apstākļos	apstāklis	n	n_mpl_	_	5	_	_	_
+9	,	,	z	zc	_	1	_	_	_
+10	tad	tad	r	r__	_	13	_	_	_
+11	sākumā	sākums	n	n_msl_	_	13	_	_	_
+12	rūpīgi	rūpīgi	r	r__	_	13	_	_	_
+13	sagatavojiet	sagatavot	v	vm_m0__2p__	_	15	_	_	_
+14	kājas	kāja	n	n_fpa_	_	13	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Piepildiet	piepildīt	v	vm_m0__2p__	_	5	_	_	_
+2	trauku	trauks	n	n_msa_	_	1	_	_	_
+3	ar	ar	s	spsan	_	1	_	_	_
+4	ūdeni	ūdens	n	n_msa_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Pēc	pēc	s	sppdy	_	3	_	_	_
+2	vēlmēm	vēlme	n	n_fpd_	_	1	_	_	_
+3	var	varēt	v	vo_ip__30__	_	9	_	_	_
+4	pievienot	pievienot	v	vm_n0__00__	_	3	_	_	_
+5	arī	arī	q	q_	_	7	_	_	_
+6	augu	augs	n	n_mpg_	_	7	_	_	_
+7	vai	vai	c	cc_	_	4	_	_	_
+8	olīveļļu	olīveļļa	n	n_fsa_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Ik	ik	q	q_	_	2	_	_	_
+2	pa	pa	s	spsdy	_	6	_	_	_
+3	laikam	laiks	n	n_msd_	_	2	_	_	_
+4	ūdens	ūdens	n	n_msg_	_	5	_	_	_
+5	traukā	trauks	n	n_msl_	_	6	_	_	_
+6	ir	būt	v	vc_ip__30__	_	10	_	_	_
+7	jāpievieno	pievienot	v	vm_d0__00__	_	6	_	_	_
+8	karsts	karsts	a	a_msn__	_	9	_	_	_
+9	ūdens	ūdens	n	n_msn_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Tiklīdz	tiklīdz	c	cs_	_	13	_	_	_
+2	jūs	jūs	p	p_20pn_	_	3	_	_	_
+3	jūtat	just	v	vm_ip__2p__	_	1	_	_	_
+4	,	,	z	zc	_	5	_	_	_
+5	ka	ka	c	cs_	_	3	_	_	_
+6	āda	āda	n	n_fsn_	_	9	_	_	_
+7	ap	ap	s	sppdy	_	9	_	_	_
+8	nagiem	nags	n	n_mpd_	_	7	_	_	_
+9	ir	būt	v	vc_ip__30__	_	5	_	_	_
+10	kļuvusi	kļūt	v	vt_pdfsn_s_	_	9	_	_	_
+11	mīksta	mīksta	a	a_fsn__	_	10	_	_	_
+12	,	,	z	zc	_	5	_	_	_
+13	var	varēt	v	vo_ip__30__	_	17	_	_	_
+14	ķerties	ķerties	v	vm_n0__00__	_	13	_	_	_
+15	pie	pie	s	spsgy	_	14	_	_	_
+16	procedūras	procedūra	n	n_fsg_	_	15	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Šī	šī	p	p_3fsn_	_	2	_	_	_
+2	tehnoloģija	tehnoloģija	n	n_fsn_	_	3	_	_	_
+3	dod	dot	v	vm_ip__30__	_	10	_	_	_
+4	iespēju	iespēja	n	n_fsa_	_	3	_	_	_
+5	optimāli	optimāli	r	r__	_	6	_	_	_
+6	strādāt	strādāt	v	vm_n0__00__	_	4	_	_	_
+7	ar	ar	s	sppdn	_	6	_	_	_
+8	deformētiem	deformēt	v	vm_pdmpd_s_	_	9	_	_	_
+9	nagiem	nags	n	n_mpd_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Izmantojot	izmantot	v	vm_pu000_0_	_	4	_	_	_
+2	formu	forma	n	n_fpg_	_	3	_	_	_
+3	tehnoloģiju	tehnoloģija	n	n_fsa_	_	1	_	_	_
+4	,	,	z	zc	_	5	_	_	_
+5	ir	būt	v	vc_ip__30__	_	15	_	_	_
+6	iespējams	iespējams	a	a_msn__	_	5	_	_	_
+7	pilnīgi	pilnīgi	r	r__	_	9	_	_	_
+8	atjaunot	atjaunot	v	vm_n0__00__	_	9	_	_	_
+9	un	un	c	cc_	_	5	_	_	_
+10	izlīdzināt	izlīdzināt	v	vm_n0__00__	_	9	_	_	_
+11	gandrīz	gandrīz	r	r__	_	12	_	_	_
+12	pilnīgi	pilnīgi	r	r__	_	13	_	_	_
+13	nograuztos	nograuzt	v	vm_pdmpa_s_	_	14	_	_	_
+14	nagus	nags	n	n_mpa_	_	9	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Šiem	šis	p	p_3mpd_	_	2	_	_	_
+2	mērķiem	mērķis	n	n_mpd_	_	3	_	_	_
+3	un	un	c	cc_	_	15	_	_	_
+4	arī	arī	q	q_	_	8	_	_	_
+5	nagu	nags	n	n_mpg_	_	6	_	_	_
+6	ieaudzēšanas	ieaudzēšana	n	n_fsg_	_	7	_	_	_
+7	problēmu	problēma	n	n_fpg_	_	8	_	_	_
+8	risināšanai	risināšana	n	n_fsd_	_	3	_	_	_
+9	tiek	tikt	v	vt_ip__30__	_	15	_	_	_
+10	pielietots	pielietot	v	vm_pdmsn_s_	_	9	_	_	_
+11	akrils	akrils	n	n_msn_	_	9	_	_	_
+12	arī	arī	q	q_	_	14	_	_	_
+13	kāju	kāja	n	n_fpg_	_	14	_	_	_
+14	nagiem	nags	n	n_mpd_	_	10	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Pareiza	pareiza	a	a_fsn__	_	4	_	_	_
+2	nagu	nags	n	n_mpg_	_	3	_	_	_
+3	pieaudzēšanas	pieaudzēšana	n	n_fsg_	_	4	_	_	_
+4	procedūra	procedūra	n	n_fsn_	_	6	_	_	_
+5	,	,	z	zc	_	6	_	_	_
+6	kā_arī	kā_arī	c	cc_	_	16	_	_	_
+7	pareiza	pareiza	a	a_fsn__	_	8	_	_	_
+8	korekcija	korekcija	n	n_fsn_	_	9	_	_	_
+9	un	un	c	cc_	_	6	_	_	_
+10	noņemšanas	noņemšana	n	n_fsg_	_	11	_	_	_
+11	procedūra	procedūra	n	n_fsn_	_	9	_	_	_
+12	nekāda	nekāda	p	p_0msg_	_	13	_	_	_
+13	ļaunuma	ļaunums	n	n_msg_	_	16	_	_	_
+14	dabīgiem	dabīgs	a	a_mpd__	_	15	_	_	_
+15	nagiem	nags	n	n_mpd_	_	16	_	_	_
+16	nenodara	nenodarīt	v	vm_ip__30__	_	17	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Nagus	nags	n	n_mpa_	_	2	_	_	_
+2	pieaudzē	pieaudzēt	v	vm_ip__30__	_	8	_	_	_
+3	uz	uz	s	sppdy	_	2	_	_	_
+4	3	3	x	xn	_	5	_	_	_
+5	-	-	z	zd	_	7	_	_	_
+6	4	4	x	xn	_	5	_	_	_
+7	nedēļām	nedēļa	n	n_fpd_	_	3	_	_	_
+8	,	,	z	zc	_	14	_	_	_
+9	pēc	pēc	s	spsdy	_	11	_	_	_
+10	tam	tas	p	p_3msd_	_	9	_	_	_
+11	ir	būt	v	vc_ip__30__	_	8	_	_	_
+12	jāveic	veikt	v	vm_d0__00__	_	11	_	_	_
+13	korekcija	korekcija	n	n_fsa_	_	12	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	6	_	_	_
+3	ērti	ērti	r	r__	_	4	_	_	_
+4	un	un	c	cc_	_	2	_	_	_
+5	praktiski	praktiski	r	r__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Uzskats	uzskats	n	n_msn_	_	9	_	_	_
+2	,	,	z	zc	_	3	_	_	_
+3	ka	ka	c	cs_	_	1	_	_	_
+4	mākslīgie	mākslīgs	a	a_mpn__	_	5	_	_	_
+5	nagi	nags	n	n_mpn_	_	6	_	_	_
+6	bojā	bojāt	v	vm_ip__30__	_	3	_	_	_
+7	dabīgos	dabīgs	a	a_mpa__	_	6	_	_	_
+8	,	,	z	zc	_	3	_	_	_
+9	nav	nebūt	v	vc_ip__30__	_	11	_	_	_
+10	pareizs	pareizs	a	a_msn__	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Uzticiet	uzticēt	v	vm_m0__2p__	_	8	_	_	_
+2	savas	sava	p	p_0fpa_	_	3	_	_	_
+3	rokas	roka	n	n_fpa_	_	1	_	_	_
+4	tikai	tikai	q	q_	_	7	_	_	_
+5	augsta	augsts	a	a_msg__	_	6	_	_	_
+6	līmeņa	līmenis	n	n_msg_	_	7	_	_	_
+7	speciālistiem	speciālists	n	n_mpd_	_	1	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	,	,	z	zc	_	12	_	_	_
+3	noņemot	noņemt	v	vm_pu000_0_	_	2	_	_	_
+4	no	no	s	sppdy	_	3	_	_	_
+5	pēdām	pēda	n	n_fpd_	_	4	_	_	_
+6	atmirušo	atmirt	v	vm_pdmsa_s_	_	7	_	_	_
+7	ādu	āda	n	n_fsa_	_	3	_	_	_
+8	,	,	z	zc	_	2	_	_	_
+9	jūs	jūs	p	p_20pn_	_	12	_	_	_
+10	attīrāt	attīrīt	v	vm_ip__2p__	_	12	_	_	_
+11	organismu	organisms	n	n_msa_	_	10	_	_	_
+12	un	un	c	cc_	_	1	_	_	_
+13	ļaujat	ļaut	v	vm_ip__2p__	_	12	_	_	_
+14	tam	tas	p	p_3msd_	_	13	_	_	_
+15	brīvi	brīvi	r	r__	_	16	_	_	_
+16	elpot	elpot	v	vm_n0__00__	_	13	_	_	_
+17	.	.	z	zs	_	1	_	_	_
+
+1	Nav	nebūt	v	vg_ip__30__	_	11	_	_	_
+2	viennozīmīgas	viennozīmīga	a	a_fsg__	_	3	_	_	_
+3	atbildes	atbilde	n	n_fsg_	_	1	_	_	_
+4	,	,	z	zc	_	3	_	_	_
+5	cik	cik	r	r__	_	6	_	_	_
+6	bieži	bieži	r	r__	_	8	_	_	_
+7	vajadzētu	vajadzēt	v	vo_c0__00__	_	4	_	_	_
+8	veikt	veikt	v	vm_n0__00__	_	7	_	_	_
+9	šo	šī	p	p_3fsa_	_	10	_	_	_
+10	procedūru	procedūra	n	n_fsa_	_	8	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Ja	ja	c	cs_	_	15	_	_	_
+2	jūs	jūs	p	p_20pn_	_	3	_	_	_
+3	dodat	dot	v	vm_ip__2p__	_	1	_	_	_
+4	priekšroku	priekšroka	n	n_fsa_	_	3	_	_	_
+5	veikt	veikt	v	vm_n0__00__	_	3	_	_	_
+6	pedikīru	pedikīrs	n	n_msa_	_	5	_	_	_
+7	mājas	māja	n	n_fsg_	_	8	_	_	_
+8	apstākļos	apstāklis	n	n_mpl_	_	5	_	_	_
+9	,	,	z	zc	_	1	_	_	_
+10	tad	tad	r	r__	_	13	_	_	_
+11	sākumā	sākums	n	n_msl_	_	13	_	_	_
+12	rūpīgi	rūpīgi	r	r__	_	13	_	_	_
+13	sagatavojiet	sagatavot	v	vm_m0__2p__	_	15	_	_	_
+14	kājas	kāja	n	n_fpa_	_	13	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Piepildiet	piepildīt	v	vm_m0__2p__	_	5	_	_	_
+2	trauku	trauks	n	n_msa_	_	1	_	_	_
+3	ar	ar	s	spsan	_	1	_	_	_
+4	ūdeni	ūdens	n	n_msa_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Pēc	pēc	s	sppdy	_	3	_	_	_
+2	vēlmēm	vēlme	n	n_fpd_	_	1	_	_	_
+3	var	varēt	v	vo_ip__30__	_	9	_	_	_
+4	pievienot	pievienot	v	vm_n0__00__	_	3	_	_	_
+5	arī	arī	q	q_	_	7	_	_	_
+6	augu	augs	n	n_mpg_	_	7	_	_	_
+7	vai	vai	c	cc_	_	4	_	_	_
+8	olīveļļu	olīveļļa	n	n_fsa_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Ik	ik	q	q_	_	2	_	_	_
+2	pa	pa	s	spsdy	_	6	_	_	_
+3	laikam	laiks	n	n_msd_	_	2	_	_	_
+4	ūdens	ūdens	n	n_msg_	_	5	_	_	_
+5	traukā	trauks	n	n_msl_	_	6	_	_	_
+6	ir	būt	v	vc_ip__30__	_	10	_	_	_
+7	jāpievieno	pievienot	v	vm_d0__00__	_	6	_	_	_
+8	karsts	karsts	a	a_msn__	_	9	_	_	_
+9	ūdens	ūdens	n	n_msn_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Tiklīdz	tiklīdz	c	cs_	_	13	_	_	_
+2	jūs	jūs	p	p_20pn_	_	3	_	_	_
+3	jūtat	just	v	vm_ip__2p__	_	1	_	_	_
+4	,	,	z	zc	_	5	_	_	_
+5	ka	ka	c	cs_	_	3	_	_	_
+6	āda	āda	n	n_fsn_	_	9	_	_	_
+7	ap	ap	s	sppdy	_	9	_	_	_
+8	nagiem	nags	n	n_mpd_	_	7	_	_	_
+9	ir	būt	v	vc_ip__30__	_	5	_	_	_
+10	kļuvusi	kļūt	v	vt_pdfsn_s_	_	9	_	_	_
+11	mīksta	mīksta	a	a_fsn__	_	10	_	_	_
+12	,	,	z	zc	_	5	_	_	_
+13	var	varēt	v	vo_ip__30__	_	17	_	_	_
+14	ķerties	ķerties	v	vm_n0__00__	_	13	_	_	_
+15	pie	pie	s	spsgy	_	14	_	_	_
+16	procedūras	procedūra	n	n_fsg_	_	15	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Noteikt	noteikt	v	vm_n0__00__	_	4	_	_	_
+2	ādas	āda	n	n_fsg_	_	3	_	_	_
+3	stāvokli	stāvoklis	n	n_msa_	_	1	_	_	_
+4	ir	būt	v	vc_ip__30__	_	6	_	_	_
+5	vienkārši	vienkārši	r	r__	_	4	_	_	_
+6	–	–	z	zd	_	12	_	_	_
+7	tai	tā	p	p_3fsd_	_	8	_	_	_
+8	ir	būt	v	vc_ip__30__	_	6	_	_	_
+9	jākļūst	kļūt	v	vm_d0__00__	_	8	_	_	_
+10	gaiši	gaiši	r	r__	_	11	_	_	_
+11	rozā	rozā	a	a_000__	_	9	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Paberzējiet	paberzēt	v	vm_m0__2p__	_	8	_	_	_
+2	pēdas	pēda	n	n_fpa_	_	1	_	_	_
+3	ar	ar	s	spsan	_	1	_	_	_
+4	mīkstu	mīksta	a	a_fsa__	_	5	_	_	_
+5	birstīti	birstīte	n	n_fsa_	_	3	_	_	_
+6	apļveida	apļveida	n	n_mss_	_	7	_	_	_
+7	kustībām	kustība	n	n_fpd_	_	1	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Var	varēt	v	vo_ip__30__	_	14	_	_	_
+2	lietot	lietot	v	vm_n0__00__	_	1	_	_	_
+3	arī	arī	q	q_	_	14	_	_	_
+4	speciālos	speciāls	a	a_mpa__	_	6	_	_	_
+5	attīrošos	attīrīt	v	vm_pdmpa_p_	_	6	_	_	_
+6	skrubjus	skrubis	n	n_mpa_	_	2	_	_	_
+7	kājām	kāja	n	n_fpd_	_	6	_	_	_
+8	,	,	z	zc	_	9	_	_	_
+9	lai	lai	c	cs_	_	14	_	_	_
+10	noņemtu	noņemt	v	vm_c0__00__	_	9	_	_	_
+11	atmirušās	atmirt	v	vm_pdfpa_s_	_	12	_	_	_
+12	ādas	āda	n	n_fsg_	_	13	_	_	_
+13	daļiņas	daļiņa	n	n_fpa_	_	10	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Pēc	pēc	s	spsgy	_	3	_	_	_
+2	pusstundas	pusstunda	n	n_fsg_	_	1	_	_	_
+3	var	varēt	v	vo_ip__30__	_	8	_	_	_
+4	ķerties	ķerties	v	vm_n0__00__	_	3	_	_	_
+5	pie	pie	s	spsgy	_	4	_	_	_
+6	pedikīra	pedikīrs	n	n_msg_	_	7	_	_	_
+7	veikšanas	veikšana	n	n_fsg_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Griezt	griezt	v	vm_n0__00__	_	6	_	_	_
+2	kutikulu	kutikula	n	n_fsa_	_	1	_	_	_
+3	ap	ap	s	sppdy	_	2	_	_	_
+4	pirkstiem	pirksts	n	n_mpd_	_	3	_	_	_
+5	nedrīkst	nedrīkstēt	v	vo_ip__30__	_	1	_	_	_
+6	,	,	z	zc	_	12	_	_	_
+7	tas	tas	p	p_3msn_	_	8	_	_	_
+8	var	varēt	v	vo_ip__30__	_	6	_	_	_
+9	izraisīt	izraisīt	v	vm_n0__00__	_	8	_	_	_
+10	ādas	āda	n	n_fsg_	_	11	_	_	_
+11	iekaisumu	iekaisums	n	n_msa_	_	9	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Nogrieziet	nogriezt	v	vm_m0__2p__	_	3	_	_	_
+2	nagus	nags	n	n_mpa_	_	1	_	_	_
+3	,	,	z	zc	_	8	_	_	_
+4	piešķiriet	piešķirt	v	vm_m0__2p__	_	3	_	_	_
+5	tiem	tas	p	p_3mpd_	_	4	_	_	_
+6	glītu	glīta	a	a_fsa__	_	7	_	_	_
+7	formu	forma	n	n_fsa_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Lielā	liels	a	a_msg__	_	2	_	_	_
+2	pirksta	pirksts	n	n_msg_	_	3	_	_	_
+3	nagu	nags	n	n_msa_	_	4	_	_	_
+4	grieziet	griezt	v	vm_m0__2p__	_	15	_	_	_
+5	tikai	tikai	q	q_	_	6	_	_	_
+6	taisnā	taisna	a	a_fsl__	_	7	_	_	_
+7	līnijā	līnija	n	n_fsl_	_	4	_	_	_
+8	,	,	z	zc	_	9	_	_	_
+9	lai	lai	c	cs_	_	15	_	_	_
+10	izbēgtu	izbēgt	v	vm_c0__00__	_	9	_	_	_
+11	no	no	s	spsgy	_	10	_	_	_
+12	tā	tas	p	p_3msg_	_	13	_	_	_
+13	ieaugšanas	ieaugšana	n	n_fsg_	_	11	_	_	_
+14	pirkstā	pirksts	n	n_msl_	_	13	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Vērsieties	vērsties	v	vm_m0__2p__	_	10	_	_	_
+2	pēc	pēc	s	spsgy	_	1	_	_	_
+3	palīdzības	palīdzība	n	n_fsg_	_	2	_	_	_
+4	pie	pie	s	spsgy	_	1	_	_	_
+5	ārsta	ārsts	n	n_msg_	_	6	_	_	_
+6	vai	vai	c	cc_	_	4	_	_	_
+7	pieredzējuša	pieredzēt	v	vm_pdmsg_s_	_	9	_	_	_
+8	pedikīra	pedikīrs	n	n_msg_	_	9	_	_	_
+9	meistara	meistars	n	n_msg_	_	6	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Šāda	šāda	p	p_0fsn_	_	2	_	_	_
+2	āda	āda	n	n_fsn_	_	3	_	_	_
+3	sāk	sākt	v	vp_ip__30__	_	15	_	_	_
+4	veidoties	veidoties	v	vm_n0__00__	_	3	_	_	_
+5	dēļ	dēļ	s	sppdn	_	4	_	_	_
+6	pārlieku	pārlieku	r	r__	_	7	_	_	_
+7	ciešiem	ciešs	a	a_mpd__	_	8	_	_	_
+8	apaviem	apavi	n	n_mpd_	_	5	_	_	_
+9	,	,	z	zc	_	10	_	_	_
+10	kā_arī	kā_arī	c	cc_	_	3	_	_	_
+11	ja	ja	c	cs_	_	10	_	_	_
+12	ir	būt	v	vc_ip__30__	_	10	_	_	_
+13	traucēta	traucēt	v	vm_pdfsn_s_	_	12	_	_	_
+14	asinsrite	asinsrite	n	n_fsn_	_	12	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	No	no	s	spsgy	_	3	_	_	_
+2	rīta	rīts	n	n_msg_	_	1	_	_	_
+3	noņemiet	noņemt	v	vm_m0__2p__	_	5	_	_	_
+4	kompresi	komprese	n	n_fsa_	_	3	_	_	_
+5	,	,	z	zc	_	17	_	_	_
+6	noskalojiet	noskalot	v	vm_m0__2p__	_	10	_	_	_
+7	kājas	kāja	n	n_fpa_	_	6	_	_	_
+8	siltā	silts	a	a_msl__	_	9	_	_	_
+9	ūdenī	ūdens	n	n_msl_	_	6	_	_	_
+10	un	un	c	cc_	_	5	_	_	_
+11	paberzējiet	paberzēt	v	vm_m0__2p__	_	10	_	_	_
+12	pārakmeņojušos	pārakmeņoties	v	vm_pdfsa_s_	_	13	_	_	_
+13	ādu	āda	n	n_fsa_	_	11	_	_	_
+14	ar	ar	s	spsan	_	11	_	_	_
+15	cietu	cieta	a	a_fsa__	_	16	_	_	_
+16	birstīti	birstīte	n	n_fsa_	_	14	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Veicot	veikt	v	vm_pu000_0_	_	3	_	_	_
+2	pedikīru	pedikīrs	n	n_msa_	_	1	_	_	_
+3	,	,	z	zc	_	4	_	_	_
+4	pievērsiet	pievērt	v	vm_m0__2p__	_	9	_	_	_
+5	īpašu	īpašs	a	a_fsa__	_	6	_	_	_
+6	uzmanību	uzmanība	n	n_fsa_	_	4	_	_	_
+7	nagu	nags	n	n_mpg_	_	8	_	_	_
+8	stāvoklim	stāvoklis	n	n_msd_	_	4	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Tiem	tas	p	p_3mpd_	_	7	_	_	_
+2	ir	būt	v	vc_ip__30__	_	7	_	_	_
+3	ļoti	ļoti	r	r__	_	5	_	_	_
+4	vajadzīga	vajadzīga	a	a_fsn__	_	2	_	_	_
+5	rūpīga	rūpīga	a	a_fsn__	_	6	_	_	_
+6	kopšana	kopšana	n	n_fsn_	_	2	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Pat	pat	q	q_	_	5	_	_	_
+2	pati	pati	p	p_0fsn_	_	3	_	_	_
+3	dārgākā	dārga	a	a_fsn__	_	5	_	_	_
+4	nagu	nags	n	n_mpg_	_	5	_	_	_
+5	laka	laka	n	n_fsn_	_	6	_	_	_
+6	nepadarīs	nepadarīt	v	vm_if__30__	_	10	_	_	_
+7	slimus	slims	a	a_mpa__	_	8	_	_	_
+8	nagus	nags	n	n_mpa_	_	6	_	_	_
+9	skaistus	skaists	a	a_mpa__	_	6	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Nagu	nags	n	n_mpg_	_	2	_	_	_
+2	kopšanas	kopšana	n	n_fsg_	_	3	_	_	_
+3	nav	nebūt	v	vc_ip__30__	_	13	_	_	_
+4	sarežģīta	sarežģīta	a	a_fsn__	_	3	_	_	_
+5	,	,	z	zc	_	3	_	_	_
+6	ar	ar	s	spsan	_	5	_	_	_
+7	nosacījumu	nosacījums	n	n_msa_	_	6	_	_	_
+8	,	,	z	zc	_	9	_	_	_
+9	ka	ka	c	cs_	_	7	_	_	_
+10	to	tā	p	p_3fsa_	_	11	_	_	_
+11	veiksiet	veikt	v	vm_if__2p__	_	9	_	_	_
+12	regulāri	regulāri	r	r__	_	11	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Nagus	nags	n	n_mpa_	_	3	_	_	_
+2	nedrīkst	nedrīkstēt	v	vo_ip__30__	_	6	_	_	_
+3	vīlēt	vīlēt	v	vm_n0__00__	_	2	_	_	_
+4	jebkurā	jebkurš	p	p_0msl_	_	5	_	_	_
+5	virzienā	virziens	n	n_msl_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Nagi	nags	n	n_mpn_	_	3	_	_	_
+2	ir	būt	v	vc_ip__30__	_	12	_	_	_
+3	jāvīlē	vīlēt	v	vm_d0__00__	_	2	_	_	_
+4	tikai	tikai	q	q_	_	5	_	_	_
+5	vienā	viens	m	m__msl_	_	6	_	_	_
+6	virzienā	virziens	n	n_msl_	_	3	_	_	_
+7	–	–	z	zd	_	6	_	_	_
+8	no	no	s	spsgy	_	7	_	_	_
+9	malas	mala	n	n_fsg_	_	8	_	_	_
+10	uz	uz	s	spsay	_	7	_	_	_
+11	vidu	vidus	n	n_msa_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Noteikt	noteikt	v	vm_n0__00__	_	4	_	_	_
+2	ādas	āda	n	n_fsg_	_	3	_	_	_
+3	stāvokli	stāvoklis	n	n_msa_	_	1	_	_	_
+4	ir	būt	v	vc_ip__30__	_	6	_	_	_
+5	vienkārši	vienkārši	r	r__	_	4	_	_	_
+6	–	–	z	zd	_	12	_	_	_
+7	tai	tā	p	p_3fsd_	_	8	_	_	_
+8	ir	būt	v	vc_ip__30__	_	6	_	_	_
+9	jākļūst	kļūt	v	vm_d0__00__	_	8	_	_	_
+10	gaiši	gaiši	r	r__	_	11	_	_	_
+11	rozā	rozā	a	a_000__	_	9	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Paberzējiet	paberzēt	v	vm_m0__2p__	_	8	_	_	_
+2	pēdas	pēda	n	n_fpa_	_	1	_	_	_
+3	ar	ar	s	spsan	_	1	_	_	_
+4	mīkstu	mīksta	a	a_fsa__	_	5	_	_	_
+5	birstīti	birstīte	n	n_fsa_	_	3	_	_	_
+6	apļveida	apļveida	n	n_mss_	_	7	_	_	_
+7	kustībām	kustība	n	n_fpd_	_	1	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Var	varēt	v	vo_ip__30__	_	14	_	_	_
+2	lietot	lietot	v	vm_n0__00__	_	1	_	_	_
+3	arī	arī	q	q_	_	14	_	_	_
+4	speciālos	speciāls	a	a_mpa__	_	6	_	_	_
+5	attīrošos	attīrīt	v	vm_pdmpa_p_	_	6	_	_	_
+6	skrubjus	skrubis	n	n_mpa_	_	2	_	_	_
+7	kājām	kāja	n	n_fpd_	_	6	_	_	_
+8	,	,	z	zc	_	9	_	_	_
+9	lai	lai	c	cs_	_	14	_	_	_
+10	noņemtu	noņemt	v	vm_c0__00__	_	9	_	_	_
+11	atmirušās	atmirt	v	vm_pdfpa_s_	_	12	_	_	_
+12	ādas	āda	n	n_fsg_	_	13	_	_	_
+13	daļiņas	daļiņa	n	n_fpa_	_	10	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Pēc	pēc	s	spsgy	_	3	_	_	_
+2	pusstundas	pusstunda	n	n_fsg_	_	1	_	_	_
+3	var	varēt	v	vo_ip__30__	_	8	_	_	_
+4	ķerties	ķerties	v	vm_n0__00__	_	3	_	_	_
+5	pie	pie	s	spsgy	_	4	_	_	_
+6	pedikīra	pedikīrs	n	n_msg_	_	7	_	_	_
+7	veikšanas	veikšana	n	n_fsg_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Griezt	griezt	v	vm_n0__00__	_	6	_	_	_
+2	kutikulu	kutikula	n	n_fsa_	_	1	_	_	_
+3	ap	ap	s	sppdy	_	2	_	_	_
+4	pirkstiem	pirksts	n	n_mpd_	_	3	_	_	_
+5	nedrīkst	nedrīkstēt	v	vo_ip__30__	_	1	_	_	_
+6	,	,	z	zc	_	12	_	_	_
+7	tas	tas	p	p_3msn_	_	8	_	_	_
+8	var	varēt	v	vo_ip__30__	_	6	_	_	_
+9	izraisīt	izraisīt	v	vm_n0__00__	_	8	_	_	_
+10	ādas	āda	n	n_fsg_	_	11	_	_	_
+11	iekaisumu	iekaisums	n	n_msa_	_	9	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Nogrieziet	nogriezt	v	vm_m0__2p__	_	3	_	_	_
+2	nagus	nags	n	n_mpa_	_	1	_	_	_
+3	,	,	z	zc	_	8	_	_	_
+4	piešķiriet	piešķirt	v	vm_m0__2p__	_	3	_	_	_
+5	tiem	tas	p	p_3mpd_	_	4	_	_	_
+6	glītu	glīta	a	a_fsa__	_	7	_	_	_
+7	formu	forma	n	n_fsa_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Lielā	liels	a	a_msg__	_	2	_	_	_
+2	pirksta	pirksts	n	n_msg_	_	3	_	_	_
+3	nagu	nags	n	n_msa_	_	4	_	_	_
+4	grieziet	griezt	v	vm_m0__2p__	_	15	_	_	_
+5	tikai	tikai	q	q_	_	6	_	_	_
+6	taisnā	taisna	a	a_fsl__	_	7	_	_	_
+7	līnijā	līnija	n	n_fsl_	_	4	_	_	_
+8	,	,	z	zc	_	9	_	_	_
+9	lai	lai	c	cs_	_	15	_	_	_
+10	izbēgtu	izbēgt	v	vm_c0__00__	_	9	_	_	_
+11	no	no	s	spsgy	_	10	_	_	_
+12	tā	tas	p	p_3msg_	_	13	_	_	_
+13	ieaugšanas	ieaugšana	n	n_fsg_	_	11	_	_	_
+14	pirkstā	pirksts	n	n_msl_	_	13	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Vērsieties	vērsties	v	vm_m0__2p__	_	10	_	_	_
+2	pēc	pēc	s	spsgy	_	1	_	_	_
+3	palīdzības	palīdzība	n	n_fsg_	_	2	_	_	_
+4	pie	pie	s	spsgy	_	1	_	_	_
+5	ārsta	ārsts	n	n_msg_	_	6	_	_	_
+6	vai	vai	c	cc_	_	4	_	_	_
+7	pieredzējuša	pieredzēt	v	vm_pdmsg_s_	_	9	_	_	_
+8	pedikīra	pedikīrs	n	n_msg_	_	9	_	_	_
+9	meistara	meistars	n	n_msg_	_	6	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Šāda	šāda	p	p_0fsn_	_	2	_	_	_
+2	āda	āda	n	n_fsn_	_	3	_	_	_
+3	sāk	sākt	v	vp_ip__30__	_	15	_	_	_
+4	veidoties	veidoties	v	vm_n0__00__	_	3	_	_	_
+5	dēļ	dēļ	s	sppdn	_	4	_	_	_
+6	pārlieku	pārlieku	r	r__	_	7	_	_	_
+7	ciešiem	ciešs	a	a_mpd__	_	8	_	_	_
+8	apaviem	apavi	n	n_mpd_	_	5	_	_	_
+9	,	,	z	zc	_	10	_	_	_
+10	kā_arī	kā_arī	c	cc_	_	3	_	_	_
+11	ja	ja	c	cs_	_	10	_	_	_
+12	ir	būt	v	vc_ip__30__	_	10	_	_	_
+13	traucēta	traucēt	v	vm_pdfsn_s_	_	12	_	_	_
+14	asinsrite	asinsrite	n	n_fsn_	_	12	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	No	no	s	spsgy	_	3	_	_	_
+2	rīta	rīts	n	n_msg_	_	1	_	_	_
+3	noņemiet	noņemt	v	vm_m0__2p__	_	5	_	_	_
+4	kompresi	komprese	n	n_fsa_	_	3	_	_	_
+5	,	,	z	zc	_	17	_	_	_
+6	noskalojiet	noskalot	v	vm_m0__2p__	_	10	_	_	_
+7	kājas	kāja	n	n_fpa_	_	6	_	_	_
+8	siltā	silts	a	a_msl__	_	9	_	_	_
+9	ūdenī	ūdens	n	n_msl_	_	6	_	_	_
+10	un	un	c	cc_	_	5	_	_	_
+11	paberzējiet	paberzēt	v	vm_m0__2p__	_	10	_	_	_
+12	pārakmeņojušos	pārakmeņoties	v	vm_pdfsa_s_	_	13	_	_	_
+13	ādu	āda	n	n_fsa_	_	11	_	_	_
+14	ar	ar	s	spsan	_	11	_	_	_
+15	cietu	cieta	a	a_fsa__	_	16	_	_	_
+16	birstīti	birstīte	n	n_fsa_	_	14	_	_	_
+17	.	.	z	zs	_	0	_	_	_
+
+1	Veicot	veikt	v	vm_pu000_0_	_	3	_	_	_
+2	pedikīru	pedikīrs	n	n_msa_	_	1	_	_	_
+3	,	,	z	zc	_	4	_	_	_
+4	pievērsiet	pievērt	v	vm_m0__2p__	_	9	_	_	_
+5	īpašu	īpašs	a	a_fsa__	_	6	_	_	_
+6	uzmanību	uzmanība	n	n_fsa_	_	4	_	_	_
+7	nagu	nags	n	n_mpg_	_	8	_	_	_
+8	stāvoklim	stāvoklis	n	n_msd_	_	4	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Tiem	tas	p	p_3mpd_	_	7	_	_	_
+2	ir	būt	v	vc_ip__30__	_	7	_	_	_
+3	ļoti	ļoti	r	r__	_	5	_	_	_
+4	vajadzīga	vajadzīga	a	a_fsn__	_	2	_	_	_
+5	rūpīga	rūpīga	a	a_fsn__	_	6	_	_	_
+6	kopšana	kopšana	n	n_fsn_	_	2	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Pat	pat	q	q_	_	5	_	_	_
+2	pati	pati	p	p_0fsn_	_	3	_	_	_
+3	dārgākā	dārga	a	a_fsn__	_	5	_	_	_
+4	nagu	nags	n	n_mpg_	_	5	_	_	_
+5	laka	laka	n	n_fsn_	_	6	_	_	_
+6	nepadarīs	nepadarīt	v	vm_if__30__	_	10	_	_	_
+7	slimus	slims	a	a_mpa__	_	8	_	_	_
+8	nagus	nags	n	n_mpa_	_	6	_	_	_
+9	skaistus	skaists	a	a_mpa__	_	6	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Nagu	nags	n	n_mpg_	_	2	_	_	_
+2	kopšanas	kopšana	n	n_fsg_	_	3	_	_	_
+3	nav	nebūt	v	vc_ip__30__	_	13	_	_	_
+4	sarežģīta	sarežģīta	a	a_fsn__	_	3	_	_	_
+5	,	,	z	zc	_	3	_	_	_
+6	ar	ar	s	spsan	_	5	_	_	_
+7	nosacījumu	nosacījums	n	n_msa_	_	6	_	_	_
+8	,	,	z	zc	_	9	_	_	_
+9	ka	ka	c	cs_	_	7	_	_	_
+10	to	tā	p	p_3fsa_	_	11	_	_	_
+11	veiksiet	veikt	v	vm_if__2p__	_	9	_	_	_
+12	regulāri	regulāri	r	r__	_	11	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Nagus	nags	n	n_mpa_	_	3	_	_	_
+2	nedrīkst	nedrīkstēt	v	vo_ip__30__	_	6	_	_	_
+3	vīlēt	vīlēt	v	vm_n0__00__	_	2	_	_	_
+4	jebkurā	jebkurš	p	p_0msl_	_	5	_	_	_
+5	virzienā	virziens	n	n_msl_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Nagi	nags	n	n_mpn_	_	3	_	_	_
+2	ir	būt	v	vc_ip__30__	_	12	_	_	_
+3	jāvīlē	vīlēt	v	vm_d0__00__	_	2	_	_	_
+4	tikai	tikai	q	q_	_	5	_	_	_
+5	vienā	viens	m	m__msl_	_	6	_	_	_
+6	virzienā	virziens	n	n_msl_	_	3	_	_	_
+7	–	–	z	zd	_	6	_	_	_
+8	no	no	s	spsgy	_	7	_	_	_
+9	malas	mala	n	n_fsg_	_	8	_	_	_
+10	uz	uz	s	spsay	_	7	_	_	_
+11	vidu	vidus	n	n_msa_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Viņam	viņš	p	p_3msd_	_	4	_	_	_
+2	nebija	nebūt	v	vg_is__30__	_	4	_	_	_
+3	galvas	galva	n	n_fsg_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tā	tā	p	p_3fsn_	_	2	_	_	_
+2	galva	galva	n	n_fsn_	_	7	_	_	_
+3	varbūt	varbūt	q	q_	_	8	_	_	_
+4	arī	arī	q	q_	_	5	_	_	_
+5	tagad	tagad	r	r__	_	7	_	_	_
+6	tur	tur	r	r__	_	7	_	_	_
+7	ir	būt	v	vm_ip__30__	_	8	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	3	_	_	_
+2	arī	arī	q	q_	_	4	_	_	_
+3	viss	viss	p	p_0msn_	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Mūžīgi	mūžīgi	r	r__	_	4	_	_	_
+2	jau	jau	q	q_	_	5	_	_	_
+3	viņa	viņa	p	p_3fsn_	_	4	_	_	_
+4	neslēpsies	neslēpties	v	vm_if__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Sagaidīs	sagaidīt	v	vm_if__30__	_	4	_	_	_
+2	nākamo	nākamais	a	a_msa__	_	3	_	_	_
+3	peldētāju	peldētājs	n	n_msa_	_	1	_	_	_
+4	un	un	c	cc_	_	6	_	_	_
+5	uzpeldēs	uzpeldēt	v	vm_if__30__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	pagaidām	pagaidām	r	r__	_	1	_	_	_
+3	tikai	tikai	q	q_	_	5	_	_	_
+4	rūc	rūkt	v	vm_ip__30__	_	5	_	_	_
+5	un	un	c	cc_	_	1	_	_	_
+6	laiž	laist	v	vm_ip__30__	_	5	_	_	_
+7	burbuļus	burbulis	n	n_mpa_	_	6	_	_	_
+8	.	.	z	zs	_	1	_	_	_
+
+1	Balvis	Balvis	n	n_msn_	_	2	_	_	_
+2	iesit	iesit	v	vm_ip__3s__	_	3	_	_	_
+3	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	3	_	_	_
+2	tevi	tu	p	p_20sa_	_	3	_	_	_
+3	lūdzu	lūgt	v	vm_is__1s__	_	5	_	_	_
+4	izslēgt	izslēgt	v	vm_n0__00__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Visa	visa	p	p_0fsn_	_	2	_	_	_
+2	apetīte	apetīte	n	n_fsn_	_	5	_	_	_
+3	ar	ar	s	sppdn	_	5	_	_	_
+4	jums	jūs	p	p_20pd_	_	3	_	_	_
+5	pārgāja	pāriet	v	vm_is__30__	_	6	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	To	tas	p	p_3msa_	_	5	_	_	_
+2	jau	jau	r	r__	_	4	_	_	_
+3	Balvis	Balvis	n	n_msn_	_	4	_	_	_
+4	būs	būt	v	vc_if__30__	_	6	_	_	_
+5	apēdis	apēst	v	vm_pdmsn_s_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	2	_	_	_
+2	jāiet	iet	v	vm_d0__00__	_	5	_	_	_
+3	pēc	pēc	s	spsgy	_	2	_	_	_
+4	galvas	galva	n	n_fsg_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Nu_gan	nu_gan	q	q_	_	3	_	_	_
+2	pārblandījāmies	pārblandīties	v	vm_is__1p__	_	3	_	_	_
+3	.	.	z	zs	_	0	_	_	_
+
+1	Meži	mežs	n	n_mpn_	_	2	_	_	_
+2	nav	nebūt	v	vc_ip__30__	_	4	_	_	_
+3	mani	mans	p	p_0mpn_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	6	_	_	_
+2	vienreiz	vienreiz	r	r__	_	6	_	_	_
+3	pa	pa	s	spsay	_	6	_	_	_
+4	logu	logs	n	n_msa_	_	3	_	_	_
+5	briedi	briedis	n	n_msa_	_	6	_	_	_
+6	redzēju	redzēt	v	vm_is__1s__	_	7	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Droši_vien	droši_vien	q	q_	_	4	_	_	_
+2	stirnu	stirna	n	n_fsa_	_	3	_	_	_
+3	redzējis	redzēt	v	vm_pdmsn_s_	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Vai_tad	vai_tad	q	q_	_	5	_	_	_
+2	es	es	p	p_10sn_	_	4	_	_	_
+3	briedi	briedis	n	n_msa_	_	4	_	_	_
+4	neatšķiršu	neatšķirt	v	vm_if__1s__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Šī	šī	p	p_3fsn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	6	_	_	_
+3	ļoti	ļoti	r	r__	_	4	_	_	_
+4	laba	laba	a	a_fsn__	_	5	_	_	_
+5	ideja	ideja	n	n_fsn_	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tu	tu	p	p_20sn_	_	3	_	_	_
+2	šoreiz	šoreiz	r	r__	_	3	_	_	_
+3	pārproti	pārprast	v	vm_ip__2s__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Mums	mēs	p	p_10pd_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	9	_	_	_
+3	jāuztaisa	uztaisīt	v	vm_d0__00__	_	2	_	_	_
+4	kaut	kaut	q	q_	_	8	_	_	_
+5	kas	kas	p	p_000n_	_	8	_	_	_
+6	pa	pa	s	spsdy	_	8	_	_	_
+7	īstam	īsts	a	a_msd__	_	6	_	_	_
+8	labs	labs	a	a_msn__	_	3	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Veļuku	veļuks	n	n_msa_	_	2	_	_	_
+2	sataisīt	sataisīt	v	vm_n0__00__	_	3	_	_	_
+3	nebūs	nebūt	v	vc_if__30__	_	5	_	_	_
+4	vienkārši	vienkārši	r	r__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	2	_	_	_
+2	uztaisi	uztaisīt	v	vm_m0__2s__	_	4	_	_	_
+3	ēst	ēst	v	vm_n0__00__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Īstenībā	īstenība	n	n_fsl_	_	6	_	_	_
+2	viņš	viņš	p	p_3msn_	_	3	_	_	_
+3	bija	būt	v	vc_is__30__	_	6	_	_	_
+4	baigi	baigi	r	r__	_	5	_	_	_
+5	liels	liels	a	a_msn__	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Nākamās	Nākamās	a	a_fsg__	_	2	_	_	_
+2	reizes	reize	n	n_fsg_	_	3	_	_	_
+3	nebūs	nebūt	v	vg_if__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Pats	pats	p	p_0msn_	_	3	_	_	_
+2	tādu	tāda	p	p_0fsa_	_	3	_	_	_
+3	nofilmēji	nofilmēt	v	vm_is__2s__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Mums	mēs	p	p_10pd_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	5	_	_	_
+3	jādara	darīt	v	vm_d0__00__	_	2	_	_	_
+4	citādi	citādi	r	r__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Balvis	Balvis	n	n_msn_	_	2	_	_	_
+2	smejas	smieties	v	vm_ip__30__	_	4	_	_	_
+3	atklāti	atklāti	r	r__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	2	_	_	_
+2	pasaki	pasacīt	v	vm_mp__2s__	_	7	_	_	_
+3	tu	tu	p	p_20sn_	_	2	_	_	_
+4	kaut	kaut	q	q_	_	6	_	_	_
+5	ko	kas	p	p_000a_	_	6	_	_	_
+6	lietderīgu	lietderīgs	a	a_msa__	_	2	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Ka	ka	q	q_	_	5	_	_	_
+2	tik	tik	q	q_	_	5	_	_	_
+3	neaizbrauc	neaizbraukt	v	vm_ip__30__	_	5	_	_	_
+4	pavisam	pavisam	r	r__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Pie	pie	s	spsgy	_	3	_	_	_
+2	galda	galds	n	n_msg_	_	1	_	_	_
+3	sēž	sēdēt	v	vm_ip__30__	_	5	_	_	_
+4	Balvis	Balvis	n	n_msn_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Laikam	laikam	q	q_	_	6	_	_	_
+2	nav	nebūt	v	vm_ip__30__	_	6	_	_	_
+3	ko	kas	p	p_000a_	_	5	_	_	_
+4	viņu	viņš	p	p_3msa_	_	5	_	_	_
+5	gaidīt	gaidīt	v	vm_n0__00__	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Balvis	Balvis	n	n_msn_	_	3	_	_	_
+2	ēdienam	ēdiens	n	n_msd_	_	3	_	_	_
+3	nepieskaras	nepieskarties	v	vm_ip__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Nekur	nekur	r	r__	_	3	_	_	_
+2	jau	jau	q	q_	_	4	_	_	_
+3	neliksies	nelikties	v	vm_if__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	5	_	_	_
+2	bez	bez	s	sppdn	_	5	_	_	_
+3	citiem	cits	p	p_0mpd_	_	2	_	_	_
+4	nevar	nevarēt	v	vo_ip__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	2	_	_	_
+2	eksistē	eksistēt	v	vm_ip__30__	_	5	_	_	_
+3	tikai	tikai	q	q_	_	4	_	_	_
+4	teorētiski	teorētiski	r	r__	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	viņam	viņš	p	p_3msd_	_	1	_	_	_
+3	ir	būt	v	vm_ip__30__	_	1	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+
+1	Izklausās	izklausīties	v	vm_ip__30__	_	5	_	_	_
+2	pēc	pēc	s	spsgy	_	1	_	_	_
+3	tāda	tāds	p	p_0msg_	_	4	_	_	_
+4	pajoliņa	pajoliņš	n	n_msg_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Tāds	tāds	p	p_0msn_	_	2	_	_	_
+2	brīnums	brīnums	n	n_msn_	_	5	_	_	_
+3	man	es	p	p_10sd_	_	9	_	_	_
+4	filmā	filma	n	n_fsl_	_	5	_	_	_
+5	ir	būt	v	vc_ip__30__	_	9	_	_	_
+6	vajadzīgs	vajadzīgs	a	a_msn__	_	5	_	_	_
+7	kā	kā	c	cs_	_	5	_	_	_
+8	ēst	ēst	v	vm_n0__00__	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Ļoti	ļoti	r	r__	_	2	_	_	_
+2	skaists	skaists	a	a_msn__	_	3	_	_	_
+3	saulriets	saulriets	n	n_msn_	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Emīls	Emīls	n	n_msn_	_	2	_	_	_
+2	apsēžas	apsēsties	v	vm_ip__30__	_	5	_	_	_
+3	pie	pie	s	spsgy	_	2	_	_	_
+4	galda	galds	n	n_msg_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Gribējās	gribēties	v	vm_is__30__	_	5	_	_	_
+2	tā	tā	r	r__	_	4	_	_	_
+3	kopīgi	kopīgi	r	r__	_	4	_	_	_
+4	pasēdēt	pasēdēt	v	vm_n0__00__	_	1	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Nebūs	nebūt	v	vc_if__30__	_	5	_	_	_
+2	labi	labi	r	r__	_	1	_	_	_
+3	mūsu	mēs	p	p_10pg_	_	4	_	_	_
+4	vecumā	vecums	n	n_msl_	_	1	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Cik	cik	r	r__	_	4	_	_	_
+2	tas	tas	p	p_3msn_	_	3	_	_	_
+3	viss	viss	p	p_0msn_	_	4	_	_	_
+4	ir	būt	v	vc_ip__30__	_	6	_	_	_
+5	interesanti	interesanti	r	r__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	3	_	_	_
+2	tikai	tikai	q	q_	_	3	_	_	_
+3	atgādinu	atgādināt	v	vm_ip__1s__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Pats	pats	p	p_0msn_	_	3	_	_	_
+2	jau	jau	q	q_	_	4	_	_	_
+3	pirku	pirkt	v	vm_is__1s__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Jābūt	jābūt	v	vc_d0__00__	_	7	_	_	_
+2	gataviem	gatavs	a	a_mpd__	_	1	_	_	_
+3	pārvarēt	pārvarēt	v	vm_n0__00__	_	2	_	_	_
+4	arī	arī	q	q_	_	7	_	_	_
+5	iekšējās	iekšēja	a	a_fpa__	_	6	_	_	_
+6	robežas	robeža	n	n_fpa_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Mērenības	mērenība	n	n_fpa_	_	2	_	_	_
+2	un	un	c	cc_	_	5	_	_	_
+3	viduvējības	viduvējība	n	n_fpa_	_	2	_	_	_
+4	neviens	neviens	p	p_0msn_	_	5	_	_	_
+5	neievēro	neievērot	v	vm_ip__30__	_	6	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	runāju	runāt	v	vm_ip__1s__	_	6	_	_	_
+3	par	par	s	sppdn	_	2	_	_	_
+4	mums	mēs	p	p_10pd_	_	3	_	_	_
+5	visiem	viss	p	p_0mpd_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tu	tu	p	p_20sn_	_	5	_	_	_
+2	tagad	tagad	r	r__	_	5	_	_	_
+3	kā	kā	c	cc_	_	5	_	_	_
+4	bērns	bērns	n	n_msn_	_	3	_	_	_
+5	uzvedies	uzvesties	v	vm_ip__2s__	_	6	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	neesmu	nebūt	v	vc_ip__1s__	_	4	_	_	_
+3	zilais	zils	a	a_msn__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	neesmu	nebūt	v	vc_ip__1s__	_	4	_	_	_
+3	Lepters	Lepters	n	n_msn_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Istabā	istaba	n	n_fsl_	_	4	_	_	_
+2	nav	nebūt	v	vg_ip__30__	_	4	_	_	_
+3	Armanda	Armands	n	n_msg_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	neesmu	nebūt	v	vc_ip__1s__	_	4	_	_	_
+3	gejs	gejs	n	n_msn_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	3	_	_	_
+2	tev	tu	p	p_20sd_	_	4	_	_	_
+3	varētu	varēt	v	vo_c0__00__	_	8	_	_	_
+4	pazīlēt	pazīlēt	v	vm_n0__00__	_	3	_	_	_
+5	pēc	pēc	s	sppdy	_	4	_	_	_
+6	plaukstas	plauksta	n	n_fsg_	_	7	_	_	_
+7	līnijām	līnija	n	n_fpd_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	4	_	_	_
+2	gan	gan	q	q_	_	4	_	_	_
+3	nāk	nākt	v	vm_ip__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Aiz	aiz	s	spsgy	_	3	_	_	_
+2	šķūņa	šķūnis	n	n_msg_	_	1	_	_	_
+3	atlūzu	atlūzt	v	vm_is__1s__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	6	_	_	_
+2	te	te	r	r__	_	4	_	_	_
+3	vienkārši	vienkārši	r	r__	_	4	_	_	_
+4	ienāca	ienākt	v	vm_is__30__	_	6	_	_	_
+5	prātā	prāts	n	n_msl_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Vajag	vajadzēt	v	vo_ip__30__	_	4	_	_	_
+2	piezvanīt	piezvanīt	v	vm_n0__00__	_	1	_	_	_
+3	kādai	kāda	p	p_0fsd_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tā	tā	r	r__	_	3	_	_	_
+2	man	es	p	p_10sd_	_	5	_	_	_
+3	ienāca	ienākt	v	vm_is__30__	_	5	_	_	_
+4	prātā	prāts	n	n_msl_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Visās	visa	p	p_0fpl_	_	2	_	_	_
+2	filmās	filma	n	n_fpl_	_	3	_	_	_
+3	ir	būt	v	vm_ip__30__	_	5	_	_	_
+4	sievietes	sieviete	n	n_fpn_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	vispār	vispār	r	r__	_	1	_	_	_
+3	patīkamāk	patīkami	r	r__	_	1	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+
+1	Varētu	varēt	v	vo_c0__00__	_	5	_	_	_
+2	kāda	kāda	p	p_0fsn_	_	1	_	_	_
+3	te	te	r	r__	_	4	_	_	_
+4	atbraukt	atbraukt	v	vm_n0__00__	_	1	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Tev	tu	p	p_20sd_	_	6	_	_	_
+2	jau	jau	r	r__	_	4	_	_	_
+3	tas	tas	p	p_3msn_	_	4	_	_	_
+4	ienāca	ienākt	v	vm_is__30__	_	6	_	_	_
+5	prātā	prāts	n	n_msl_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Vispār	vispār	r	r__	_	7	_	_	_
+2	es	es	p	p_10sn_	_	3	_	_	_
+3	pazīstu	pazīt	v	vm_ip__1s__	_	7	_	_	_
+4	daudzas	daudzas	p	p_0fpa_	_	6	_	_	_
+5	sakarīgas	sakarīga	a	a_fpa__	_	6	_	_	_
+6	sievietes	sieviete	n	n_fpa_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	7	_	_	_
+2	smēķē	smēķēt	v	vm_ip__30__	_	7	_	_	_
+3	kopš	kopš	s	spsgn	_	2	_	_	_
+4	ļoti	ļoti	r	r__	_	5	_	_	_
+5	agras	agra	a	a_fsg__	_	6	_	_	_
+6	jaunības	jaunība	n	n_fsg_	_	3	_	_	_
+7	un	un	c	cc_	_	12	_	_	_
+8	tikai	tikai	q	q_	_	10	_	_	_
+9	ļoti	ļoti	r	r__	_	10	_	_	_
+10	sliktas	slikta	a	a_fpa__	_	11	_	_	_
+11	cigaretes	cigarete	n	n_fpa_	_	7	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	3	_	_	_
+2	arī	arī	q	q_	_	3	_	_	_
+3	dirš	dirst	v	vm_ip__30__	_	5	_	_	_
+4	gultā	gulta	n	n_fsl_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Liec	likt	v	vm_mp__2s__	_	4	_	_	_
+2	mani	es	p	p_10sa_	_	1	_	_	_
+3	mierā	miers	n	n_msl_	_	1	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tu	tu	p	p_20sn_	_	3	_	_	_
+2	droši_vien	droši_vien	q	q_	_	4	_	_	_
+3	gribētu	gribēt	v	vo_c0__00__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Sarunājies	sarunāties	v	vm_mp__2s__	_	5	_	_	_
+2	pats	pats	p	p_0msn_	_	1	_	_	_
+3	ar	ar	s	spsan	_	1	_	_	_
+4	sevi	sevis	p	p_000a_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Emīls	Emīls	n	n_msn_	_	2	_	_	_
+2	sāk	sākt	v	vp_ip__30__	_	4	_	_	_
+3	smieties	smieties	v	vm_n0__00__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	9	_	_	_
+2	beidzot	beidzot	r	r__	_	3	_	_	_
+3	ierodas	ierasties	v	vm_ip__30__	_	9	_	_	_
+4	Armands	Armands	n	n_msn_	_	3	_	_	_
+5	ar	ar	s	spsan	_	4	_	_	_
+6	pilnu	pilns	a	a_msa__	_	7	_	_	_
+7	klēpi	klēpis	n	n_msa_	_	5	_	_	_
+8	ābolu	ābols	n	n_mpg_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	4	_	_	_
+2	negaršo	negaršot	v	vm_ip__30__	_	4	_	_	_
+3	āboli	ābols	n	n_mpn_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tur	tur	r	r__	_	2	_	_	_
+2	ir	būt	v	vm_ip__30__	_	5	_	_	_
+3	brīvie	brīvs	a	a_mpn__	_	4	_	_	_
+4	radikāļi	radikālis	n	n_mpn_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	3	_	_	_
+2	arī	arī	q	q_	_	3	_	_	_
+3	aizmigt	aizmigt	v	vm_n0__00__	_	6	_	_	_
+4	vairs	vairs	r	r__	_	3	_	_	_
+5	nevaru	nevarēt	v	vo_ip__1s__	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Diemžēl	diemžēl	q	q_	_	5	_	_	_
+2	būs	būt	v	vc_if__30__	_	5	_	_	_
+3	par	par	s	sp00n	_	2	_	_	_
+4	maz	maz	r	r__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Izgudro	izgudrot	v	vm_ip__30__	_	7	_	_	_
+2	par	par	s	spsan	_	6	_	_	_
+3	to	tas	p	p_3msa_	_	2	_	_	_
+4	kaut	kaut	q	q_	_	1	_	_	_
+5	ko	kas	p	p_000a_	_	1	_	_	_
+6	vairāk	daudz	r	r__	_	1	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Vēži	vēzis	n	n_mpn_	_	2	_	_	_
+2	atgriežas	atgriezties	v	vm_ip__30__	_	5	_	_	_
+3	pie	pie	s	spsgy	_	2	_	_	_
+4	suņa	suns	n	n_msg_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	4	_	_	_
+2	liekas	likties	v	vm_ip__30__	_	4	_	_	_
+3	forši	forši	r	r__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Šito	Šitas	p	p_3msa_	_	3	_	_	_
+2	vajag	vajadzēt	v	vo_ip__30__	_	4	_	_	_
+3	ierakstīt	ierakstīt	v	vm_n0__00__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Tam	tas	p	p_3msd_	_	4	_	_	_
+2	nav	nebūt	v	vg_ip__30__	_	4	_	_	_
+3	nozīmes	nozīme	n	n_fsg_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Rīgā	Rīga	n	n_fsl_	_	7	_	_	_
+2	mums	mēs	p	p_10pd_	_	7	_	_	_
+3	tāpat	tāpat	q	q_	_	7	_	_	_
+4	nav	nebūt	v	vg_ip__30__	_	7	_	_	_
+5	ko	kas	p	p_000a_	_	4	_	_	_
+6	darīt	darīt	v	vm_n0__00__	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Ar	ar	s	spsan	_	4	_	_	_
+2	Balvi	Balvis	n	n_msa_	_	1	_	_	_
+3	vismaz	vismaz	r	r__	_	4	_	_	_
+4	nebija	nebūt	v	vc_is__30__	_	6	_	_	_
+5	garlaicīgi	garlaicīgi	r	r__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tavi	tavs	p	p_0mpn_	_	2	_	_	_
+2	krievi	krievs	n	n_mpn_	_	4	_	_	_
+3	arī	arī	q	q_	_	2	_	_	_
+4	nenāk	nenākt	v	vm_ip__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	5	_	_	_
+2	ir	būt	v	vc_ip__30__	_	5	_	_	_
+3	vienā	viena	m	m__fsl_	_	4	_	_	_
+4	apakšveļā	apakšveļa	n	n_fsl_	_	2	_	_	_
+5	un	un	c	cc_	_	15	_	_	_
+6	šobrīd	šobrīd	r	r__	_	12	_	_	_
+7	uz	uz	s	spsgy	_	12	_	_	_
+8	sienas	siena	n	n_fsg_	_	7	_	_	_
+9	ar	ar	s	spsan	_	12	_	_	_
+10	baltu	balta	a	a_fsa__	_	11	_	_	_
+11	krāsu	krāsa	n	n_fsa_	_	9	_	_	_
+12	raksta	rakstīt	v	vm_ip__30__	_	5	_	_	_
+13	milzīgus	milzīgs	a	a_mpa__	_	14	_	_	_
+14	burtus	burts	n	n_mpa_	_	12	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Taču	taču	c	cc_	_	0	_	_	_
+2	pēc	pēc	s	spsgy	_	1	_	_	_
+3	mirkļa	mirklis	n	n_msg_	_	2	_	_	_
+4	viņš	viņš	p	p_3msn_	_	8	_	_	_
+5	sakņūp	sakņupt	v	vm_ip__30__	_	8	_	_	_
+6	uz	uz	s	sppdy	_	5	_	_	_
+7	ceļiem	ceļš	n	n_mpd_	_	6	_	_	_
+8	un	un	c	cc_	_	1	_	_	_
+9	sāk	sākt	v	vp_ip__30__	_	8	_	_	_
+10	raudāt	raudāt	v	vm_n0__00__	_	9	_	_	_
+11	.	.	z	zs	_	1	_	_	_
+
+1	Armands	Armands	n	n_msn_	_	3	_	_	_
+2	atkal	atkal	r	r__	_	3	_	_	_
+3	neatbild	neatbildēt	v	vm_ip__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Visam	viss	p	p_0msd_	_	4	_	_	_
+2	savs	savs	p	p_0msn_	_	3	_	_	_
+3	laiks	laiks	n	n_msn_	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Emīls	Emīls	n	n_msn_	_	7	_	_	_
+2	tā	tā	r	r__	_	4	_	_	_
+3	arī	arī	q	q_	_	9	_	_	_
+4	nespēj	nespēt	v	vo_ip__30__	_	7	_	_	_
+5	sagaidīt	sagaidīt	v	vm_n0__00__	_	4	_	_	_
+6	atbildi	atbilde	n	n_fsa_	_	5	_	_	_
+7	un	un	c	cc_	_	9	_	_	_
+8	iziet	iziet	v	vm_ip__3s__	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Tā	tā	r	r__	_	3	_	_	_
+2	viņš	viņš	p	p_3msn_	_	3	_	_	_
+3	sēž	sēdēt	v	vm_ip__30__	_	7	_	_	_
+4	ilgi	ilgi	r	r__	_	5	_	_	_
+5	jo	jo	c	cs_	_	6	_	_	_
+6	ilgi	ilgi	r	r__	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Armands	Armands	n	n_msn_	_	3	_	_	_
+2	pat	pat	q	q_	_	3	_	_	_
+3	nepakustas	nepakustēties	v	vm_ip__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Balvis	Balvis	n	n_msn_	_	2	_	_	_
+2	paliek	palikt	v	vm_ip__30__	_	4	_	_	_
+3	durvīs	durvis	n	n_fpl_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	4	_	_	_
+2	to	tas	p	p_3msa_	_	3	_	_	_
+3	ieslēdz	ieslēgt	v	vm_ip__30__	_	4	_	_	_
+4	un	un	c	cc_	_	8	_	_	_
+5	dodas	doties	v	vm_ip__30__	_	4	_	_	_
+6	uz	uz	s	sppdy	_	5	_	_	_
+7	durvīm	durvis	n	n_fpd_	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Abi	abi	p	p_0mpn_	_	2	_	_	_
+2	pazūd	pazust	v	vm_ip__30__	_	4	_	_	_
+3	ārā	ārā	r	r__	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Paliek	palikt	v	vm_ip__30__	_	4	_	_	_
+2	tukša	tukša	a	a_fsn__	_	3	_	_	_
+3	telpa	telpa	n	n_fsn_	_	1	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Pieklājīgā	pieklājīga	a	a_fsl__	_	2	_	_	_
+2	ballītē	balle	n	n_fsl_	_	6	_	_	_
+3	pirms	pirms	s	sppdy	_	6	_	_	_
+4	pāris	pāris	n	n_msn_	_	5	_	_	_
+5	stundām	stunda	n	n_fpd_	_	3	_	_	_
+6	esmu	būt	v	vc_ip__1s__	_	10	_	_	_
+7	iepazinusies	iepazīties	v	vm_pdfsn_s_	_	6	_	_	_
+8	ar	ar	s	spsan	_	7	_	_	_
+9	Viktoru	Viktors	n	n_msa_	_	8	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Skan	skanēt	v	vm_ip__30__	_	7	_	_	_
+2	Sezārija	Sezārija	n	n_fsn_	_	3	_	_	_
+3	Evora	Evora	n	n_fsn_	_	4	_	_	_
+4	un	un	c	cc_	_	1	_	_	_
+5	Nora	Nora	n	n_fsn_	_	6	_	_	_
+6	Džonsa	Džonsa	n	n_fsn_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Pēc	pēc	s	sppdy	_	8	_	_	_
+2	vakariņām	vakariņas	n	n_fpd_	_	1	_	_	_
+3	dzeram	dzert	v	vm_ip__1p__	_	6	_	_	_
+4	jasmīnu	jasmīns	n	n_mpg_	_	5	_	_	_
+5	tēju	tēja	n	n_fsa_	_	3	_	_	_
+6	un	un	c	cc_	_	8	_	_	_
+7	sarunājamies	sarunāties	v	vm_ip__1p__	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Uz	uz	s	spsay	_	5	_	_	_
+2	mūsu	mēs	p	p_10pg_	_	3	_	_	_
+3	pusi	puse	n	n_fsa_	_	1	_	_	_
+4	pat	pat	q	q_	_	5	_	_	_
+5	nepaskatās	nepaskatīties	v	vm_ip__30__	_	6	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	7	_	_	_
+2	ir	būt	v	vm_ip__30__	_	7	_	_	_
+3	kauns	kauns	n	n_msn_	_	2	_	_	_
+4	pašai	pati	p	p_0fsd_	_	2	_	_	_
+5	par	par	s	spsan	_	2	_	_	_
+6	sevi	sevis	p	p_000a_	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Tev	tu	p	p_20sd_	_	8	_	_	_
+2	vēl	vēl	r	r__	_	4	_	_	_
+3	joprojām	joprojām	r	r__	_	4	_	_	_
+4	nav	nebūt	v	vg_ip__30__	_	8	_	_	_
+5	nekāda	nekāds	p	p_0msg_	_	6	_	_	_
+6	mērķa	mērķis	n	n_msg_	_	4	_	_	_
+7	dzīvē	dzīve	n	n_fsl_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Tādā	tāds	p	p_0msl_	_	2	_	_	_
+2	gļēvumā	gļēvums	n	n_msl_	_	5	_	_	_
+3	taču	taču	q	q_	_	9	_	_	_
+4	nevaru	nevarēt	v	vo_ip__1s__	_	9	_	_	_
+5	atzīties	atzīties	v	vm_n0__00__	_	4	_	_	_
+6	savai	sava	p	p_0fsd_	_	8	_	_	_
+7	miesīgai	miesīga	a	a_fsd__	_	8	_	_	_
+8	mātei	māte	n	n_fsd_	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Pa	pa	s	spsay	_	4	_	_	_
+2	dienu	diena	n	n_fsa_	_	1	_	_	_
+3	atkal	atkal	r	r__	_	4	_	_	_
+4	piezvanīja	piezvanīt	v	vm_is__30__	_	6	_	_	_
+5	Viktors	Viktors	n	n_msn_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	neviens	neviens	p	p_0msn_	_	5	_	_	_
+3	jau	jau	q	q_	_	1	_	_	_
+4	mani	es	p	p_10sa_	_	5	_	_	_
+5	netraucē	netraucēt	v	vm_ip__30__	_	1	_	_	_
+6	.	.	z	zs	_	1	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	2	_	_	_
+2	bija	būt	v	vc_is__30__	_	7	_	_	_
+3	pēdējais	pēdējs	a	a_msn__	_	6	_	_	_
+4	mūsu	mēs	p	p_10pg_	_	6	_	_	_
+5	kopīgais	kopīgs	a	a_msn__	_	6	_	_	_
+6	vakars	vakars	n	n_msn_	_	2	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Tikpat	tikpat	r	r__	_	2	_	_	_
+2	bezpalīdzīgs	bezpalīdzīgs	a	a_msn__	_	12	_	_	_
+3	kā	kā	c	cc_	_	2	_	_	_
+4	varonis	varonis	n	n_msn_	_	3	_	_	_
+5	Tēsejs	Tēsejs	n	n_msn_	_	4	_	_	_
+6	bez	bez	s	spsgn	_	4	_	_	_
+7	Ariadnes	Ariadne	n	n_fsg_	_	6	_	_	_
+8	pa	pa	s	sppdy	_	10	_	_	_
+9	kāpnēm	kāpnes	n	n_fpd_	_	8	_	_	_
+10	nākošais	nākt	v	vm_pdmsn_p_	_	11	_	_	_
+11	Oto	Oto	n	n_msn_	_	12	_	_	_
+12	jutās	justies	v	vm_is__30__	_	14	_	_	_
+13	šobrīd	šobrīd	r	r__	_	12	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Brīžiem	brīžiem	r	r__	_	2	_	_	_
+2	iesmeldzās	iesmelgties	v	vm_is__30__	_	6	_	_	_
+3	hepatītu	hepatīts	n	n_msa_	_	4	_	_	_
+4	pārslimojusī	pārslimot	v	vm_pdfsn_s_	_	5	_	_	_
+5	akna	akna	n	n_fsn_	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Pēc	pēc	s	sppdy	_	5	_	_	_
+2	Jāņiem	Jāņi	n	n_mdd_	_	1	_	_	_
+3	līdz	līdz	s	sppdy	_	5	_	_	_
+4	Pēteriem	Pēteri	n	n_mdd_	_	3	_	_	_
+5	pukstēja	pukstēt	v	vm_is__30__	_	7	_	_	_
+6	nieres	niere	n	n_fpn_	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Oto	Oto	n	n_msn_	_	2	_	_	_
+2	bija	būt	v	vc_is__30__	_	7	_	_	_
+3	nonācis	nonākt	v	vm_pdmsn_s_	_	2	_	_	_
+4	pie	pie	s	spsgy	_	2	_	_	_
+5	sava	savs	p	p_0msg_	_	6	_	_	_
+6	dzīvokļa	dzīvoklis	n	n_msg_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Tā	tā	r	r__	_	4	_	_	_
+2	nu	nu	r	r__	_	4	_	_	_
+3	manī	es	p	p_10sl_	_	4	_	_	_
+4	rit	ritēt	v	vm_ip__30__	_	9	_	_	_
+5	puse	puse	n	n_fsn_	_	4	_	_	_
+6	Čingizhana	Čingizhans	n	n_msg_	_	7	_	_	_
+7	pēcteču	pēctecis	n	n_mpg_	_	8	_	_	_
+8	asiņu	asinis	n	n_mpg_	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Tās	tā	p	p_3fpn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	8	_	_	_
+3	manas	mana	p	p_0fpn_	_	7	_	_	_
+4	gandrīz	gandrīz	r	r__	_	5	_	_	_
+5	kopā	kopā	r	r__	_	6	_	_	_
+6	saaugušās	saaugt	v	vm_pdfpn_s_	_	7	_	_	_
+7	uzacis	uzacs	n	n_fpn_	_	2	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Caurmēra	caurmērs	n	n_msg_	_	2	_	_	_
+2	latvieši	latvietis	n	n_mpn_	_	4	_	_	_
+3	tā	tā	r	r__	_	4	_	_	_
+4	nedara	nedarīt	v	vm_ip__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Tava	tava	p	p_0fsn_	_	4	_	_	_
+2	dēku	dēka	n	n_fpg_	_	3	_	_	_
+3	meklētāja	meklētājs	n	n_msg_	_	4	_	_	_
+4	daba	daba	n	n_fsn_	_	5	_	_	_
+5	ir	būt	v	vm_ip__30__	_	9	_	_	_
+6	no	no	s	sppdy	_	5	_	_	_
+7	leišu	leitis	n	n_mpg_	_	8	_	_	_
+8	radiem	radi	n	n_mpd_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Pirms	pirms	s	spsgy	_	10	_	_	_
+2	kara	karš	n	n_msg_	_	1	_	_	_
+3	starp	starp	s	spsay	_	8	_	_	_
+4	Latviju	Latvija	n	n_fsa_	_	5	_	_	_
+5	un	un	c	cc_	_	3	_	_	_
+6	Lietuvu	Lietuva	n	n_fsa_	_	5	_	_	_
+7	taču	taču	q	q_	_	10	_	_	_
+8	bija	būt	v	vm_is__30__	_	10	_	_	_
+9	robeža	robeža	n	n_fsn_	_	8	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Mēs	mēs	p	p_10pn_	_	2	_	_	_
+2	dzīvotu	dzīvot	v	vm_c0__00__	_	7	_	_	_
+3	kā	kā	c	cs_	_	2	_	_	_
+4	saskanīga	saskanīga	a	a_fsn__	_	6	_	_	_
+5	latvju	latvis	n	n_mpg_	_	6	_	_	_
+6	ģimene	ģimene	n	n_fsn_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	6	_	_	_
+2	manu	mana	p	p_0fsa_	_	5	_	_	_
+3	dziesmām	dziesma	n	n_fpd_	_	4	_	_	_
+4	pilno	pilna	a	a_fsa__	_	5	_	_	_
+5	rīkli	rīkle	n	n_fsa_	_	6	_	_	_
+6	aizsausināja	aizsausināt	v	vm_is__30__	_	7	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Mēs	mēs	p	p_10pn_	_	2	_	_	_
+2	nebūtu	nebūt	v	vc_c0__00__	_	11	_	_	_
+3	kā	kā	c	cs_	_	2	_	_	_
+4	senie	sens	a	a_mpn__	_	5	_	_	_
+5	balti	balti	n	n_mpn_	_	3	_	_	_
+6	sākuši	sākt	v	vm_pdmpn_s_	_	2	_	_	_
+7	jaunu	jauns	a	a_msa__	_	8	_	_	_
+8	gadu	gads	n	n_msa_	_	6	_	_	_
+9	ar	ar	s	sppdn	_	6	_	_	_
+10	Meteņiem	Meteņi	n	n_mdd_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņš	p	p_3msg_	_	2	_	_	_
+2	acis	acs	n	n_fpn_	_	4	_	_	_
+3	neviļus	neviļus	r	r__	_	4	_	_	_
+4	apstājās	apstāties	v	vm_is__30__	_	9	_	_	_
+5	pie	pie	s	spsgy	_	4	_	_	_
+6	virtuves	virtuve	n	n_fsg_	_	7	_	_	_
+7	durvju	durvis	n	n_fpg_	_	8	_	_	_
+8	spraugas	sprauga	n	n_fsg_	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Gaisma	gaisma	n	n_fsn_	_	5	_	_	_
+2	no	no	s	spsgy	_	1	_	_	_
+3	virtuves	virtuve	n	n_fsg_	_	4	_	_	_
+4	loga	logs	n	n_msg_	_	2	_	_	_
+5	meta	mest	v	vm_is__30__	_	11	_	_	_
+6	uz	uz	s	spsgy	_	5	_	_	_
+7	grīdas	grīda	n	n_fsg_	_	6	_	_	_
+8	garu	gara	a	a_fsa__	_	10	_	_	_
+9	vakara	vakars	n	n_msg_	_	10	_	_	_
+10	ēnu	ēna	n	n_fsa_	_	5	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Riešana	riešana	n	n_fsn_	_	2	_	_	_
+2	turpinājās	turpināties	v	vm_is__30__	_	7	_	_	_
+3	kaut	kaut	q	q_	_	4	_	_	_
+4	kur	kur	r	r__	_	6	_	_	_
+5	kalna	kalns	n	n_msg_	_	6	_	_	_
+6	pakājē	pakāje	n	n_fsl_	_	2	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	man	es	p	p_10sd_	_	1	_	_	_
+3	nekā	nekas	p	p_0msg_	_	1	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+
+1	Katra	katra	p	p_0fsn_	_	3	_	_	_
+2	pagasta	pagasts	n	n_msg_	_	3	_	_	_
+3	buoba	buoba	n	n_fsn_	_	4	_	_	_
+4	var	varēt	v	vo_ip__30__	_	14	_	_	_
+5	uz	uz	s	spsay	_	7	_	_	_
+6	mani	es	p	p_10sa_	_	5	_	_	_
+7	rādīt	rādīt	v	vm_n0__00__	_	10	_	_	_
+8	ar	ar	s	spsan	_	7	_	_	_
+9	pirkstu	pirksts	n	n_msa_	_	8	_	_	_
+10	un	un	c	cc_	_	4	_	_	_
+11	sunīt	sunīt	v	vm_n0__00__	_	10	_	_	_
+12	par	par	s	spsan	_	11	_	_	_
+13	ālavu	ālava	n	n_fsa_	_	12	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Virpināju	virpināt	v	vm_is__1s__	_	4	_	_	_
+2	pirkstos	pirksts	n	n_mpl_	_	1	_	_	_
+3	ļuļķi	ļuļķis	n	n_msa_	_	1	_	_	_
+4	un	un	c	cc_	_	12	_	_	_
+5	vilku	vilkt	v	vm_is__1s__	_	4	_	_	_
+6	pa	pa	s	spsdy	_	5	_	_	_
+7	mazam	mazs	a	a_msd__	_	8	_	_	_
+8	malciņam	malks	n	n_msd_	_	6	_	_	_
+9	silto	silts	a	a_msa__	_	10	_	_	_
+10	dūmu	dūms	n	n_msa_	_	5	_	_	_
+11	plaušās	plaušas	n	n_fpl_	_	5	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	5	_	_	_
+2	nav	nebūt	v	vg_ip__30__	_	5	_	_	_
+3	jēgas	jēga	n	n_fsg_	_	2	_	_	_
+4	nepīpēt	nepīpēt	v	vm_n0__00__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Pīpis	pīpis	n	n_msn_	_	2	_	_	_
+2	bija	būt	v	vc_is__30__	_	4	_	_	_
+3	izdedzis	izdegt	v	vm_pdmsn_s_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Atnes	atnest	v	vm_m0__2s__	_	4	_	_	_
+2	man	es	p	p_10sd_	_	1	_	_	_
+3	ūdeni	ūdens	n	n_msa_	_	1	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	4	_	_	_
+2	aizkūru	aizkurt	v	vm_is__1s__	_	4	_	_	_
+3	cigareti	cigarete	n	n_fsa_	_	2	_	_	_
+4	un	un	c	cc_	_	7	_	_	_
+5	sāku	sākt	v	vp_is__1s__	_	4	_	_	_
+6	pīpēt	pīpēt	v	vm_n0__00__	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	3	_	_	_
+2	mani	es	p	p_10sa_	_	3	_	_	_
+3	satika	satikt	v	vm_is__30__	_	10	_	_	_
+4	tepat	tepat	r	r__	_	3	_	_	_
+5	Viņķeļu	Viņķeļi	n	n_mdg_	_	6	_	_	_
+6	ceļā	ceļš	n	n_msl_	_	3	_	_	_
+7	pie	pie	s	spsgy	_	3	_	_	_
+8	autobusu	autobuss	n	n_mpg_	_	9	_	_	_
+9	pieturas	pietura	n	n_fsg_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Viņas	viņa	p	p_3fsg_	_	2	_	_	_
+2	sejā	seja	n	n_fsl_	_	3	_	_	_
+3	nozibsnīja	nozibsnīt	v	vm_is__30__	_	6	_	_	_
+4	tramīgs	tramīgs	a	a_msn__	_	5	_	_	_
+5	pārsteigums	pārsteigums	n	n_msn_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Man	es	p	p_10sd_	_	3	_	_	_
+2	tikai	tikai	q	q_	_	3	_	_	_
+3	jāatceras	atcerēties	v	vm_d0__00__	_	11	_	_	_
+4	desmit	desmit	m	m__0p0_	_	5	_	_	_
+5	notikumi	notikums	n	n_mpn_	_	3	_	_	_
+6	ik	ik	q	q_	_	7	_	_	_
+7	pa	pa	s	sppdy	_	10	_	_	_
+8	desmit	desmit	m	m__0p0_	_	9	_	_	_
+9	gadiem	gads	n	n_mpd_	_	7	_	_	_
+10	atpakaļ	atpakaļ	r	r__	_	5	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Visu	viss	p	p_0msa_	_	2	_	_	_
+2	pārējo	pārējais	a	a_msa__	_	5	_	_	_
+3	es	es	p	p_10sn_	_	5	_	_	_
+4	veidošu	veidot	v	vm_if__1s__	_	5	_	_	_
+5	un	un	c	cc_	_	8	_	_	_
+6	celšu	celt	v	vm_if__1s__	_	5	_	_	_
+7	pati	pati	p	p_0fsn_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Savos	savs	p	p_0mpl_	_	5	_	_	_
+2	nieka	nieks	n	n_msg_	_	5	_	_	_
+3	trīsdesmit	trīsdesmit	m	m__0p0_	_	4	_	_	_
+4	trīs	trīs	m	m__mpl_	_	5	_	_	_
+5	gados	gads	n	n_mpl_	_	8	_	_	_
+6	gribi	gribēt	v	vo_ip__2s__	_	8	_	_	_
+7	mirt	mirt	v	vm_n0__00__	_	6	_	_	_
+8	un	un	c	cc_	_	12	_	_	_
+9	nīsti	nīst	v	vm_ip__2s__	_	8	_	_	_
+10	visu	visa	p	p_0fsa_	_	11	_	_	_
+11	pasauli	pasaule	n	n_fsa_	_	9	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	3	_	_	_
+2	pat	pat	q	q_	_	3	_	_	_
+3	nepamirkšķināju	nepamirkšķināt	v	vm_is__1s__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Beigta	beigta	a	a_fsn__	_	4	_	_	_
+2	es	es	p	p_10sn_	_	4	_	_	_
+3	viņiem	viņš	p	p_3mpd_	_	7	_	_	_
+4	būtu	būt	v	vc_c0__00__	_	7	_	_	_
+5	labāk	labi	r	r__	_	6	_	_	_
+6	patikusi	patikt	v	vm_pdfsn_s_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Neko	nekas	p	p_0msa_	_	6	_	_	_
+2	vairāk	daudz	r	r__	_	3	_	_	_
+3	kā	kā	c	cs_	_	1	_	_	_
+4	pārdesmit	pārdesmit	m	m__0p0_	_	3	_	_	_
+5	iedot	iedot	v	vm_n0__00__	_	7	_	_	_
+6	nevarēju	nevarēt	v	vo_is__1s__	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Daudz	daudz	r	r__	_	6	_	_	_
+2	jau	jau	q	q_	_	8	_	_	_
+3	man	es	p	p_10sd_	_	7	_	_	_
+4	tomēr	tomēr	q	q_	_	8	_	_	_
+5	to	tā	p	p_3fpg_	_	6	_	_	_
+6	mantu	manta	n	n_fpg_	_	7	_	_	_
+7	netika	netikt	v	vm_is__30__	_	8	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Tuvākie	tuvs	a	a_mpn__	_	3	_	_	_
+2	izsūtītie	izsūtīt	v	vm_pdmpn_s_	_	3	_	_	_
+3	kaimiņi	kaimiņš	n	n_mpn_	_	4	_	_	_
+4	bija	būt	v	vc_is__30__	_	7	_	_	_
+5	tādi	tāds	p	p_0mpn_	_	4	_	_	_
+6	pusnabagi	pusnabags	a	a_mpn__	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Viņai	viņa	p	p_3fsd_	_	11	_	_	_
+2	nebija	nebūt	v	vg_is__30__	_	11	_	_	_
+3	vairs	vairs	r	r__	_	2	_	_	_
+4	sausas	sausa	a	a_fsg__	_	5	_	_	_
+5	ādas	āda	n	n_fsg_	_	2	_	_	_
+6	kā	kā	c	cs_	_	5	_	_	_
+7	sabrauktai	sabraukt	v	vm_pdfsd_s_	_	8	_	_	_
+8	vardei	varde	n	n_fsd_	_	6	_	_	_
+9	uz	uz	s	spsgy	_	8	_	_	_
+10	ceļa	ceļš	n	n_msg_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Viens	viens	m	m__msn_	_	5	_	_	_
+2	laikam	laikam	q	q_	_	5	_	_	_
+3	pat	pat	q	q_	_	4	_	_	_
+4	caru	cars	n	n_msa_	_	5	_	_	_
+5	šāva	šaut	v	vm_is__30__	_	6	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Neviens	neviens	p	p_0msn_	_	3	_	_	_
+2	no	no	s	sppdy	_	3	_	_	_
+3	viņiem	viņš	p	p_3mpd_	_	4	_	_	_
+4	neatgriezās	neatgriezties	v	vm_is__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Strauji	strauji	r	r__	_	2	_	_	_
+2	pagriezos	pagriezties	v	vm_is__1s__	_	5	_	_	_
+3	pret	pret	s	spsay	_	2	_	_	_
+4	runātāju	runātājs	n	n_msa_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Viņas	viņa	p	p_3fsg_	_	2	_	_	_
+2	ķermenis	ķermenis	n	n_msn_	_	4	_	_	_
+3	šūpojās	šūpoties	v	vm_is__30__	_	4	_	_	_
+4	un	un	c	cc_	_	6	_	_	_
+5	drebēja	drebēt	v	vm_is__30__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Neviens	neviens	p	p_0msn_	_	4	_	_	_
+2	pie	pie	s	spsgy	_	4	_	_	_
+3	tiesas	tiesa	n	n_fsg_	_	2	_	_	_
+4	nesūdzēja	nesūdzēt	v	vm_is__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Nevienā	neviena	p	p_0fsl_	_	2	_	_	_
+2	zaļumballē	zaļumballe	n	n_fsl_	_	3	_	_	_
+3	neiztika	neiztikt	v	vm_is__30__	_	6	_	_	_
+4	bez	bez	s	spsgn	_	3	_	_	_
+5	manis	es	p	p_10sg_	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	nespēju	nespēt	v	vo_is__1s__	_	8	_	_	_
+3	atraut	atraut	v	vm_n0__00__	_	2	_	_	_
+4	acis	acs	n	n_fpa_	_	3	_	_	_
+5	no	no	s	spsgy	_	3	_	_	_
+6	straujās	strauja	a	a_fsg__	_	7	_	_	_
+7	maiņas	maiņa	n	n_fsg_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Kā	kā	c	cs_	_	4	_	_	_
+2	sajukusi	sajukt	v	vm_pdfsn_s_	_	1	_	_	_
+3	piespiedu	piespiest	v	vm_is__1s__	_	4	_	_	_
+4	un	un	c	cc_	_	8	_	_	_
+5	šūpoju	šūpot	v	vm_is__1s__	_	4	_	_	_
+6	mazo	maza	a	a_fsa__	_	7	_	_	_
+7	dzīvībiņu	dzīvība	n	n_fsa_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Šoreiz	šoreiz	r	r__	_	5	_	_	_
+2	Francis	Francis	n	n_msn_	_	3	_	_	_
+3	laiž	laist	v	vm_ip__30__	_	5	_	_	_
+4	pudelē	pudele	n	n_fsl_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	bieži	bieži	r	r__	_	5	_	_	_
+3	viņš	viņš	p	p_3msn_	_	5	_	_	_
+4	Ellu	Ella	n	n_fsa_	_	5	_	_	_
+5	izāzē	izāzēt	v	vm_ip__2s__	_	1	_	_	_
+6	.	.	z	zs	_	1	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	Francis	Francis	n	n_msn_	_	5	_	_	_
+3	tikai	tikai	q	q_	_	5	_	_	_
+4	mierīgi	mierīgi	r	r__	_	5	_	_	_
+5	noskatās	noskatīties	v	vm_ip__30__	_	1	_	_	_
+6	.	.	z	zs	_	1	_	_	_
+
+1	Ella	Ella	n	n_fsn_	_	2	_	_	_
+2	nes	nest	v	vm_ip__30__	_	8	_	_	_
+3	čuru	čura	n	n_fpg_	_	4	_	_	_
+4	pudeli	pudele	n	n_fsa_	_	2	_	_	_
+5	lejup	lejup	r	r__	_	2	_	_	_
+6	pa	pa	s	sppdy	_	2	_	_	_
+7	kāpnēm	kāpnes	n	n_fpd_	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Viņai	viņa	p	p_3fsd_	_	6	_	_	_
+2	patīk	patikt	v	vm_ip__30__	_	6	_	_	_
+3	smaržas	smarža	n	n_fpn_	_	2	_	_	_
+4	savā	sava	p	p_0fsl_	_	5	_	_	_
+5	virtuvītē	virtuve	n	n_fsl_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tā	tā	p	p_3fsn_	_	2	_	_	_
+2	ir	būt	v	vc_ip__30__	_	6	_	_	_
+3	viņas	viņa	p	p_3fsg_	_	5	_	_	_
+4	vienīgais	vienīgs	a	a_msn__	_	5	_	_	_
+5	patvērums	patvērums	n	n_msn_	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Uz	uz	s	sppdy	_	5	_	_	_
+2	trīs	trīs	m	m__fpn_	_	4	_	_	_
+3	virtuves	virtuve	n	n_fsg_	_	4	_	_	_
+4	palodzēm	palodze	n	n_fpd_	_	1	_	_	_
+5	ir	būt	v	vm_ip__30__	_	9	_	_	_
+6	deviņi	deviņi	m	m__mpn_	_	8	_	_	_
+7	puķu	puķe	n	n_fpg_	_	8	_	_	_
+8	podi	pods	n	n_mpn_	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Tāpēc	tāpēc	r	r__	_	0	_	_	_
+2	tagad	tagad	r	r__	_	1	_	_	_
+3	viņi	viņš	p	p_3mpn_	_	4	_	_	_
+4	var	varēt	v	vo_ip__30__	_	1	_	_	_
+5	iztikt	iztikt	v	vm_n0__00__	_	4	_	_	_
+6	bez	bez	s	spsgn	_	5	_	_	_
+7	bērnu	bērns	n	n_mpg_	_	8	_	_	_
+8	palīdzības	palīdzība	n	n_fsg_	_	6	_	_	_
+9	.	.	z	zs	_	1	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	bija	būt	v	vc_is__30__	_	8	_	_	_
+3	viena	viena	m	m__fsn_	_	2	_	_	_
+4	ar	ar	s	sppdn	_	2	_	_	_
+5	trīs	trīs	m	m__mpa_	_	7	_	_	_
+6	maziem	mazs	a	a_mpd__	_	7	_	_	_
+7	bērniem	bērns	n	n_mpd_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	bija	būt	v	vc_is__30__	_	6	_	_	_
+3	tautas	tauta	n	n_fsg_	_	4	_	_	_
+4	nodevēja	nodevējs	n	n_msg_	_	5	_	_	_
+5	sieva	sieva	n	n_fsn_	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tikai	tikai	q	q_	_	3	_	_	_
+2	grūts	grūts	a	a_msn__	_	3	_	_	_
+3	darbs	darbs	n	n_msn_	_	7	_	_	_
+4	savas	sava	p	p_0fsg_	_	5	_	_	_
+5	valsts	valsts	n	n_fsg_	_	6	_	_	_
+6	labā	labā	r	r__	_	3	_	_	_
+7	izaudzinās	izaudzināt	v	vm_if__30__	_	12	_	_	_
+8	viņus	viņš	p	p_3mpa_	_	7	_	_	_
+9	par	par	s	sppdn	_	7	_	_	_
+10	kārtīgiem	kārtīgs	a	a_mpd__	_	11	_	_	_
+11	cilvēkiem	cilvēks	n	n_mpd_	_	9	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Ir	būt	v	vc_ip__30__	_	6	_	_	_
+2	jāmāk	mācēt	v	vo_d0__00__	_	1	_	_	_
+3	ciesties	ciesties	v	vm_n0__00__	_	4	_	_	_
+4	un	un	c	cc_	_	2	_	_	_
+5	atteikties	atteikties	v	vm_n0__00__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Skaists	skaists	a	a_msn__	_	2	_	_	_
+2	dārzs	dārzs	n	n_msn_	_	3	_	_	_
+3	izput	izputēt	v	vm_ip__30__	_	9	_	_	_
+4	zem	zem	s	sppdy	_	3	_	_	_
+5	brīvi	brīvi	r	r__	_	6	_	_	_
+6	palaista	palaist	v	vm_pdmsg_s_	_	7	_	_	_
+7	kumeļa	kumeļš	n	n_msg_	_	8	_	_	_
+8	kājām	kāja	n	n_fpd_	_	4	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	izsaukta	izsaukt	v	vm_pdfsn_s_	_	7	_	_	_
+3	uz	uz	s	spsay	_	2	_	_	_
+4	pagasta	pagasts	n	n_msg_	_	6	_	_	_
+5	partijas	partija	n	n_fsg_	_	6	_	_	_
+6	komiteju	komiteja	n	n_fsa_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Uz	uz	s	sppdy	_	10	_	_	_
+2	Ziemsvētkiem	Ziemsvētki	n	n_mdd_	_	1	_	_	_
+3	Ella	Ella	n	n_fsn_	_	4	_	_	_
+4	atsūtīja	atsūtīt	v	vm_is__30__	_	10	_	_	_
+5	bildīti	bildīte	n	n_fsa_	_	4	_	_	_
+6	ar	ar	s	sppdn	_	5	_	_	_
+7	viņa	viņš	p	p_3msg_	_	9	_	_	_
+8	trīs	trīs	m	m__mpd_	_	9	_	_	_
+9	bērniem	bērns	n	n_mpd_	_	6	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	noliek	nolikt	v	vm_ip__30__	_	6	_	_	_
+3	netīros	netīrs	a	a_mpa__	_	4	_	_	_
+4	traukus	trauks	n	n_mpa_	_	2	_	_	_
+5	izlietnē	izlietne	n	n_fsl_	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Savai	sava	p	p_0fsd_	_	3	_	_	_
+2	otrai	otra	m	m__fsd_	_	3	_	_	_
+3	meitai	meita	n	n_fsd_	_	7	_	_	_
+4	Ella	Ella	n	n_fsn_	_	7	_	_	_
+5	laikam	laikam	q	q_	_	7	_	_	_
+6	tiešām	tiešām	q	q_	_	7	_	_	_
+7	nodarīja	nodarīt	v	vm_is__30__	_	9	_	_	_
+8	pāri	pāri	r	rr_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Ella	Ella	n	n_fsn_	_	4	_	_	_
+2	meitu	meita	n	n_fsa_	_	4	_	_	_
+3	tūlīt	tūlīt	r	r__	_	4	_	_	_
+4	nogādāja	nogādāt	v	vm_is__30__	_	7	_	_	_
+5	Aleksandra	Aleksandra	n	n_fsn_	_	6	_	_	_
+6	augstumos	augstums	n	n_mpl_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Būtu	būt	v	vc_c0__00__	_	8	_	_	_
+2	bijis	būt	v	vc_pdmsn_s_	_	1	_	_	_
+3	līdzēts	līdzēt	v	vm_pdmsn_s_	_	2	_	_	_
+4	ar	ar	s	spsan	_	1	_	_	_
+5	sapratni	sapratne	n	n_fsa_	_	6	_	_	_
+6	un	un	c	cc_	_	4	_	_	_
+7	mīļumu	mīļums	n	n_msa_	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Viņas	viņa	p	p_3fpn_	_	4	_	_	_
+2	neko	nekas	p	p_0msa_	_	4	_	_	_
+3	daudz	daudz	r	r__	_	2	_	_	_
+4	nerunā	nerunāt	v	vm_ip__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Meita	meita	n	n_fsn_	_	3	_	_	_
+2	vairāk	daudz	r	r__	_	3	_	_	_
+3	sēž	sēdēt	v	vm_ip__30__	_	7	_	_	_
+4	pie	pie	s	spsgy	_	3	_	_	_
+5	Franča	Francis	n	n_msg_	_	6	_	_	_
+6	gultas	gulta	n	n_fsg_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Ella	Ella	n	n_fsn_	_	2	_	_	_
+2	nobraucī	nobraucīt	v	vm_ip__30__	_	7	_	_	_
+3	putekšņus	puteksnis	n	n_mpa_	_	2	_	_	_
+4	no	no	s	sppdy	_	2	_	_	_
+5	stingrajiem	stingrs	a	a_mpd__	_	6	_	_	_
+6	kātiem	kāts	n	n_mpd_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	visi	viss	p	p_0mpn_	_	3	_	_	_
+3	tā_kā	tā_kā	c	cs_	_	1	_	_	_
+4	nomērīti	nomērīt	v	vm_pdmpn_s_	_	3	_	_	_
+5	.	.	z	zs	_	1	_	_	_
+
+1	Dēlu	dēls	n	n_msa_	_	4	_	_	_
+2	viņai	viņa	p	p_3fsd_	_	10	_	_	_
+3	nācās	nākties	v	vo_is__30__	_	10	_	_	_
+4	audzināt	audzināt	v	vm_n0__00__	_	3	_	_	_
+5	ar	ar	s	spsan	_	3	_	_	_
+6	rajona	rajons	n	n_msg_	_	8	_	_	_
+7	partijas	partija	n	n_fsg_	_	8	_	_	_
+8	komitejas	komiteja	n	n_fsg_	_	9	_	_	_
+9	starpniecību	starpniecība	n	n_fsa_	_	5	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	vedekla	vedekla	n	n_fsn_	_	5	_	_	_
+3	kaut	kaut	q	q_	_	4	_	_	_
+4	kā	kā	r	r__	_	5	_	_	_
+5	nevarēja	nevarēt	v	vo_is__30__	_	1	_	_	_
+6	pieņemt	pieņemt	v	vm_n0__00__	_	5	_	_	_
+7	viņas	viņa	p	p_3fsg_	_	8	_	_	_
+8	noteikumus	noteikums	n	n_mpa_	_	6	_	_	_
+9	.	.	z	zs	_	1	_	_	_
+
+1	Dēls	dēls	n	n_msn_	_	3	_	_	_
+2	norakstīja	norakstīt	v	vm_is__30__	_	3	_	_	_
+3	un	un	c	cc_	_	8	_	_	_
+4	uzbūvēja	uzbūvēt	v	vm_is__30__	_	3	_	_	_
+5	mājas	māja	n	n_fsg_	_	6	_	_	_
+6	vidū	vidus	n	n_msl_	_	4	_	_	_
+7	sienu	siens	n	n_msa_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Francis	Francis	n	n_msn_	_	3	_	_	_
+2	augšstāvā	augšstāvs	n	n_msl_	_	3	_	_	_
+3	izdveš	izdvest	v	vm_ip__30__	_	7	_	_	_
+4	kaut	kaut	q	q_	_	5	_	_	_
+5	kādas	kāda	p	p_0fpa_	_	6	_	_	_
+6	skaņas	skaņa	n	n_fpa_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Laikam	laikam	q	q_	_	4	_	_	_
+2	būs	būt	v	vm_if__30__	_	4	_	_	_
+3	kaka	kaka	n	n_fsn_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Ella	Ella	n	n_fsn_	_	4	_	_	_
+2	vēl	vēl	r	r__	_	4	_	_	_
+3	nemaz	nemaz	r	r__	_	4	_	_	_
+4	nav	nebūt	v	vc_ip__30__	_	10	_	_	_
+5	tikusi	tikt	v	vt_pdfsn_s_	_	4	_	_	_
+6	pie	pie	s	spsgy	_	5	_	_	_
+7	brokastu	brokastis	n	n_mpg_	_	8	_	_	_
+8	trauku	trauks	n	n_mpg_	_	9	_	_	_
+9	mazgāšanas	mazgāšana	n	n_fsg_	_	6	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Dēls	dēls	n	n_msn_	_	2	_	_	_
+2	ievācās	ievākties	v	vm_is__30__	_	5	_	_	_
+3	vēl	vēl	r	r__	_	4	_	_	_
+4	nepabeigtajā	nepabeigt	v	vm_pdfsl_s_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Viņu	viņš	p	p_3mpg_	_	2	_	_	_
+2	pusē	puse	n	n_fsl_	_	3	_	_	_
+3	palika	palikt	v	vm_is__30__	_	8	_	_	_
+4	dēla	dēls	n	n_msg_	_	6	_	_	_
+5	jaunākās	jauna	a	a_fsg__	_	6	_	_	_
+6	meitas	meita	n	n_fsg_	_	7	_	_	_
+7	istabiņa	istabiņa	n	n_fsn_	_	3	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	3	_	_	_
+2	topavasar	topavasar	r	r__	_	3	_	_	_
+3	beidza	beigt	v	vm_is__30__	_	5	_	_	_
+4	pamatskolu	pamatskola	n	n_fsa_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Uz	uz	s	sppdy	_	3	_	_	_
+2	atvadām	atvadas	n	n_fpd_	_	1	_	_	_
+3	iedeva	iedot	v	vm_is__30__	_	7	_	_	_
+4	desmit	desmit	m	m__0p0_	_	6	_	_	_
+5	metāla	metāls	n	n_msg_	_	6	_	_	_
+6	rubļus	rublis	n	n_mpa_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Bez	bez	s	sppdn	_	12	_	_	_
+2	skumjām	skumjas	n	n_fdd_	_	3	_	_	_
+3	un	un	c	cc_	_	1	_	_	_
+4	nostalģijas	nostalģija	n	n_fsg_	_	3	_	_	_
+5	šī	šī	p	p_3fsn_	_	6	_	_	_
+6	aina	aina	n	n_fsn_	_	12	_	_	_
+7	pati	pati	p	p_0fsn_	_	8	_	_	_
+8	no	no	s	spsgy	_	6	_	_	_
+9	sevis	sevis	p	p_000g_	_	8	_	_	_
+10	ik	ik	q	q_	_	11	_	_	_
+11	rītu	rīts	n	n_msa_	_	12	_	_	_
+12	aizslīd	aizslīdēt	v	vm_ip__30__	_	15	_	_	_
+13	gar	gar	s	sppdy	_	12	_	_	_
+14	acīm	acs	n	n_fpd_	_	13	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Vakarā	vakars	n	n_msl_	_	12	_	_	_
+2	Tristāns	Tristāns	n	n_msn_	_	8	_	_	_
+3	aizveda	aizvest	v	vm_is__30__	_	8	_	_	_
+4	Izoldi	Izolde	n	n_fsa_	_	8	_	_	_
+5	uz	uz	s	spsay	_	3	_	_	_
+6	savu	sava	p	p_0fsa_	_	7	_	_	_
+7	baržu	barža	n	n_fsa_	_	5	_	_	_
+8	un	un	c	cc_	_	12	_	_	_
+9	laipni	laipni	r	r__	_	10	_	_	_
+10	uzaicināja	uzaicināt	v	vm_is__30__	_	8	_	_	_
+11	palikt	palikt	v	vm_n0__00__	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Tristāna	Tristāns	n	n_msg_	_	2	_	_	_
+2	āda	āda	n	n_fsn_	_	4	_	_	_
+3	viegli	viegli	r	r__	_	4	_	_	_
+4	smaržoja	smaržot	v	vm_is__30__	_	10	_	_	_
+5	pēc	pēc	s	sppdy	_	4	_	_	_
+6	svaigām	svaiga	a	a_fpd__	_	7	_	_	_
+7	zivīm	zivs	n	n_fpd_	_	8	_	_	_
+8	un	un	c	cc_	_	5	_	_	_
+9	citroniem	citrons	n	n_mpd_	_	8	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Pirmoreiz	pirmoreiz	r	r__	_	4	_	_	_
+2	savā	savs	p	p_0msl_	_	4	_	_	_
+3	nesakarīgajā	nesakarīgs	a	a_msl__	_	4	_	_	_
+4	mūžā	mūžs	n	n_msl_	_	6	_	_	_
+5	Izolde	Izolde	n	n_fsn_	_	6	_	_	_
+6	izjuta	izjust	v	vm_is__30__	_	14	_	_	_
+7	sevi	sevis	p	p_000a_	_	6	_	_	_
+8	kā	kā	c	cs_	_	6	_	_	_
+9	daļu	daļa	n	n_fsa_	_	8	_	_	_
+10	no	no	s	spsgy	_	9	_	_	_
+11	kaut	kaut	q	q_	_	12	_	_	_
+12	kā	kas	p	p_000g_	_	13	_	_	_
+13	liela	liels	n	n_msg_	_	10	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	sagaidīja	sagaidīt	v	vm_is__30__	_	7	_	_	_
+3	vakaru	vakars	n	n_msa_	_	4	_	_	_
+4	un	un	c	cc_	_	2	_	_	_
+5	Tristānu	Tristāns	n	n_msa_	_	4	_	_	_
+6	pārnākam	pārnākt	v	vm_pu000_0_	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Pat	pat	q	q_	_	3	_	_	_
+2	marihuānas	marihuāna	n	n_fsg_	_	3	_	_	_
+3	dūmos	dūmi	n	n_mpl_	_	7	_	_	_
+4	viņa	viņa	p	p_3fsn_	_	7	_	_	_
+5	ne	ne	q	q_	_	6	_	_	_
+6	reizi	reize	n	n_fsa_	_	7	_	_	_
+7	nebija	nebūt	v	vc_is__30__	_	15	_	_	_
+8	piedzīvojusi	piedzīvot	v	vm_pdfsn_s_	_	7	_	_	_
+9	tik	tik	r	r__	_	10	_	_	_
+10	skaistu	skaista	a	a_fsa__	_	11	_	_	_
+11	un	un	c	cc_	_	14	_	_	_
+12	tik	tik	r	r__	_	13	_	_	_
+13	reālu	reāla	a	a_fsa__	_	11	_	_	_
+14	vīziju	vīzija	n	n_fsa_	_	8	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Par	par	s	sppdn	_	8	_	_	_
+2	dažām	daža	p	p_0fpd_	_	4	_	_	_
+3	metāla	metāls	n	n_msg_	_	4	_	_	_
+4	naudiņām	naudiņa	n	n_fpd_	_	1	_	_	_
+5	viņš	viņš	p	p_3msn_	_	8	_	_	_
+6	itin	itin	q	q_	_	7	_	_	_
+7	priecīgs	priecīgs	a	a_msn__	_	8	_	_	_
+8	pārdeva	pārdot	v	vm_is__30__	_	13	_	_	_
+9	Izoldei	Izolde	n	n_fsd_	_	8	_	_	_
+10	visu	viss	p	p_0msa_	_	12	_	_	_
+11	lielo	liels	a	a_msa__	_	12	_	_	_
+12	saišķi	saišķis	n	n_msa_	_	8	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Visu	viss	p	p_0msa_	_	2	_	_	_
+2	vakaru	vakars	n	n_msa_	_	5	_	_	_
+3	Tristāns	Tristāns	n	n_msn_	_	5	_	_	_
+4	Izoldei	Izolde	n	n_fsd_	_	5	_	_	_
+5	neļāva	neļaut	v	vm_is__30__	_	9	_	_	_
+6	kāpt	kāpt	v	vm_n0__00__	_	5	_	_	_
+7	uz	uz	s	spsgy	_	6	_	_	_
+8	klāja	klājs	n	n_msg_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	6	_	_	_
+2	Izolde	Izolde	n	n_fsn_	_	6	_	_	_
+3	novilka	novilkt	v	vm_is__30__	_	6	_	_	_
+4	visas	visa	p	p_0fpa_	_	5	_	_	_
+5	drēbes	drēbe	n	n_fpa_	_	3	_	_	_
+6	un	un	c	cc_	_	10	_	_	_
+7	ietinās	ietīties	v	vm_is__30__	_	6	_	_	_
+8	zaļajā	zaļš	a	a_msl__	_	9	_	_	_
+9	lakatā	lakats	n	n_msl_	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Pavisam	pavisam	r	r__	_	2	_	_	_
+2	drīz	drīz	r	r__	_	3	_	_	_
+3	pēc	pēc	s	spsgy	_	11	_	_	_
+4	Tristāna	Tristāns	n	n_msg_	_	5	_	_	_
+5	nāves	nāve	n	n_fsg_	_	3	_	_	_
+6	šī	šī	p	p_3fsn_	_	7	_	_	_
+7	līdzība	līdzība	n	n_fsn_	_	11	_	_	_
+8	vēl	vēl	r	r__	_	9	_	_	_
+9	neparastākā	neparasts	a	a_msl__	_	10	_	_	_
+10	veidā	veids	n	n_msl_	_	11	_	_	_
+11	atgriezās	atgriezties	v	vm_is__30__	_	14	_	_	_
+12	pie	pie	s	spsgy	_	11	_	_	_
+13	Izoldes	Izolde	n	n_fsg_	_	12	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Izolde	Izolde	n	n_fsn_	_	6	_	_	_
+2	salieca	saliekt	v	vm_is__30__	_	3	_	_	_
+3	un	un	c	cc_	_	6	_	_	_
+4	iztaisnoja	iztaisnot	v	vm_is__30__	_	3	_	_	_
+5	plaukstu	plauksta	n	n_fsa_	_	3	_	_	_
+6	un	un	c	cc_	_	12	_	_	_
+7	redzēja	redzēt	v	vm_is__30__	_	6	_	_	_
+8	savu	savs	p	p_0mpg_	_	9	_	_	_
+9	pirkstu	pirksts	n	n_mpg_	_	10	_	_	_
+10	kustības	kustība	n	n_fpa_	_	7	_	_	_
+11	debesīs	debess	n	n_fpl_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Gandrīz	gandrīz	r	r__	_	2	_	_	_
+2	līdz	līdz	s	spsdy	_	7	_	_	_
+3	ausmai	ausma	n	n_fsd_	_	2	_	_	_
+4	Izolde	Izolde	n	n_fsn_	_	5	_	_	_
+5	un	un	c	cc_	_	7	_	_	_
+6	Tristāns	Tristāns	n	n_msn_	_	5	_	_	_
+7	centās	censties	v	vo_is__30__	_	13	_	_	_
+8	viens	viens	m	m__msn_	_	10	_	_	_
+9	otru	otrs	m	m__msa_	_	10	_	_	_
+10	pārspēt	pārspēt	v	vm_n0__00__	_	7	_	_	_
+11	jokainajā	jokaina	a	a_fsl__	_	12	_	_	_
+12	rotaļā	rotaļa	n	n_fsl_	_	10	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Izolde	Izolde	n	n_fsn_	_	3	_	_	_
+2	joprojām	joprojām	r	r__	_	3	_	_	_
+3	vēro	vērot	v	vm_ip__30__	_	6	_	_	_
+4	sevi	sevis	p	p_000a_	_	3	_	_	_
+5	spogulī	spogulis	n	n_msl_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tādējādi	tādējādi	r	r__	_	3	_	_	_
+2	Izolde	Izolde	n	n_fsn_	_	3	_	_	_
+3	atgriežas	atgriezties	v	vm_ip__30__	_	9	_	_	_
+4	savā	sava	p	p_0fsl_	_	8	_	_	_
+5	vienīgajā	vienīga	a	a_fsl__	_	6	_	_	_
+6	un	un	c	cc_	_	8	_	_	_
+7	īstajā	īsta	a	a_fsl__	_	6	_	_	_
+8	eksistencē	eksistence	n	n_fsl_	_	3	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Vispirms	vispirms	r	r__	_	13	_	_	_
+2	viņa	viņa	p	p_3fsn_	_	3	_	_	_
+3	iet	iet	v	vm_n0__00__	_	13	_	_	_
+4	tālu	tāls	a	a_msa__	_	5	_	_	_
+5	gabalu	gabals	n	n_msa_	_	3	_	_	_
+6	gar	gar	s	sppdy	_	3	_	_	_
+7	peldošajiem	peldēt	v	vm_pdmpd_p_	_	8	_	_	_
+8	mājokļiem	mājoklis	n	n_mpd_	_	9	_	_	_
+9	un	un	c	cc_	_	6	_	_	_
+10	akmens	akmens	n	n_msg_	_	11	_	_	_
+11	stabiņu	stabiņš	n	n_mpg_	_	12	_	_	_
+12	sienu	siena	n	n_fsa_	_	9	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Stostīdamies	stostīties	v	vm_ppm0n_p_	_	5	_	_	_
+2	mans	mans	p	p_0msn_	_	3	_	_	_
+3	tēvs	tēvs	n	n_msn_	_	5	_	_	_
+4	laipni	laipni	r	r__	_	5	_	_	_
+5	piedāvāja	piedāvāt	v	vm_is__30__	_	15	_	_	_
+6	niknulei	niknule	n	n_fsd_	_	5	_	_	_
+7	pieskarties	pieskarties	v	vm_n0__00__	_	5	_	_	_
+8	vienai	viena	m	m__fsd_	_	9	_	_	_
+9	no	no	s	sppdy	_	7	_	_	_
+10	viņa	viņš	p	p_3msg_	_	12	_	_	_
+11	melnā	melns	a	a_msg__	_	12	_	_	_
+12	mundiera	mundieris	n	n_msg_	_	14	_	_	_
+13	spožajām	spoža	a	a_fpd__	_	14	_	_	_
+14	pogām	poga	n	n_fpd_	_	9	_	_	_
+15	.	.	z	zs	_	0	_	_	_
+
+1	Viņam	viņš	p	p_3msd_	_	2	_	_	_
+2	par	par	s	spsan	_	14	_	_	_
+3	lielu	liels	a	a_msa__	_	4	_	_	_
+4	pārsteigumu	pārsteigums	n	n_msa_	_	2	_	_	_
+5	satrakotā	satrakot	v	vm_pdfsn_s_	_	6	_	_	_
+6	fūrija	fūrija	n	n_fsn_	_	10	_	_	_
+7	nobēdzināja	nobēdzināt	v	vm_is__30__	_	10	_	_	_
+8	savu	savs	p	p_0msa_	_	9	_	_	_
+9	sprunguliņu	sprunguls	n	n_msa_	_	7	_	_	_
+10	un	un	c	cc_	_	14	_	_	_
+11	tā	tā	r	r__	_	13	_	_	_
+12	arī	arī	q	q_	_	13	_	_	_
+13	izdarīja	izdarīt	v	vm_is__30__	_	10	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Pāris	pāris	n	n_msn_	_	2	_	_	_
+2	dienu	diena	n	n_fpg_	_	3	_	_	_
+3	vēlāk	vēlāk	r	r__	_	6	_	_	_
+4	mana	mana	p	p_0fsn_	_	5	_	_	_
+5	māte	māte	n	n_fsn_	_	6	_	_	_
+6	kļuva	kļūt	v	vt_is__30__	_	9	_	_	_
+7	laimīga	laimīga	a	a_fsn__	_	8	_	_	_
+8	skursteņslauķe	skursteņslauķe	n	n_fsn_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Mūsu	mēs	p	p_10pg_	_	2	_	_	_
+2	pikniki	pikniks	n	n_mpn_	_	4	_	_	_
+3	pavasaros	pavasaris	n	n_mpl_	_	4	_	_	_
+4	notika	notikt	v	vm_is__30__	_	9	_	_	_
+5	par	par	s	spsan	_	4	_	_	_
+6	godu	gods	n	n_msa_	_	5	_	_	_
+7	manai	mana	p	p_0fsd_	_	8	_	_	_
+8	piedzimšanai	piedzimšana	n	n_fsd_	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Mums	mēs	p	p_10pd_	_	9	_	_	_
+2	nebija	nebūt	v	vg_is__30__	_	9	_	_	_
+3	lielāku	liels	a	a_mpg__	_	4	_	_	_
+4	svētku	svētki	n	n_mdg_	_	2	_	_	_
+5	par	par	s	sppdn	_	3	_	_	_
+6	šiem	šis	p	p_3mpd_	_	8	_	_	_
+7	pavasara	pavasaris	n	n_msg_	_	8	_	_	_
+8	piknikiem	pikniks	n	n_mpd_	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Prieks	prieks	n	n_msn_	_	4	_	_	_
+2	tam	tas	p	p_3msd_	_	5	_	_	_
+3	sirdī	sirds	n	n_fsl_	_	4	_	_	_
+4	plauka	plaukt	v	vm_is__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	meklēju	meklēt	v	vm_is__1s__	_	5	_	_	_
+3	mātes	māte	n	n_fsg_	_	4	_	_	_
+4	sprunguliņu	sprunguls	n	n_msa_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Aukstas	auksta	a	a_fpn__	_	2	_	_	_
+2	tās	tā	p	p_3fpn_	_	3	_	_	_
+3	ir	būt	v	vc_ip__30__	_	7	_	_	_
+4	čerkstošas	čerkstēt	v	vm_pdfpn_p_	_	5	_	_	_
+5	un	un	c	cc_	_	3	_	_	_
+6	nemīlīgas	nemīlīga	a	a_fpn__	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Arī	arī	q	q_	_	9	_	_	_
+2	durvis	durvis	n	n_fdn_	_	7	_	_	_
+3	no	no	s	spsgy	_	5	_	_	_
+4	ķēķa	ķēķis	n	n_msg_	_	3	_	_	_
+5	uz	uz	s	spsay	_	2	_	_	_
+6	guļamkambari	guļamkambaris	n	n_msa_	_	5	_	_	_
+7	bija	būt	v	vc_is__30__	_	9	_	_	_
+8	pusvirus	pusvirus	r	r__	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	5	_	_	_
+2	nostājos	nostāties	v	vm_is__1s__	_	5	_	_	_
+3	pie	pie	s	spsgy	_	2	_	_	_
+4	kumodes	kumode	n	n_fsg_	_	3	_	_	_
+5	un	un	c	cc_	_	12	_	_	_
+6	vēru	vērt	v	vm_is__1s__	_	5	_	_	_
+7	vaļā	vaļā	r	r__	_	6	_	_	_
+8	visas	visa	p	p_0fpa_	_	9	_	_	_
+9	atvilktnes	atvilktne	n	n_fpa_	_	6	_	_	_
+10	pēc	pēc	s	spsgy	_	6	_	_	_
+11	kārtas	kārta	n	n_fsg_	_	10	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	2	_	_	_
+2	meklēju	meklēt	v	vm_is__1s__	_	4	_	_	_
+3	dvieli	dvielis	n	n_msa_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Bija	būt	v	vc_is__30__	_	8	_	_	_
+2	uzbudinoši	uzbudināt	r	r__	_	1	_	_	_
+3	skart	skart	v	vm_n0__00__	_	1	_	_	_
+4	tik	tik	r	r__	_	5	_	_	_
+5	ilgi	ilgi	r	r__	_	6	_	_	_
+6	stāvējušu	stāvēt	v	vm_pdmsa_s_	_	7	_	_	_
+7	laiku	laiks	n	n_msa_	_	3	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Andžs	Andžs	n	n_msn_	_	4	_	_	_
+2	greizsirdīgā	greizsirdīga	a	a_fsl__	_	3	_	_	_
+3	alkatībā	alkatība	n	n_fsl_	_	4	_	_	_
+4	iegaumēja	iegaumēt	v	vm_is__30__	_	8	_	_	_
+5	kaislību	kaislība	n	n_fsa_	_	4	_	_	_
+6	Tīnas	Tīna	n	n_fsg_	_	7	_	_	_
+7	sejā	seja	n	n_fsl_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Andžam	Andžs	n	n_msd_	_	8	_	_	_
+2	nosvīda	nosvīda	v	vm_is__30__	_	8	_	_	_
+3	plaukstas	plauksta	n	n_fpn_	_	2	_	_	_
+4	no	no	s	spsgy	_	2	_	_	_
+5	tādas	tāda	p	p_0fsg_	_	7	_	_	_
+6	brīvības	brīvība	n	n_fsg_	_	7	_	_	_
+7	atklāsmes	atklāsme	n	n_fsg_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	visi	viss	p	p_0mpn_	_	4	_	_	_
+3	paklausīgi	paklausīgi	r	r__	_	4	_	_	_
+4	bija	būt	v	vc_is__30__	_	1	_	_	_
+5	turpinājuši	turpināt	v	vm_pdmpn_s_	_	4	_	_	_
+6	šo	šī	p	p_3fsa_	_	8	_	_	_
+7	mīklaino	mīklaina	a	a_fsa__	_	8	_	_	_
+8	tradīciju	tradīcija	n	n_fsa_	_	5	_	_	_
+9	.	.	z	zs	_	1	_	_	_
+
+1	Aiz	aiz	s	sppdy	_	5	_	_	_
+2	maniem	mans	p	p_0mpd_	_	4	_	_	_
+3	drebošajiem	drebēt	v	vm_pdmpd_p_	_	4	_	_	_
+4	plakstiņiem	plakstiņš	n	n_mpd_	_	1	_	_	_
+5	sāka	sākt	v	vp_is__30__	_	8	_	_	_
+6	rosīties	rosīties	v	vm_n0__00__	_	5	_	_	_
+7	tēli	tēls	n	n_mpn_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Zumpju	Zumpji	n	n_mdg_	_	2	_	_	_
+2	mājas	māja	n	n_fsg_	_	3	_	_	_
+3	pirtī	pirts	n	n_fsl_	_	5	_	_	_
+4	vājinieci	vājiniece	n	n_fsa_	_	5	_	_	_
+5	dziedēja	dziedēt	v	vm_is__30__	_	7	_	_	_
+6	Dārta	Dārta	n	n_fsn_	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Līdz	Līdz	r	r__	_	6	_	_	_
+2	ar	ar	s	sppdn	_	6	_	_	_
+3	roku	roka	n	n_fpg_	_	4	_	_	_
+4	kustībām	kustība	n	n_fpd_	_	2	_	_	_
+5	Dārta	Dārta	n	n_fsn_	_	6	_	_	_
+6	skaitīja	skaitīt	v	vm_is__30__	_	8	_	_	_
+7	vārdus	vārds	n	n_mpa_	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Mans	mans	p	p_0msn_	_	3	_	_	_
+2	dīvainais	dīvains	a	a_msn__	_	3	_	_	_
+3	nomods	nomods	n	n_msn_	_	4	_	_	_
+4	bija	būt	v	vc_is__30__	_	10	_	_	_
+5	tik	tik	r	r__	_	6	_	_	_
+6	netverams	netvert	v	vm_pdmsn_p_	_	7	_	_	_
+7	un	un	c	cc_	_	4	_	_	_
+8	vienlaikus	vienlaikus	r	r__	_	9	_	_	_
+9	īsts	īsts	a	a_msn__	_	7	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	No	no	s	spsgy	_	5	_	_	_
+2	rūsganā	rūsgans	a	a_msg__	_	4	_	_	_
+3	matu	mats	n	n_mpg_	_	4	_	_	_
+4	mezgla	mezgls	n	n_msg_	_	1	_	_	_
+5	atrisušās	atrist	v	vm_pdfpn_s_	_	6	_	_	_
+6	šķipsnas	šķipsna	n	n_fpn_	_	7	_	_	_
+7	krita	krist	v	vm_is__30__	_	13	_	_	_
+8	pār	pār	s	sppdy	_	7	_	_	_
+9	viņas	viņa	p	p_3fsg_	_	11	_	_	_
+10	pleciem	plecs	n	n_mpd_	_	11	_	_	_
+11	un	un	c	cc_	_	8	_	_	_
+12	krūtīm	krūts	n	n_fpd_	_	11	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Pa	pa	s	spsay	_	8	_	_	_
+2	šo	šī	p	p_3fsa_	_	5	_	_	_
+3	garlaicīgo	garlaicīga	a	a_fsa__	_	5	_	_	_
+4	zemes	zeme	n	n_fsg_	_	5	_	_	_
+5	šļuru	šļuru	n	n_fsa_	_	1	_	_	_
+6	es	es	p	p_10sn_	_	8	_	_	_
+7	rudeņos	rudens	n	n_mpl_	_	8	_	_	_
+8	brienu	brist	v	vm_ip__1s__	_	11	_	_	_
+9	uz	uz	s	sppdy	_	8	_	_	_
+10	mājām	māja	n	n_fpd_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Šis	šis	p	p_3msn_	_	6	_	_	_
+2	atklātais	atklāt	v	vm_pdmsn_s_	_	3	_	_	_
+3	un	un	c	cc_	_	6	_	_	_
+4	mazliet	mazliet	r	r__	_	5	_	_	_
+5	skumjais	skumjš	a	a_msn__	_	3	_	_	_
+6	skatiens	skatiens	n	n_msn_	_	8	_	_	_
+7	Andžu	Andžs	n	n_msa_	_	8	_	_	_
+8	iedrošināja	iedrošināt	v	vm_is__30__	_	9	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	No	no	s	sppdy	_	6	_	_	_
+2	kāju	kāja	n	n_fpg_	_	3	_	_	_
+3	pirkstgaliem	pirkstgals	n	n_mpd_	_	1	_	_	_
+4	uz	uz	s	spsay	_	6	_	_	_
+5	augšu	augša	n	n_fsa_	_	4	_	_	_
+6	rāpās	rāpties	v	vm_is__30__	_	9	_	_	_
+7	tīkama	tīkama	a	a_fsn__	_	8	_	_	_
+8	kņudoņa	kņudoņa	n	n_fsn_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Karstās	karsta	a	a_fsg__	_	2	_	_	_
+2	straumītes	straume	n	n_fsg_	_	4	_	_	_
+3	vienmērīgā	vienmērīga	a	a_fsn__	_	4	_	_	_
+4	tecēšana	tecēšana	n	n_fsn_	_	5	_	_	_
+5	pārtapa	pārtapt	v	vm_is__30__	_	8	_	_	_
+6	liegā	liega	a	a_fsl__	_	7	_	_	_
+7	šalkoņā	šalkoņa	n	n_fsl_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	tad	tad	r	r__	_	6	_	_	_
+3	Andža	Andžs	n	n_msg_	_	5	_	_	_
+4	šaudīgās	šaudīga	a	a_fpn__	_	5	_	_	_
+5	acis	acs	n	n_fpn_	_	6	_	_	_
+6	sastapās	sastapties	v	vm_is__30__	_	1	_	_	_
+7	ar	ar	s	spsan	_	6	_	_	_
+8	Tīnas	Tīna	n	n_fsg_	_	9	_	_	_
+9	skatienu	skatiens	n	n_msa_	_	7	_	_	_
+10	.	.	z	zs	_	1	_	_	_
+
+1	Uz	uz	s	spsay	_	5	_	_	_
+2	īsu	īss	a	a_msa__	_	3	_	_	_
+3	brīdi	brīdis	n	n_msa_	_	1	_	_	_
+4	viņu	viņš	p	p_3msa_	_	5	_	_	_
+5	pārņēma	pārņemt	v	vm_is__30__	_	8	_	_	_
+6	neizskaidrojamas	neizskaidrot	v	vm_pdfpn_p_	_	7	_	_	_
+7	bailes	bailes	n	n_fpn_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Viņi	viņš	p	p_3mpn_	_	6	_	_	_
+2	nebija	nebūt	v	vc_is__30__	_	6	_	_	_
+3	izkustējušies	izkustēties	v	vm_pdmpn_s_	_	2	_	_	_
+4	no	no	s	spsgy	_	3	_	_	_
+5	vietas	vieta	n	n_fsg_	_	4	_	_	_
+6	un	un	c	cc_	_	12	_	_	_
+7	tomēr	tomēr	q	q_	_	8	_	_	_
+8	nobraukuši	nobraukt	v	vm_pdmpn_s_	_	6	_	_	_
+9	tik	tik	r	r__	_	10	_	_	_
+10	daudz	daudz	r	r__	_	11	_	_	_
+11	jūdžu	jūdze	n	n_fpg_	_	8	_	_	_
+12	.	.	z	zs	_	0	_	_	_
+
+1	Atlika	atlikt	v	vm_is__30__	_	7	_	_	_
+2	vien	vien	q	q_	_	7	_	_	_
+3	brīnīties	brīnīties	v	vm_n0__00__	_	1	_	_	_
+4	par	par	s	spsan	_	3	_	_	_
+5	tādu	tāda	p	p_0fsa_	_	6	_	_	_
+6	apsēstību	apsēstība	n	n_fsa_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Reiz	reiz	r	r__	_	6	_	_	_
+2	sniegainā	sniegaina	a	a_fsl__	_	3	_	_	_
+3	ziemā	ziema	n	n_fsl_	_	6	_	_	_
+4	es	es	p	p_10sn_	_	6	_	_	_
+5	viņu	viņš	p	p_3msa_	_	6	_	_	_
+6	apciemoju	apciemot	v	vm_is__1s__	_	7	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Visvairāk	daudz	r	r__	_	3	_	_	_
+2	viņš	viņš	p	p_3msn_	_	3	_	_	_
+3	nopūlējās	nopūlēties	v	vm_is__30__	_	8	_	_	_
+4	ar	ar	s	spsan	_	3	_	_	_
+5	sniega	sniegs	n	n_msg_	_	7	_	_	_
+6	viļņu	vilnis	n	n_mpg_	_	7	_	_	_
+7	veidošanu	veidošana	n	n_fsa_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Pilsētas	pilsēta	n	n_fsg_	_	2	_	_	_
+2	autoostā	autoosta	n	n_fsl_	_	4	_	_	_
+3	viņus	viņš	p	p_3mpa_	_	4	_	_	_
+4	uzrunāja	uzrunāt	v	vm_is__30__	_	8	_	_	_
+5	kāds	kāds	p	p_0msn_	_	7	_	_	_
+6	uzbāzīgs	uzbāzīgs	a	a_msn__	_	7	_	_	_
+7	vīrs	vīrs	n	n_msn_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Viņi	viņš	p	p_3mpn_	_	3	_	_	_
+2	droši_vien	droši_vien	q	q_	_	3	_	_	_
+3	esot	būt	v	vc_rp__00__	_	5	_	_	_
+4	laimīgi	laimīgs	a	a_mpn__	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	vienmēr	vienmēr	r	r__	_	3	_	_	_
+3	tā	tā	r	r__	_	1	_	_	_
+4	nebūšot	nebūt	v	vc_rf__00__	_	3	_	_	_
+5	.	.	z	zs	_	1	_	_	_
+
+1	Marija	Marija	n	n_fsn_	_	2	_	_	_
+2	kratīja	kratīt	v	vm_is__30__	_	6	_	_	_
+3	vīra	vīrs	n	n_msg_	_	4	_	_	_
+4	roku	roka	n	n_fsa_	_	2	_	_	_
+5	nost	nost	r	r__	_	2	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Suņi	suns	n	n_mpn_	_	4	_	_	_
+2	pa	pa	s	spsdy	_	4	_	_	_
+3	brīsniņam	brīsniņš	n	n_msd_	_	2	_	_	_
+4	izskrien	izskriet	v	vm_ip__30__	_	8	_	_	_
+5	lokus	loks	n	n_mpa_	_	4	_	_	_
+6	pielijušajā	pielīt	v	vm_pdfsl_s_	_	7	_	_	_
+7	pļavā	pļava	n	n_fsl_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Varbūt	varbūt	q	q_	_	5	_	_	_
+2	meklē	meklēt	v	vm_ip__30__	_	5	_	_	_
+3	veco	vecs	a	a_msa__	_	4	_	_	_
+4	sunīti	sunītis	n	n_msa_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	6	_	_	_
+2	tirgū	tirgus	n	n_msl_	_	6	_	_	_
+3	pie	pie	s	spsgy	_	6	_	_	_
+4	kāda	kāds	p	p_0msg_	_	5	_	_	_
+5	zvejnieka	zvejnieks	n	n_msg_	_	3	_	_	_
+6	pirka	pirkt	v	vm_is__30__	_	9	_	_	_
+7	vēja	vējš	n	n_msg_	_	8	_	_	_
+8	zušus	zutis	n	n_mpa_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Citi	cits	p	p_0mpn_	_	2	_	_	_
+2	ļaudis	ļaudis	n	n_mpn_	_	5	_	_	_
+3	stāvēja	stāvēt	v	vm_is__30__	_	5	_	_	_
+4	bariņos	bars	n	n_mpl_	_	3	_	_	_
+5	un	un	c	cc_	_	9	_	_	_
+6	kaut	kaut	q	q_	_	7	_	_	_
+7	ko	kas	p	p_000a_	_	8	_	_	_
+8	gaidīja	gaidīt	v	vm_is__30__	_	5	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	5	_	_	_
+2	viņai	viņa	p	p_3fsd_	_	3	_	_	_
+3	un	un	c	cc_	_	5	_	_	_
+4	dēlam	dēls	n	n_msd_	_	3	_	_	_
+5	maksāšot	maksāt	v	vm_rf__00__	_	6	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Tas	tas	p	p_3msn_	_	2	_	_	_
+2	neprasīšot	neprasīt	v	vm_rf__00__	_	5	_	_	_
+3	daudz	daudz	r	r__	_	4	_	_	_
+4	laika	laiks	n	n_msg_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	puisēns	puisēns	n	n_msn_	_	3	_	_	_
+3	baidās	baidīties	v	vm_ip__30__	_	1	_	_	_
+4	.	.	z	zs	_	1	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	2	_	_	_
+2	maksāšot	maksāt	v	vm_rf__00__	_	5	_	_	_
+3	25	25	x	xn	_	4	_	_	_
+4	latus	lats	n	n_mpa_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Marija	Marija	n	n_fsn_	_	2	_	_	_
+2	neticēja	neticēt	v	vm_is__30__	_	5	_	_	_
+3	savām	sava	p	p_0fpd_	_	4	_	_	_
+4	ausīm	auss	n	n_fpd_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Dienas	diena	n	n_fsg_	_	3	_	_	_
+2	otrā	otra	m	m__fsl_	_	3	_	_	_
+3	pusē	puse	n	n_fsl_	_	13	_	_	_
+4	viņi	viņš	p	p_3mpn_	_	5	_	_	_
+5	abi	abi	p	p_0mpn_	_	6	_	_	_
+6	posās	posties	v	vm_is__30__	_	13	_	_	_
+7	uz	uz	s	spsay	_	6	_	_	_
+8	Lieldienu	Lieldienas	n	n_fdg_	_	9	_	_	_
+9	izrādi	izrāde	n	n_fsa_	_	7	_	_	_
+10	pagasta	pagasts	n	n_msg_	_	11	_	_	_
+11	mājas	māja	n	n_fsg_	_	12	_	_	_
+12	pagalmā	pagalms	n	n_msl_	_	9	_	_	_
+13	.	.	z	zs	_	0	_	_	_
+
+1	Katru	katrs	p	p_0msa_	_	2	_	_	_
+2	gadu	gads	n	n_msa_	_	9	_	_	_
+3	dēls	dēls	n	n_msn_	_	5	_	_	_
+4	tajā	tā	p	p_3fsl_	_	5	_	_	_
+5	spēlēja	spēlēt	v	vm_is__30__	_	9	_	_	_
+6	ermoņikas	ermoņikas	n	n_fda_	_	7	_	_	_
+7	un	un	c	cc_	_	5	_	_	_
+8	garmošku	garmoška	n	n_fsa_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Katru	katrs	p	p_0msa_	_	2	_	_	_
+2	gadu	gads	n	n_msa_	_	11	_	_	_
+3	Marija	Marija	n	n_fsn_	_	4	_	_	_
+4	gāja	iet	v	vm_is__30__	_	11	_	_	_
+5	līdzi	līdzi	r	rr_	_	4	_	_	_
+6	ar	ar	s	sppdn	_	4	_	_	_
+7	cerībām	cerība	n	n_fpd_	_	6	_	_	_
+8	atrast	atrast	v	vm_n0__00__	_	7	_	_	_
+9	dēlam	dēls	n	n_msd_	_	8	_	_	_
+10	sievu	sieva	n	n_fsa_	_	8	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Sievišķi	sievišķis	n	n_mpn_	_	4	_	_	_
+2	no	no	s	spsgy	_	4	_	_	_
+3	viņa	viņš	p	p_3msg_	_	2	_	_	_
+4	vairījās	vairīties	v	vm_is__30__	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	viņš	viņš	p	p_3msn_	_	3	_	_	_
+3	vairījās	vairīties	v	vm_is__30__	_	1	_	_	_
+4	no	no	s	sppdy	_	3	_	_	_
+5	viņām	viņa	p	p_3fpd_	_	4	_	_	_
+6	.	.	z	zs	_	1	_	_	_
+
+1	Sunītis	sunītis	n	n_msn_	_	2	_	_	_
+2	snauž	snaust	v	vm_ip__30__	_	6	_	_	_
+3	pie	pie	s	spsgy	_	2	_	_	_
+4	dēla	dēls	n	n_msg_	_	5	_	_	_
+5	krūts	krūts	n	n_fsg_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Pagasta	pagasts	n	n_msg_	_	2	_	_	_
+2	mājas	māja	n	n_fsg_	_	3	_	_	_
+3	pagalmā	pagalms	n	n_msl_	_	4	_	_	_
+4	valda	valdīt	v	vm_ip__30__	_	8	_	_	_
+5	priekšdarbi	priekšdarbi	n	n_mpn_	_	6	_	_	_
+6	un	un	c	cc_	_	4	_	_	_
+7	jukas	jukas	n	n_fpn_	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Galvenās	galvena	a	a_fsg__	_	2	_	_	_
+2	lomas	loma	n	n_fsg_	_	3	_	_	_
+3	attēlotājs	attēlotājs	n	n_msn_	_	4	_	_	_
+4	saslimis	saslimt	v	vm_pdmsn_s_	_	5	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Režisorīte	režisorīte	n	n_fsn_	_	2	_	_	_
+2	skraida	skraidīt	v	vm_ip__30__	_	5	_	_	_
+3	kā	kā	c	cs_	_	2	_	_	_
+4	sasvilusi	sasvilt	v	vm_pdfsn_s_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	2	_	_	_
+2	atceras	atcerēties	v	vm_ip__30__	_	16	_	_	_
+3	savu	sava	p	p_0fsa_	_	4	_	_	_
+4	pazušanu	pazušana	n	n_fsa_	_	2	_	_	_
+5	pūlī	pūlis	n	n_msl_	_	4	_	_	_
+6	ar	ar	s	sppdn	_	2	_	_	_
+7	vēja	vējš	n	n_msg_	_	8	_	_	_
+8	zušiem	zutis	n	n_mpd_	_	11	_	_	_
+9	vienā	viena	m	m__fsl_	_	10	_	_	_
+10	rokā	roka	n	n_fsl_	_	8	_	_	_
+11	un	un	c	cc_	_	6	_	_	_
+12	dēlu	dēls	n	n_msa_	_	11	_	_	_
+13	pie	pie	s	spsgy	_	12	_	_	_
+14	otras	otra	m	m__fsg_	_	15	_	_	_
+15	rokas	roka	n	n_fsg_	_	13	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	ņemšot	ņemt	v	vm_rf__00__	_	5	_	_	_
+2	Sunīti	sunītis	n	n_msa_	_	1	_	_	_
+3	līdzi	līdzi	r	rr_	_	1	_	_	_
+4	viņš	viņš	p	p_3msn_	_	1	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Lai	lai	q	q_	_	3	_	_	_
+2	Marija	Marija	n	n_fsn_	_	3	_	_	_
+3	dara	darīt	v	vm_ip__30__	_	6	_	_	_
+4	savus	savs	p	p_0mpa_	_	5	_	_	_
+5	darbus	darbs	n	n_mpa_	_	3	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Un	un	c	cc_	_	0	_	_	_
+2	tepat	tepat	r	r__	_	11	_	_	_
+3	viņas	viņas	p	p_3fsg_	_	4	_	_	_
+4	acu	acs	n	n_fpg_	_	5	_	_	_
+5	priekšā	priekša	n	n_fsl_	_	11	_	_	_
+6	apaļajā	apaļa	a	a_fsl__	_	7	_	_	_
+7	gultā	gulta	n	n_fsl_	_	11	_	_	_
+8	kā	kā	c	cs_	_	7	_	_	_
+9	lietus	lietus	n	n_msg_	_	10	_	_	_
+10	pile	pile	n	n_fsn_	_	8	_	_	_
+11	gulēja	gulēt	v	vm_is__30__	_	1	_	_	_
+12	Augustīns	Augustīns	n	n_msn_	_	11	_	_	_
+13	.	.	z	zs	_	1	_	_	_
+
+1	Bija	būt	v	vc_is__30__	_	10	_	_	_
+2	tik	tik	r	r__	_	3	_	_	_
+3	labi	labi	r	r__	_	1	_	_	_
+4	redzēt	redzēt	v	vm_n0__00__	_	1	_	_	_
+5	sevi	sevis	p	p_000a_	_	6	_	_	_
+6	un	un	c	cc_	_	4	_	_	_
+7	Augustīnu	Augustīns	n	n_msa_	_	6	_	_	_
+8	apaļajā	apaļa	a	a_fsl__	_	9	_	_	_
+9	gultā	gulta	n	n_fsl_	_	4	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Tagad	tagad	r	r__	_	11	_	_	_
+2	Terēze	Terēze	n	n_fsn_	_	3	_	_	_
+3	varēja	varēt	v	vo_is__30__	_	11	_	_	_
+4	pieskarties	pieskarties	v	vm_n0__00__	_	6	_	_	_
+5	Augustīnam	Augustīns	n	n_msd_	_	4	_	_	_
+6	un	un	c	cc_	_	3	_	_	_
+7	sakārtot	sakārtot	v	vm_n0__00__	_	6	_	_	_
+8	savas	savas	p	p_0fpa_	_	9	_	_	_
+9	domas	doma	n	n_fpa_	_	7	_	_	_
+10	stāstīšanai	stāstīšana	n	n_fsd_	_	9	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Es	es	p	p_10sn_	_	5	_	_	_
+2	stāvēju	stāvēt	v	vm_is__1s__	_	5	_	_	_
+3	uz	uz	s	spsgy	_	2	_	_	_
+4	sliekšņa	slieksnis	n	n_msg_	_	3	_	_	_
+5	un	un	c	cc_	_	9	_	_	_
+6	vēroju	vērot	v	vm_is__1s__	_	5	_	_	_
+7	šo	šis	p	p_3msa_	_	8	_	_	_
+8	iztvīkumu	iztvīkums	n	n_msa_	_	6	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	bija	būt	v	vc_is__30__	_	1	_	_	_
+3	bail	bail	r	r__	_	2	_	_	_
+4	jaukt	jaukt	v	vm_n0__00__	_	2	_	_	_
+5	tik	tik	r	r__	_	6	_	_	_
+6	saspringtu	saspringt	v	vm_pdmsa_s_	_	8	_	_	_
+7	nepiepildītības	nepiepildītība	n	n_fsg_	_	8	_	_	_
+8	brīdi	brīdis	n	n_msa_	_	4	_	_	_
+9	.	.	z	zs	_	1	_	_	_
+
+1	Mazas	maza	a	a_fpn__	_	3	_	_	_
+2	ūdens	ūdens	n	n_msg_	_	3	_	_	_
+3	piles	pile	n	n_fpn_	_	4	_	_	_
+4	drebēja	drebēt	v	vm_is__30__	_	10	_	_	_
+5	uz	uz	s	spsgy	_	4	_	_	_
+6	viņas	viņas	p	p_3fsg_	_	9	_	_	_
+7	sausās	sausa	a	a_fsg__	_	9	_	_	_
+8	karstās	karsta	a	a_fsg__	_	9	_	_	_
+9	ādas	āda	n	n_fsg_	_	5	_	_	_
+10	.	.	z	zs	_	0	_	_	_
+
+1	Sieviete	sieviete	n	n_fsn_	_	3	_	_	_
+2	attapās	attapties	v	vm_is__30__	_	3	_	_	_
+3	un	un	c	cc_	_	9	_	_	_
+4	uzlūkoja	uzlūkot	v	vm_is__30__	_	3	_	_	_
+5	mani	es	p	p_10sa_	_	4	_	_	_
+6	pateicības	pateicība	n	n_fsg_	_	7	_	_	_
+7	skumjām	skumjas	n	n_fpd_	_	4	_	_	_
+8	acīs	acs	n	n_fpl_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Bet	bet	c	cc_	_	0	_	_	_
+2	patiesībā	patiesība	n	n_fsl_	_	1	_	_	_
+3	tur	tur	r	r__	_	4	_	_	_
+4	bija	būt	v	vm_is__30__	_	1	_	_	_
+5	tūkstoškārt	tūkstoškārt	r	r__	_	6	_	_	_
+6	vairāk	daudz	r	r__	_	8	_	_	_
+7	krāsainu	krāsaina	a	a_fpg__	_	8	_	_	_
+8	drazu	drazas	n	n_fpg_	_	4	_	_	_
+9	.	.	z	zs	_	1	_	_	_
+
+1	Viņš	viņš	p	p_3msn_	_	2	_	_	_
+2	neredzēja	neredzēt	v	vm_is__30__	_	4	_	_	_
+3	Sievieti	sieviete	n	n_fsa_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Kļuva	kļūt	v	vt_is__30__	_	6	_	_	_
+2	aizvien	aizvien	r	r__	_	4	_	_	_
+3	siltāk	silti	r	r__	_	4	_	_	_
+4	un	un	c	cc_	_	1	_	_	_
+5	tīkamāk	tīkami	r	r__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Ēdenes	Ēdene	n	n_fsg_	_	3	_	_	_
+2	kreppapīra	kreppapīrs	n	n_msg_	_	3	_	_	_
+3	eņģelis	eņģelis	n	n_msn_	_	7	_	_	_
+4	aizdomīgi	aizdomīgi	r	r__	_	5	_	_	_
+5	noskatīja	noskatīt	v	vm_is__30__	_	7	_	_	_
+6	Miu	Mia	n	n_fsa_	_	5	_	_	_
+7	un	un	c	cc_	_	16	_	_	_
+8	ar	ar	s	spsan	_	11	_	_	_
+9	trenētu	trenēt	v	vm_pdfsa_s_	_	10	_	_	_
+10	kustību	kustība	n	n_fsa_	_	8	_	_	_
+11	uzšķīra	uzšķirt	v	vm_is__30__	_	7	_	_	_
+12	vajadzīgo	vajadzīga	a	a_fsa__	_	13	_	_	_
+13	vietu	vieta	n	n_fsa_	_	11	_	_	_
+14	mātes	māte	n	n_fsg_	_	15	_	_	_
+15	pasē	pase	n	n_fsl_	_	13	_	_	_
+16	.	.	z	zs	_	0	_	_	_
+
+1	Māte	māte	n	n_fsn_	_	3	_	_	_
+2	bezpalīdzīgi	bezpalīdzīgi	r	r__	_	3	_	_	_
+3	paraudzījās	paraudzīties	v	vm_is__30__	_	5	_	_	_
+4	Miā	Mia	n	n_fsl_	_	3	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Kreppapīra	kreppapīrs	n	n_msg_	_	2	_	_	_
+2	eņģelim	eņģelis	n	n_msd_	_	8	_	_	_
+3	aiz	aiz	s	sppdy	_	5	_	_	_
+4	dusmām	dusmas	n	n_fpd_	_	3	_	_	_
+5	sārtojās	sārtoties	v	vm_is__30__	_	8	_	_	_
+6	ausu	auss	n	n_fpg_	_	7	_	_	_
+7	gali	gals	n	n_mpn_	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Mia	Mia	n	n_fsn_	_	2	_	_	_
+2	paspieda	paspiest	v	vm_is__30__	_	5	_	_	_
+3	mātei	māte	n	n_fsd_	_	2	_	_	_
+4	roku	roka	n	n_fsa_	_	2	_	_	_
+5	.	.	z	zs	_	0	_	_	_
+
+1	Nesaprātīga	nesaprātīga	a	a_fsn__	_	2	_	_	_
+2	jautrība	jautrība	n	n_fsn_	_	3	_	_	_
+3	mijās	mīties	v	vm_is__30__	_	7	_	_	_
+4	ar	ar	s	spsan	_	3	_	_	_
+5	stindzinošu	stindzināt	v	vm_pdfsa_p_	_	6	_	_	_
+6	apātiju	apātija	n	n_fsa_	_	4	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Viņas	viņa	p	p_3fpn_	_	2	_	_	_
+2	atsēdās	atsēsties	v	vm_is__30__	_	7	_	_	_
+3	uz	uz	s	spsgy	_	2	_	_	_
+4	kāda	kāds	p	p_0msg_	_	6	_	_	_
+5	nomaļa	nomaļš	a	a_msg__	_	6	_	_	_
+6	soliņa	soliņš	n	n_msg_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Pūkas	pūka	n	n_fpn_	_	2	_	_	_
+2	krita	krist	v	vm_is__30__	_	4	_	_	_
+3	klēpī	klēpis	n	n_msl_	_	2	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Mia	Mia	n	n_fsn_	_	7	_	_	_
+2	izņēma	izņemt	v	vm_is__30__	_	7	_	_	_
+3	no	no	s	spsgy	_	2	_	_	_
+4	somas	soma	n	n_fsg_	_	3	_	_	_
+5	cigarešu	cigarete	n	n_fpg_	_	6	_	_	_
+6	paciņas	paciņa	n	n_fpa_	_	2	_	_	_
+7	un	un	c	cc_	_	14	_	_	_
+8	sakrāva	sakraut	v	vm_is__30__	_	7	_	_	_
+9	glītā	glīta	a	a_fsl__	_	10	_	_	_
+10	kaudzītē	kaudzīte	n	n_fsl_	_	8	_	_	_
+11	mātei	māte	n	n_fsd_	_	12	_	_	_
+12	pie	pie	s	spsgy	_	8	_	_	_
+13	sāna	sāns	n	n_msg_	_	12	_	_	_
+14	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	4	_	_	_
+2	parakņājās	parakņāties	v	vm_is__30__	_	4	_	_	_
+3	somā	soma	n	n_fsl_	_	2	_	_	_
+4	un	un	c	cc_	_	11	_	_	_
+5	atrada	atrast	v	vm_is__30__	_	4	_	_	_
+6	plastmasas	plastmasa	n	n_fsg_	_	7	_	_	_
+7	pudelīti	pudelīte	n	n_fsa_	_	5	_	_	_
+8	ar	ar	s	sppdn	_	7	_	_	_
+9	pretsāpju	pretsāpju	n	n_fds_	_	10	_	_	_
+10	tabletēm	tablete	n	n_fpd_	_	8	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Mātes	māte	n	n_fsg_	_	3	_	_	_
+2	acu	acs	n	n_fpg_	_	3	_	_	_
+3	skats	skats	n	n_msn_	_	4	_	_	_
+4	saspringa	saspringt	v	vm_is__30__	_	8	_	_	_
+5	Mias	Mia	n	n_fsg_	_	7	_	_	_
+6	roku	roka	n	n_fpg_	_	7	_	_	_
+7	virzienā	virziens	n	n_msl_	_	4	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Tad	tad	r	r__	_	3	_	_	_
+2	viņa	viņa	p	p_3fsn_	_	3	_	_	_
+3	sniedza	sniegt	v	vm_is__30__	_	7	_	_	_
+4	pilno	pilna	a	a_fsa__	_	5	_	_	_
+5	pudelīti	pudelīte	n	n_fsa_	_	3	_	_	_
+6	mātei	māte	n	n_fsd_	_	3	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Šādās	šāda	p	p_0fpl_	_	2	_	_	_
+2	reizēs	reize	n	n_fpl_	_	9	_	_	_
+3	Mia	Mia	n	n_fsn_	_	7	_	_	_
+4	jau	jau	r	r__	_	7	_	_	_
+5	sen	sen	r	r__	_	7	_	_	_
+6	vairs	vairs	r	r__	_	7	_	_	_
+7	nejuta	nejust	v	vm_is__30__	_	9	_	_	_
+8	nožēlu	nožēla	n	n_fsa_	_	7	_	_	_
+9	.	.	z	zs	_	0	_	_	_
+
+1	Drīz	drīz	r	r__	_	3	_	_	_
+2	viņas	viņa	p	p_3fpn_	_	3	_	_	_
+3	atvadījās	atvadīties	v	vm_is__30__	_	4	_	_	_
+4	.	.	z	zs	_	0	_	_	_
+
+1	Mia	Mia	n	n_fsn_	_	2	_	_	_
+2	noskūpstīja	noskūpstīt	v	vm_is__30__	_	8	_	_	_
+3	māti	māte	n	n_fsa_	_	2	_	_	_
+4	uz	uz	s	spsgy	_	2	_	_	_
+5	vaiga	vaigs	n	n_msg_	_	4	_	_	_
+6	pie	pie	s	spsgy	_	2	_	_	_
+7	auss	auss	n	n_fsg_	_	6	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	6	_	_	_
+2	notrauc	notraukt	v	vm_ip__30__	_	6	_	_	_
+3	drazas	drazas	n	n_fda_	_	2	_	_	_
+4	no	no	s	spsgy	_	2	_	_	_
+5	palodzes	palodze	n	n_fsg_	_	4	_	_	_
+6	un	un	c	cc_	_	11	_	_	_
+7	plaši	plaši	r	r__	_	8	_	_	_
+8	atver	atvērt	v	vm_ip__30__	_	6	_	_	_
+9	abus	abi	p	p_0mpa_	_	10	_	_	_
+10	logus	logs	n	n_mpa_	_	8	_	_	_
+11	.	.	z	zs	_	0	_	_	_
+
+1	Mia	Mia	n	n_fsn_	_	5	_	_	_
+2	izliecas	izliekties	v	vm_ip__30__	_	5	_	_	_
+3	pa	pa	s	spsay	_	2	_	_	_
+4	logu	logs	n	n_msa_	_	3	_	_	_
+5	un	un	c	cc_	_	8	_	_	_
+6	dziļi	dziļi	r	r__	_	7	_	_	_
+7	elpo	elpot	v	vm_ip__30__	_	5	_	_	_
+8	.	.	z	zs	_	0	_	_	_
+
+1	Kreisajos	kreiss	a	a_mpl__	_	2	_	_	_
+2	deniņos	deniņos	n	n_mdl_	_	7	_	_	_
+3	kaut	kaut	q	q_	_	4	_	_	_
+4	kāda	kāda	p	p_0fsn_	_	6	_	_	_
+5	dīvaina	dīvaina	a	a_fsn__	_	6	_	_	_
+6	pulsēšana	pulsēšana	n	n_fsn_	_	7	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	It_kā	it_kā	q	q_	_	7	_	_	_
+2	sāpīgi	sāpīgi	r	r__	_	3	_	_	_
+3	viļņi	vilnis	n	n_mpn_	_	4	_	_	_
+4	sistos	sisties	v	vm_c0__00__	_	7	_	_	_
+5	pret	pret	s	spsay	_	4	_	_	_
+6	krastu	krasts	n	n_msa_	_	5	_	_	_
+7	.	.	z	zs	_	0	_	_	_
+
+1	Viņa	viņa	p	p_3fsn_	_	3	_	_	_
+2	saņemas	saņemties	v	vm_ip__30__	_	3	_	_	_
+3	un	un	c	cc_	_	6	_	_	_
+4	sāk	sākt	v	vp_ip__30__	_	3	_	_	_
+5	uzkopt	uzkopt	v	vm_n0__00__	_	4	_	_	_
+6	.	.	z	zs	_	0	_	_	_
+
+1	Otrajā	otrā	m	m__fsl_	_	3	_	_	_
+2	apciemojuma	apciemojums	n	n_msg_	_	3	_	_	_
+3	reizē	reize	n	n_fsl_	_	8	_	_	_
+4	Miu	Mia	n	n_fsa_	_	8	_	_	_
+5	jau	jau	r	r__	_	8	_	_	_
+6	pie	pie	s	sppdy	_	8	_	_	_
+7	vārtiņiem	vārtiņš	n	n_mpd_	_	6	_	_	_
+8	izbrīnīja	izbrīnīt	v	vm_is__30__	_	13	_	_	_
+9	neierastais	neierasts	a	a_msn__	_	10	_	_	_
+10	tukšums	tukšums	n	n_msn_	_	8	_	_	_
+11	slimnīcas	slimnīca	n	n_fsg_	_	12	_	_	_
+12	dārzā	dārzs	n	n_msl_	_	10	_	_	_
+13	.	.	z	zs	_	0	_	_	_

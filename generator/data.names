@@ -1,0 +1,6 @@
+SHIFT, REDUCE, LEFT ARC, RIGHT ARC.
+
+Stack: discrete 1000000.
+Buffer: discrete 1000000.
+stackTopHasArc: true, false.
+bufferNextHasArc: true, false.
