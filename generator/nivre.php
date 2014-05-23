@@ -1,9 +1,7 @@
 <?php
 header('Content-Type: text/html; charset=utf8');
-set_time_limit(0);
-ini_set('memory_limit','2048M');
-$start_time = MICROTIME(TRUE);
 
+//ievaddati
 $file = fopen("test.conll", "r"); 
 $stacks = $buffers = $arcsz = array();
 
@@ -135,8 +133,3 @@ function nivre($stack, $buffer, $arcs, $moves){
 		}
 	}
 }
-
-echo "Final: ".memory_get_usage()." bytes <br/>";
-echo "Peak: ".memory_get_peak_usage()." bytes <br/>";
-$stop_time = MICROTIME(TRUE);$time = $stop_time - $start_time;
-echo "Elapsed time was $time seconds.<br/>";

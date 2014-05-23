@@ -1,5 +1,4 @@
 <?php
-error_reporting(E_ALL);
 include_once('nivre.php');
 
 	$move_values = array(
@@ -10,7 +9,7 @@ include_once('nivre.php');
 	$move_AttrList = array('stack','buffer','arcs');
 	$move_class = array("SHIFT","REDUCE","LEFT ARC","RIGHT ARC");
 
-	//manam variantam
+	//priekš C5 sintaktiskā analizatora, koka lēmumu ģenerēšanai
 	$toFile = "var examples = [
 ";
 
@@ -28,7 +27,7 @@ include_once('nivre.php');
 		$file = 'data.js';
 		file_put_contents($file, $toFile);
 	
-	//oriģinālajam C5
+	//priekš oriģinālās C5 programmas
 	$toFile = "";
 		$n = 1;
 		$c = count($move_instances);
