@@ -1,8 +1,9 @@
 <?php
 header('Content-Type: text/html; charset=utf8');
+set_time_limit(0);
 
 //ievaddati
-$file = fopen("test.conll", "r"); 
+$file = fopen("conll/test.conll", "r"); 
 $stacks = $buffers = $arcsz = array();
 
 while (!feof($file)) {

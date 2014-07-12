@@ -24,7 +24,7 @@ include_once('nivre.php');
 		$toFile .= "examples = _(examples);\n";
 		$toFile .= "var features = ['stack','buffer','stackTopHasArc','bufferNextHasArc'];\n";
 		
-		$file = 'data.js';
+		$file = 'results/data.js';
 		file_put_contents($file, $toFile);
 	
 	//priekš oriģinālās C5 programmas
@@ -36,7 +36,7 @@ include_once('nivre.php');
 			if($n<$c){$n++;$toFile .= "\n";}
 		}
 		
-		$file = 'data.data';
+		$file = 'results/data.data';
 		file_put_contents($file, $toFile);
 		
 		
@@ -47,6 +47,6 @@ include_once('nivre.php');
 		$namesFile .= "bufferNextHasArc: true, false.\n";
 
 
-		$namesFilefile = 'data.names';
+		$namesFilefile = 'results/data.names';
 		file_put_contents($namesFilefile, $namesFile);
 	
