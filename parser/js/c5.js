@@ -25,6 +25,7 @@ var c5 = function(_s,target,features){
 }
 
 var predict = function(c5Model,sample) {
+	console.log(JSON.stringify(c5Model));
     var root = c5Model;
     while(root.type != "result"){
 		var attr = root.name;
@@ -35,7 +36,6 @@ var predict = function(c5Model,sample) {
 		// console.log(childNode.child.type);
 		root = childNode.child;
     }
-	console.log(JSON.stringify(c5Model));
 	// console.log(JSON.stringify(sample));
 	// console.log(root.val);
     return root.val;

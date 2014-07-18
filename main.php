@@ -14,7 +14,7 @@
 	<script type="text/javascript" src="includes/d3.min.js"></script>
     <script type="text/javascript" src="includes/c5.js"></script>
 	<script type='text/javascript' src='includes/jsapi.js'></script>
-    <script type="text/javascript" src="generator/data.js"></script>
+    <script type="text/javascript" src="generator/results/data.js"></script>
 	<script type="text/javascript">
 	var model;
 	function myFunction(){

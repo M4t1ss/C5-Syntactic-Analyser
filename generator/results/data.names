@@ -1,6 +1,25 @@
 SHIFT, REDUCE, LEFT ARC, RIGHT ARC.
 
-Stack: discrete 1000000.
-Buffer: discrete 1000000.
+s0: discrete 1000000.
+s1: discrete 1000000.
+s2: discrete 1000000.
+s3: discrete 1000000.
+s4: discrete 1000000.
+s5: discrete 1000000.
+s6: discrete 1000000.
+s7: discrete 1000000.
+s8: discrete 1000000.
+s9: discrete 1000000.
+s10: discrete 1000000.
+b0: discrete 1000000.
+b1: discrete 1000000.
+b2: discrete 1000000.
+b3: discrete 1000000.
+b4: discrete 1000000.
+b5: discrete 1000000.
+b6: discrete 1000000.
+b7: discrete 1000000.
+b8: discrete 1000000.
+b9: discrete 1000000.
+b10: discrete 1000000.
 stackTopHasArc: true, false.
-bufferNextHasArc: true, false.
